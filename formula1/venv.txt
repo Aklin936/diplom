@@ -1,0 +1,3 @@
+cd /home/nil/Documents/venvs/
+source firstformula/bin/activate
+cd /media/nil/Files/F/VMK/8sem/Diplom/formula1/
