@@ -1,0 +1,4206 @@
+CellSize_X = 0.126667 
+CellSize_Y = 0.104819 
+CellSize_Z = 0.014634 
+anode in = 0.160976
+START n1Grid div = 0.000005521320998
+START nGrid div = 0.000005521320998
+AverageCurrentDensity 5 = -198362.4405194669
+AverageCurrentDensity 10= -198362.4449663532
+x = 0.3730211011 y = -0.0000004997 z = -0.0000105233
+check pressure schame = 0.00107069114960309090
+N 0 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 0 time step complete Predic Max div(alpha * v) = 0.000011692585835
+check pressure schame = 0.00221237853664368357
+N 0 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 0 time step complete Correc Max div(alpha * v) = 0.000011398925549
+N 0 time step complete 1 - Alpha = 0.000000027606605
+N 0 time step complete max VxH = 0.000000000000000
+N 0 time step complete, time: 0.000000
+N 0 time MPR 0.231349
+N 0 time Gas 0.570731
+Solve Alpha Time = 0.010487
+Solve El Dyn Time = 26.728048
+Solve Press Time = 28.371202
+Solve NS Time = 0.167318
+Solve Step Time = 56.085385
+Averege Solve Step Time = inf
+
+AverageCurrentDensity 5 = -198363.7468634585
+AverageCurrentDensity 10= -198363.7522535629
+x = 0.4119659732 y = 0.0000000878 z = -0.0000105087
+check pressure schame = 0.00028063166319078001
+N 1 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 1 time step complete Predic Max div(alpha * v) = 0.000003463932838
+check pressure schame = 0.00052920903435255302
+N 1 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 1 time step complete Correc Max div(alpha * v) = 0.000002937654076
+N 1 time step complete 1 - Alpha = 0.000000035508010
+N 1 time step complete max VxH = 0.000000000000000
+N 1 time step complete, time: 0.005000
+N 1 time MPR 0.231349
+N 1 time Gas 0.570731
+Solve Alpha Time = 0.011647
+Solve El Dyn Time = 11.460388
+Solve Press Time = 16.966254
+Solve NS Time = 0.167533
+Solve Step Time = 29.480914
+Averege Solve Step Time = 113.296056
+
+AverageCurrentDensity 5 = -198370.8982595803
+AverageCurrentDensity 10= -198370.8963548316
+x = 0.5281745180 y = 0.0000005827 z = -0.0000103605
+check pressure schame = 0.00002315467625042052
+N 2 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 2 time step complete Predic Max div(alpha * v) = 0.000000254258899
+check pressure schame = 0.00003940693379228207
+N 2 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 2 time step complete Correc Max div(alpha * v) = 0.000000297674284
+N 2 time step complete 1 - Alpha = 0.000000048167852
+N 2 time step complete max VxH = 0.000000000000000
+N 2 time step complete, time: 0.010000
+N 2 time MPR 0.231348
+N 2 time Gas 0.570731
+Solve Alpha Time = 0.011211
+Solve El Dyn Time = 13.051180
+Solve Press Time = 22.211376
+Solve NS Time = 0.189111
+Solve Step Time = 36.255779
+Averege Solve Step Time = 74.775922
+
+AverageCurrentDensity 5 = -198370.8733008693
+AverageCurrentDensity 10= -198370.8783201799
+x = 0.5379044427 y = 0.0000002218 z = 0.0000034743
+check pressure schame = 0.00003305204068899741
+N 3 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 3 time step complete Predic Max div(alpha * v) = 0.000000360998118
+check pressure schame = 0.00000809720381722556
+N 3 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 3 time step complete Correc Max div(alpha * v) = 0.000000045219839
+N 3 time step complete 1 - Alpha = 0.000000047059636
+N 3 time step complete max VxH = 0.000000000000000
+N 3 time step complete, time: 0.015000
+N 3 time MPR 0.231348
+N 3 time Gas 0.570731
+Solve Alpha Time = 0.011054
+Solve El Dyn Time = 8.624917
+Solve Press Time = 26.689194
+Solve NS Time = 0.169651
+Solve Step Time = 36.277895
+Averege Solve Step Time = 61.943250
+
+AverageCurrentDensity 5 = -198370.8732707132
+AverageCurrentDensity 10= -198370.8782702402
+x = 0.5606539112 y = 0.0000001745 z = 0.0000009530
+check pressure schame = 0.00000497125775894558
+N 4 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 4 time step complete Predic Max div(alpha * v) = 0.000000053508212
+check pressure schame = 0.00000673675128848306
+N 4 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 4 time step complete Correc Max div(alpha * v) = 0.000000048755107
+N 4 time step complete 1 - Alpha = 0.000000046844916
+N 4 time step complete max VxH = 0.000000000000000
+N 4 time step complete, time: 0.020000
+N 4 time MPR 0.231347
+N 4 time Gas 0.570731
+Solve Alpha Time = 0.011685
+Solve El Dyn Time = 8.594510
+Solve Press Time = 10.370416
+Solve NS Time = 0.170997
+Solve Step Time = 19.953228
+Averege Solve Step Time = 51.445747
+
+AverageCurrentDensity 5 = -198370.8903925760
+AverageCurrentDensity 10= -198370.8954235313
+x = 0.6564106004 y = 0.0000003338 z = -0.0000013138
+check pressure schame = 0.00000152289981595038
+N 5 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 5 time step complete Predic Max div(alpha * v) = 0.000000017096577
+check pressure schame = -0.00000050261893880916
+N 5 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 5 time step complete Correc Max div(alpha * v) = 0.000000007611205
+N 5 time step complete 1 - Alpha = 0.000000047066139
+N 5 time step complete max VxH = 0.000000000000000
+N 5 time step complete, time: 0.025000
+N 5 time MPR 0.231346
+N 5 time Gas 0.570731
+Solve Alpha Time = 0.013795
+Solve El Dyn Time = 9.021381
+Solve Press Time = 18.354353
+Solve NS Time = 0.167580
+Solve Step Time = 28.338049
+Averege Solve Step Time = 46.824209
+
+AverageCurrentDensity 5 = -198370.9261828391
+AverageCurrentDensity 10= -198370.9312284975
+x = 0.6464960841 y = 0.0000002145 z = -0.0000038486
+check pressure schame = 0.00000021285731292148
+N 6 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 6 time step complete Predic Max div(alpha * v) = 0.000000002228079
+check pressure schame = 0.00000033987919128772
+N 6 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 6 time step complete Correc Max div(alpha * v) = 0.000000002059891
+N 6 time step complete 1 - Alpha = 0.000000047087556
+N 6 time step complete max VxH = 0.000000000000000
+N 6 time step complete, time: 0.030000
+N 6 time MPR 0.231345
+N 6 time Gas 0.570731
+Solve Alpha Time = 0.011050
+Solve El Dyn Time = 8.850368
+Solve Press Time = 21.387498
+Solve NS Time = 0.169025
+Solve Step Time = 31.209720
+Averege Solve Step Time = 44.221795
+
+AverageCurrentDensity 5 = -198370.9817509323
+AverageCurrentDensity 10= -198370.9868198924
+x = 0.6758318274 y = 0.0000003126 z = -0.0000059562
+check pressure schame = 0.00000003222728061671
+N 7 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 7 time step complete Predic Max div(alpha * v) = 0.000000000289484
+check pressure schame = 0.00000003644280508722
+N 7 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 7 time step complete Correc Max div(alpha * v) = 0.000000000221870
+N 7 time step complete 1 - Alpha = 0.000000047069971
+N 7 time step complete max VxH = 0.000000000000000
+N 7 time step complete, time: 0.035000
+N 7 time MPR 0.231344
+N 7 time Gas 0.570731
+Solve Alpha Time = 0.013300
+Solve El Dyn Time = 9.137171
+Solve Press Time = 28.440263
+Solve NS Time = 0.171365
+Solve Step Time = 38.552527
+Averege Solve Step Time = 43.411901
+
+AverageCurrentDensity 5 = -198371.0580653917
+AverageCurrentDensity 10= -198371.0631592293
+x = 0.6785728457 y = 0.0000003261 z = -0.0000074309
+check pressure schame = 0.00000002489047270723
+N 8 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 8 time step complete Predic Max div(alpha * v) = 0.000000000329016
+check pressure schame = 0.00000001816940125481
+N 8 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 8 time step complete Correc Max div(alpha * v) = 0.000000000167256
+N 8 time step complete 1 - Alpha = 0.000000047060128
+N 8 time step complete max VxH = 0.000000000000000
+N 8 time step complete, time: 0.040000
+N 8 time MPR 0.231343
+N 8 time Gas 0.570731
+Solve Alpha Time = 0.011181
+Solve El Dyn Time = 9.361078
+Solve Press Time = 19.137219
+Solve NS Time = 0.166740
+Solve Step Time = 29.444681
+Averege Solve Step Time = 41.666000
+
+AverageCurrentDensity 5 = -198371.1560863592
+AverageCurrentDensity 10= -198371.1612094079
+x = 0.6804258589 y = 0.0000002809 z = -0.0000084287
+check pressure schame = 0.00000003555101275692
+N 9 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 9 time step complete Predic Max div(alpha * v) = 0.000000000341304
+check pressure schame = 0.00000002700611061082
+N 9 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 9 time step complete Correc Max div(alpha * v) = 0.000000000148974
+N 9 time step complete 1 - Alpha = 0.000000047051943
+N 9 time step complete max VxH = 0.000000000000000
+N 9 time step complete, time: 0.045000
+N 9 time MPR 0.231340
+N 9 time Gas 0.570731
+Solve Alpha Time = 0.011107
+Solve El Dyn Time = 9.428829
+Solve Press Time = 15.275024
+Solve NS Time = 0.178028
+Solve Step Time = 25.825581
+Averege Solve Step Time = 39.905954
+
+AverageCurrentDensity 5 = -198371.2768580134
+AverageCurrentDensity 10= -198371.2819912426
+x = 0.6915268538 y = 0.0000002868 z = -0.0000090820
+check pressure schame = 0.00000003561047984962
+N 10 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 10 time step complete Predic Max div(alpha * v) = 0.000000000341955
+check pressure schame = 0.00000003066730009434
+N 10 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 10 time step complete Correc Max div(alpha * v) = 0.000000000157961
+N 10 time step complete 1 - Alpha = 0.000000047043673
+N 10 time step complete max VxH = 0.000000000000000
+N 10 time step complete, time: 0.050000
+N 10 time MPR 0.231338
+N 10 time Gas 0.570731
+Solve Alpha Time = 0.011326
+Solve El Dyn Time = 10.152906
+Solve Press Time = 15.332638
+Solve NS Time = 0.168591
+Solve Step Time = 26.481188
+Averege Solve Step Time = 38.563478
+
+AverageCurrentDensity 5 = -198371.4215046611
+AverageCurrentDensity 10= -198371.4266788065
+x = 0.7030984351 y = 0.0000002626 z = -0.0000095423
+check pressure schame = 0.00000003385738010266
+N 11 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 11 time step complete Predic Max div(alpha * v) = 0.000000000340634
+check pressure schame = 0.00000002779733777880
+N 11 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 11 time step complete Correc Max div(alpha * v) = 0.000000000161791
+N 11 time step complete 1 - Alpha = 0.000000047035413
+N 11 time step complete max VxH = 0.000000000000000
+N 11 time step complete, time: 0.055000
+N 11 time MPR 0.231335
+N 11 time Gas 0.570731
+Solve Alpha Time = 0.011094
+Solve El Dyn Time = 9.673740
+Solve Press Time = 13.688246
+Solve NS Time = 0.165972
+Solve Step Time = 24.301457
+Averege Solve Step Time = 37.266932
+
+AverageCurrentDensity 5 = -198370.3159753501
+AverageCurrentDensity 10= -198370.3142003495
+x = 0.7782564024 y = -0.0000008856 z = 0.0000102262
+check pressure schame = 0.00000003193472503560
+N 12 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 12 time step complete Predic Max div(alpha * v) = 0.000000000361699
+check pressure schame = 0.00000003619948175145
+N 12 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 12 time step complete Correc Max div(alpha * v) = 0.000000000203222
+N 12 time step complete 1 - Alpha = 0.000000047027099
+N 12 time step complete max VxH = 0.000000000000000
+N 12 time step complete, time: 0.060000
+N 12 time MPR 0.231333
+N 12 time Gas 0.570731
+Solve Alpha Time = 0.011303
+Solve El Dyn Time = 12.471817
+Solve Press Time = 7.465380
+Solve NS Time = 0.168481
+Solve Step Time = 20.895550
+Averege Solve Step Time = 35.902651
+
+AverageCurrentDensity 5 = -198370.5036147904
+AverageCurrentDensity 10= -198370.5089100790
+x = 0.8009690913 y = 0.0000001595 z = -0.0000099760
+check pressure schame = 0.00000006589797810598
+N 13 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 13 time step complete Predic Max div(alpha * v) = 0.000000000712586
+check pressure schame = 0.00000002911230274297
+N 13 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 13 time step complete Correc Max div(alpha * v) = 0.000000000169124
+N 13 time step complete 1 - Alpha = 0.000000047018835
+N 13 time step complete max VxH = 0.000000000000000
+N 13 time step complete, time: 0.065000
+N 13 time MPR 0.231330
+N 13 time Gas 0.570731
+Solve Alpha Time = 0.012583
+Solve El Dyn Time = 10.048400
+Solve Press Time = 12.079641
+Solve NS Time = 0.169508
+Solve Step Time = 23.092548
+Averege Solve Step Time = 34.917259
+
+AverageCurrentDensity 5 = -198370.7298016068
+AverageCurrentDensity 10= -198370.7312985214
+x = 0.6632895020 y = 0.0000002250 z = -0.0000100842
+check pressure schame = 0.00000004209455960885
+N 14 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 14 time step complete Predic Max div(alpha * v) = 0.000000000450211
+check pressure schame = -0.00000000955081414888
+N 14 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 14 time step complete Correc Max div(alpha * v) = 0.000000000160072
+N 14 time step complete 1 - Alpha = 0.000000047010565
+N 14 time step complete max VxH = 0.000000000000000
+N 14 time step complete, time: 0.070000
+N 14 time MPR 0.231327
+N 14 time Gas 0.570731
+Solve Alpha Time = 0.011352
+Solve El Dyn Time = 9.684598
+Solve Press Time = 11.887484
+Solve NS Time = 0.168667
+Solve Step Time = 22.527920
+Averege Solve Step Time = 34.032307
+
+AverageCurrentDensity 5 = -198370.9759599732
+AverageCurrentDensity 10= -198370.9812292275
+x = 0.6705806020 y = 0.0000003325 z = -0.0000102056
+check pressure schame = 0.00000003726032759416
+N 15 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 15 time step complete Predic Max div(alpha * v) = 0.000000000408840
+check pressure schame = 0.00000003331436413886
+N 15 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 15 time step complete Correc Max div(alpha * v) = 0.000000000187077
+N 15 time step complete 1 - Alpha = 0.000000047002274
+N 15 time step complete max VxH = 0.000000000000000
+N 15 time step complete, time: 0.075000
+N 15 time MPR 0.231324
+N 15 time Gas 0.570731
+Solve Alpha Time = 0.011332
+Solve El Dyn Time = 9.737433
+Solve Press Time = 12.150418
+Solve NS Time = 0.166055
+Solve Step Time = 22.846051
+Averege Solve Step Time = 33.286557
+
+AverageCurrentDensity 5 = -198371.2532922389
+AverageCurrentDensity 10= -198371.2585626035
+x = 0.6675927420 y = 0.0000003597 z = -0.0000102458
+check pressure schame = 0.00000003600877293347
+N 16 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 16 time step complete Predic Max div(alpha * v) = 0.000000000400027
+check pressure schame = 0.00000003316117351722
+N 16 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 16 time step complete Correc Max div(alpha * v) = 0.000000000176414
+N 16 time step complete 1 - Alpha = 0.000000046994128
+N 16 time step complete max VxH = 0.000000000000000
+N 16 time step complete, time: 0.080000
+N 16 time MPR 0.231321
+N 16 time Gas 0.570731
+Solve Alpha Time = 0.015838
+Solve El Dyn Time = 10.412704
+Solve Press Time = 12.898386
+Solve NS Time = 0.182848
+Solve Step Time = 24.314664
+Averege Solve Step Time = 32.725814
+
+AverageCurrentDensity 5 = -198371.5584540749
+AverageCurrentDensity 10= -198371.5637524355
+x = 0.6734670208 y = 0.0000003268 z = -0.0000102878
+check pressure schame = 0.00000005125615194540
+N 17 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 17 time step complete Predic Max div(alpha * v) = 0.000000000464711
+check pressure schame = -0.00000000430073567129
+N 17 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 17 time step complete Correc Max div(alpha * v) = 0.000000000180126
+N 17 time step complete 1 - Alpha = 0.000000046985926
+N 17 time step complete max VxH = 0.000000000000000
+N 17 time step complete, time: 0.085000
+N 17 time MPR 0.231317
+N 17 time Gas 0.570731
+Solve Alpha Time = 0.013566
+Solve El Dyn Time = 10.521376
+Solve Press Time = 13.174254
+Solve NS Time = 0.169153
+Solve Step Time = 24.656868
+Averege Solve Step Time = 32.251171
+
+AverageCurrentDensity 5 = -198371.8919510729
+AverageCurrentDensity 10= -198371.8969585062
+x = 0.6929103020 y = -0.0000003172 z = -0.0000103151
+check pressure schame = 0.00000005567122916784
+N 18 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 18 time step complete Predic Max div(alpha * v) = 0.000000000579737
+check pressure schame = 0.00000002881196718534
+N 18 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 18 time step complete Correc Max div(alpha * v) = 0.000000000150916
+N 18 time step complete 1 - Alpha = 0.000000046977648
+N 18 time step complete max VxH = 0.000000000000000
+N 18 time step complete, time: 0.090000
+N 18 time MPR 0.231313
+N 18 time Gas 0.570731
+Solve Alpha Time = 0.011383
+Solve El Dyn Time = 10.191177
+Solve Press Time = 11.844587
+Solve NS Time = 0.171564
+Solve Step Time = 23.058173
+Averege Solve Step Time = 31.740449
+
+AverageCurrentDensity 5 = -198373.0882351717
+AverageCurrentDensity 10= -198373.0853395848
+x = 1.0043700915 y = -0.0000007048 z = -0.0000104270
+check pressure schame = 0.00000003576855437532
+N 19 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 19 time step complete Predic Max div(alpha * v) = 0.000000000388280
+check pressure schame = 0.00000003177721571990
+N 19 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 19 time step complete Correc Max div(alpha * v) = 0.000000000163981
+N 19 time step complete 1 - Alpha = 0.000000046969212
+N 19 time step complete max VxH = 0.000000000000000
+N 19 time step complete, time: 0.095000
+N 19 time MPR 0.231309
+N 19 time Gas 0.570731
+Solve Alpha Time = 0.011213
+Solve El Dyn Time = 13.677477
+Solve Press Time = 10.912282
+Solve NS Time = 0.166394
+Solve Step Time = 25.556650
+Averege Solve Step Time = 31.414986
+
+AverageCurrentDensity 5 = -198378.7826164335
+AverageCurrentDensity 10= -198378.7798170605
+x = 1.2105228746 y = 0.0000007429 z = -0.0000103131
+check pressure schame = 0.00000003218290225461
+N 20 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 20 time step complete Predic Max div(alpha * v) = 0.000000000311066
+check pressure schame = 0.00000012433529362685
+N 20 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 20 time step complete Correc Max div(alpha * v) = 0.000000000781182
+N 20 time step complete 1 - Alpha = 0.000000046960989
+N 20 time step complete max VxH = 0.000000000000000
+N 20 time step complete, time: 0.100000
+N 20 time MPR 0.231305
+N 20 time Gas 0.570731
+Solve Alpha Time = 0.017703
+Solve El Dyn Time = 14.453869
+Solve Press Time = 20.214985
+Solve NS Time = 0.171543
+Solve Step Time = 35.656882
+Averege Solve Step Time = 31.627082
+
+AverageCurrentDensity 5 = -198384.5775505562
+AverageCurrentDensity 10= -198384.5746731167
+x = 1.1446987495 y = -0.0000002191 z = -0.0000104104
+check pressure schame = 0.00000003492382486263
+N 21 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 21 time step complete Predic Max div(alpha * v) = 0.000000000364608
+check pressure schame = 0.00000031158633338312
+N 21 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 21 time step complete Correc Max div(alpha * v) = 0.000000001728876
+N 21 time step complete 1 - Alpha = 0.000000046955598
+N 21 time step complete max VxH = 0.000000000000000
+N 21 time step complete, time: 0.105000
+N 21 time MPR 0.231301
+N 21 time Gas 0.570731
+Solve Alpha Time = 0.014116
+Solve El Dyn Time = 12.975215
+Solve Press Time = 19.428764
+Solve NS Time = 0.165908
+Solve Step Time = 33.348710
+Averege Solve Step Time = 31.709065
+
+AverageCurrentDensity 5 = -198385.0174279029
+AverageCurrentDensity 10= -198385.0228520950
+x = 1.1367361027 y = 0.0000003568 z = -0.0000104168
+check pressure schame = 0.00000002857155710460
+N 22 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 22 time step complete Predic Max div(alpha * v) = 0.000000000310464
+check pressure schame = 0.00000003126933006276
+N 22 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 22 time step complete Correc Max div(alpha * v) = 0.000000000161009
+N 22 time step complete 1 - Alpha = 0.000000046953606
+N 22 time step complete max VxH = 0.000000000000000
+N 22 time step complete, time: 0.110000
+N 22 time MPR 0.231296
+N 22 time Gas 0.570731
+Solve Alpha Time = 0.011112
+Solve El Dyn Time = 10.204993
+Solve Press Time = 19.420391
+Solve NS Time = 0.165487
+Solve Step Time = 30.566115
+Averege Solve Step Time = 31.657113
+
+AverageCurrentDensity 5 = -198385.4991346879
+AverageCurrentDensity 10= -198385.5045410781
+x = 1.1454088339 y = 0.0000003478 z = -0.0000104577
+check pressure schame = 0.00000003650787481525
+N 23 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 23 time step complete Predic Max div(alpha * v) = 0.000000000327686
+check pressure schame = 0.00000002649480263938
+N 23 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 23 time step complete Correc Max div(alpha * v) = 0.000000000180522
+N 23 time step complete 1 - Alpha = 0.000000046945300
+N 23 time step complete max VxH = 0.000000000000000
+N 23 time step complete, time: 0.115000
+N 23 time MPR 0.231291
+N 23 time Gas 0.570731
+Solve Alpha Time = 0.011102
+Solve El Dyn Time = 10.318115
+Solve Press Time = 12.558286
+Solve NS Time = 0.174736
+Solve Step Time = 23.921411
+Averege Solve Step Time = 31.320779
+
+AverageCurrentDensity 5 = -198386.0117264919
+AverageCurrentDensity 10= -198386.0171370697
+x = 1.1442363970 y = 0.0000004322 z = -0.0000104787
+check pressure schame = 0.00000004806406904770
+N 24 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 24 time step complete Predic Max div(alpha * v) = 0.000000000462712
+check pressure schame = 0.00000003071793599606
+N 24 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 24 time step complete Correc Max div(alpha * v) = 0.000000000158699
+N 24 time step complete 1 - Alpha = 0.000000046936950
+N 24 time step complete max VxH = 0.000000000000000
+N 24 time step complete, time: 0.120000
+N 24 time MPR 0.231286
+N 24 time Gas 0.570731
+Solve Alpha Time = 0.016990
+Solve El Dyn Time = 10.884625
+Solve Press Time = 12.708054
+Solve NS Time = 0.166175
+Solve Step Time = 24.544258
+Averege Solve Step Time = 31.038425
+
+AverageCurrentDensity 5 = -198386.5554943934
+AverageCurrentDensity 10= -198386.5609075481
+x = 1.1416803781 y = 0.0000003723 z = -0.0000104490
+check pressure schame = 0.00000004201605749053
+N 25 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 25 time step complete Predic Max div(alpha * v) = 0.000000000538639
+check pressure schame = 0.00000005617562331972
+N 25 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 25 time step complete Correc Max div(alpha * v) = 0.000000000312928
+N 25 time step complete 1 - Alpha = 0.000000046928572
+N 25 time step complete max VxH = 0.000000000000000
+N 25 time step complete, time: 0.125000
+N 25 time MPR 0.231281
+N 25 time Gas 0.570731
+Solve Alpha Time = 0.015097
+Solve El Dyn Time = 11.039439
+Solve Press Time = 10.469370
+Solve NS Time = 0.168469
+Solve Step Time = 22.492671
+Averege Solve Step Time = 30.696595
+
+AverageCurrentDensity 5 = -198387.1307976687
+AverageCurrentDensity 10= -198387.1362419015
+x = 1.1450540485 y = 0.0000003601 z = -0.0000104714
+check pressure schame = 0.00000004563280142471
+N 26 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 26 time step complete Predic Max div(alpha * v) = 0.000000000496077
+check pressure schame = 0.00000002995086326174
+N 26 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 26 time step complete Correc Max div(alpha * v) = 0.000000000158470
+N 26 time step complete 1 - Alpha = 0.000000046920855
+N 26 time step complete max VxH = 0.000000000000000
+N 26 time step complete, time: 0.130000
+N 26 time MPR 0.231275
+N 26 time Gas 0.570731
+Solve Alpha Time = 0.011958
+Solve El Dyn Time = 10.970076
+Solve Press Time = 13.027368
+Solve NS Time = 0.167691
+Solve Step Time = 24.947846
+Averege Solve Step Time = 30.475490
+
+AverageCurrentDensity 5 = -198387.7380288579
+AverageCurrentDensity 10= -198387.7434763930
+x = 1.1385078877 y = 0.0000003890 z = -0.0000104509
+check pressure schame = 0.00000003710644120875
+N 27 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 27 time step complete Predic Max div(alpha * v) = 0.000000000474430
+check pressure schame = 0.00000003390124951250
+N 27 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 27 time step complete Correc Max div(alpha * v) = 0.000000000167940
+N 27 time step complete 1 - Alpha = 0.000000046912472
+N 27 time step complete max VxH = 0.000000000000000
+N 27 time step complete, time: 0.135000
+N 27 time MPR 0.231270
+N 27 time Gas 0.570731
+Solve Alpha Time = 0.011450
+Solve El Dyn Time = 10.885826
+Solve Press Time = 12.685191
+Solve NS Time = 0.166513
+Solve Step Time = 24.515833
+Averege Solve Step Time = 30.254762
+
+AverageCurrentDensity 5 = -198388.3774658322
+AverageCurrentDensity 10= -198388.3829383883
+x = 1.1068481279 y = 0.0000003566 z = -0.0000104670
+check pressure schame = 0.00000003078385512516
+N 28 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 28 time step complete Predic Max div(alpha * v) = 0.000000000370368
+check pressure schame = 0.00000004938590859524
+N 28 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 28 time step complete Correc Max div(alpha * v) = 0.000000000296611
+N 28 time step complete 1 - Alpha = 0.000000046904107
+N 28 time step complete max VxH = 0.000000000000000
+N 28 time step complete, time: 0.140000
+N 28 time MPR 0.231264
+N 28 time Gas 0.570731
+Solve Alpha Time = 0.011172
+Solve El Dyn Time = 10.623493
+Solve Press Time = 11.003778
+Solve NS Time = 0.167023
+Solve Step Time = 22.588212
+Averege Solve Step Time = 29.980957
+
+AverageCurrentDensity 5 = -198396.6733192213
+AverageCurrentDensity 10= -198396.6705734767
+x = 1.1133556603 y = 0.0000006412 z = -0.0000103177
+check pressure schame = 0.00000002812929388724
+N 29 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 29 time step complete Predic Max div(alpha * v) = 0.000000000322703
+check pressure schame = -0.00000010123449185705
+N 29 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 29 time step complete Correc Max div(alpha * v) = 0.000000001481835
+N 29 time step complete 1 - Alpha = 0.000000046896261
+N 29 time step complete max VxH = 0.000000000000000
+N 29 time step complete, time: 0.145000
+N 29 time MPR 0.231258
+N 29 time Gas 0.570731
+Solve Alpha Time = 0.016522
+Solve El Dyn Time = 13.664548
+Solve Press Time = 20.711993
+Solve NS Time = 0.166424
+Solve Step Time = 35.346072
+Averege Solve Step Time = 30.165962
+
+AverageCurrentDensity 5 = -198397.7581096882
+AverageCurrentDensity 10= -198397.7538153456
+x = 1.2311100251 y = 0.0000002103 z = -0.0000105365
+check pressure schame = 0.00000003402008496634
+N 30 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 30 time step complete Predic Max div(alpha * v) = 0.000000000371397
+check pressure schame = 0.00000005476881749164
+N 30 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 30 time step complete Correc Max div(alpha * v) = 0.000000000705425
+N 30 time step complete 1 - Alpha = 0.000000046893748
+N 30 time step complete max VxH = 0.000000000000000
+N 30 time step complete, time: 0.150000
+N 30 time MPR 0.231251
+N 30 time Gas 0.570731
+Solve Alpha Time = 0.019192
+Solve El Dyn Time = 12.425245
+Solve Press Time = 12.293886
+Solve NS Time = 0.167023
+Solve Step Time = 25.671110
+Averege Solve Step Time = 30.016134
+
+AverageCurrentDensity 5 = -198398.4840087081
+AverageCurrentDensity 10= -198398.4895232752
+x = 1.1793865462 y = 0.0000000979 z = -0.0000104930
+check pressure schame = 0.00000003137671836977
+N 31 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 31 time step complete Predic Max div(alpha * v) = 0.000000000324316
+check pressure schame = 0.00000002834076524849
+N 31 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 31 time step complete Correc Max div(alpha * v) = 0.000000000163167
+N 31 time step complete 1 - Alpha = 0.000000046887632
+N 31 time step complete max VxH = 0.000000000000000
+N 31 time step complete, time: 0.155000
+N 31 time MPR 0.231245
+N 31 time Gas 0.570731
+Solve Alpha Time = 0.011051
+Solve El Dyn Time = 10.743649
+Solve Press Time = 16.140320
+Solve NS Time = 0.167194
+Solve Step Time = 27.835466
+Averege Solve Step Time = 29.945790
+
+AverageCurrentDensity 5 = -198404.2375500218
+AverageCurrentDensity 10= -198404.2373713755
+x = 1.3289976073 y = 0.0000000258 z = -0.0000103926
+check pressure schame = 0.00000008164583524192
+N 32 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 32 time step complete Predic Max div(alpha * v) = 0.000000000931402
+check pressure schame = 0.00000018548661621931
+N 32 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 32 time step complete Correc Max div(alpha * v) = 0.000000000987495
+N 32 time step complete 1 - Alpha = 0.000000046879264
+N 32 time step complete max VxH = 0.000000000000000
+N 32 time step complete, time: 0.160000
+N 32 time MPR 0.231238
+N 32 time Gas 0.570731
+Solve Alpha Time = 0.011499
+Solve El Dyn Time = 13.040338
+Solve Press Time = 16.806580
+Solve NS Time = 0.170914
+Solve Step Time = 30.831649
+Averege Solve Step Time = 29.973473
+
+AverageCurrentDensity 5 = -198405.0341060010
+AverageCurrentDensity 10= -198405.0396622970
+x = 1.3141373627 y = 0.0000003302 z = -0.0000104616
+check pressure schame = 0.00000003230473231974
+N 33 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 33 time step complete Predic Max div(alpha * v) = 0.000000000356982
+check pressure schame = 0.00000002846531527807
+N 33 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 33 time step complete Correc Max div(alpha * v) = 0.000000000170169
+N 33 time step complete 1 - Alpha = 0.000000046875152
+N 33 time step complete max VxH = 0.000000000000000
+N 33 time step complete, time: 0.165000
+N 33 time MPR 0.231231
+N 33 time Gas 0.570731
+Solve Alpha Time = 0.011969
+Solve El Dyn Time = 10.840742
+Solve Press Time = 18.659627
+Solve NS Time = 0.167280
+Solve Step Time = 30.461741
+Averege Solve Step Time = 29.988269
+
+AverageCurrentDensity 5 = -198405.8726911872
+AverageCurrentDensity 10= -198405.8782192345
+x = 1.3048621018 y = 0.0000003581 z = -0.0000104352
+check pressure schame = 0.00000002915327135256
+N 34 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 34 time step complete Predic Max div(alpha * v) = 0.000000000307849
+check pressure schame = 0.00000002692052638968
+N 34 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 34 time step complete Correc Max div(alpha * v) = 0.000000000159236
+N 34 time step complete 1 - Alpha = 0.000000046866797
+N 34 time step complete max VxH = 0.000000000000000
+N 34 time step complete, time: 0.170000
+N 34 time MPR 0.231224
+N 34 time Gas 0.570731
+Solve Alpha Time = 0.011128
+Solve El Dyn Time = 11.007129
+Solve Press Time = 15.664568
+Solve NS Time = 0.170902
+Solve Step Time = 27.659971
+Averege Solve Step Time = 29.919790
+
+AverageCurrentDensity 5 = -198412.1504089357
+AverageCurrentDensity 10= -198412.1472684986
+x = 1.0778224123 y = 0.0000008018 z = -0.0000104378
+check pressure schame = 0.00000004632877310127
+N 35 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 35 time step complete Predic Max div(alpha * v) = 0.000000000528777
+check pressure schame = 0.00000003096431994707
+N 35 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 35 time step complete Correc Max div(alpha * v) = 0.000000000158038
+N 35 time step complete 1 - Alpha = 0.000000046858438
+N 35 time step complete max VxH = 0.000000000000000
+N 35 time step complete, time: 0.175000
+N 35 time MPR 0.231216
+N 35 time Gas 0.570731
+Solve Alpha Time = 0.011904
+Solve El Dyn Time = 15.274425
+Solve Press Time = 17.972595
+Solve NS Time = 0.170058
+Solve Step Time = 34.246166
+Averege Solve Step Time = 30.043401
+
+AverageCurrentDensity 5 = -198405.4915302387
+AverageCurrentDensity 10= -198405.4961868532
+x = 0.8178793088 y = 0.0000006756 z = 0.0000105389
+check pressure schame = 0.00000003008012815979
+N 36 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 36 time step complete Predic Max div(alpha * v) = 0.000000000307514
+check pressure schame = 0.00000003329108614280
+N 36 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 36 time step complete Correc Max div(alpha * v) = 0.000000000165765
+N 36 time step complete 1 - Alpha = 0.000000046848847
+N 36 time step complete max VxH = 0.000000000000000
+N 36 time step complete, time: 0.180000
+N 36 time MPR 0.231209
+N 36 time Gas 0.570731
+Solve Alpha Time = 0.016594
+Solve El Dyn Time = 12.746431
+Solve Press Time = 16.404645
+Solve NS Time = 0.166302
+Solve Step Time = 30.126803
+Averege Solve Step Time = 30.045718
+
+AverageCurrentDensity 5 = -198406.4299774749
+AverageCurrentDensity 10= -198406.4355176919
+x = 0.7989139189 y = 0.0000003505 z = -0.0000105056
+check pressure schame = 0.00000002828756635561
+N 37 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 37 time step complete Predic Max div(alpha * v) = 0.000000000341880
+check pressure schame = 0.00000002931027684623
+N 37 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 37 time step complete Correc Max div(alpha * v) = 0.000000000166690
+N 37 time step complete 1 - Alpha = 0.000000046840195
+N 37 time step complete max VxH = 0.000000000000000
+N 37 time step complete, time: 0.185000
+N 37 time MPR 0.231201
+N 37 time Gas 0.570731
+Solve Alpha Time = 0.014206
+Solve El Dyn Time = 11.102043
+Solve Press Time = 15.623679
+Solve NS Time = 0.165232
+Solve Step Time = 27.676111
+Averege Solve Step Time = 29.981676
+
+AverageCurrentDensity 5 = -198407.4042280987
+AverageCurrentDensity 10= -198407.4097871904
+x = 0.7841901655 y = 0.0000004912 z = -0.0000104527
+check pressure schame = 0.00000002850196989534
+N 38 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 38 time step complete Predic Max div(alpha * v) = 0.000000000343495
+check pressure schame = 0.00000004043322773817
+N 38 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 38 time step complete Correc Max div(alpha * v) = 0.000000000244726
+N 38 time step complete 1 - Alpha = 0.000000046831780
+N 38 time step complete max VxH = 0.000000000000000
+N 38 time step complete, time: 0.190000
+N 38 time MPR 0.231193
+N 38 time Gas 0.570731
+Solve Alpha Time = 0.011117
+Solve El Dyn Time = 11.034406
+Solve Press Time = 13.881370
+Solve NS Time = 0.167828
+Solve Step Time = 25.913942
+Averege Solve Step Time = 29.874630
+
+AverageCurrentDensity 5 = -198399.1121187028
+AverageCurrentDensity 10= -198399.1175140565
+x = 0.6885491952 y = 0.0000006807 z = 0.0000105785
+check pressure schame = 0.00000002922265791502
+N 39 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 39 time step complete Predic Max div(alpha * v) = 0.000000000315588
+check pressure schame = 0.00000004161354511239
+N 39 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 39 time step complete Correc Max div(alpha * v) = 0.000000000227072
+N 39 time step complete 1 - Alpha = 0.000000046823732
+N 39 time step complete max VxH = 0.000000000000000
+N 39 time step complete, time: 0.195000
+N 39 time MPR 0.231185
+N 39 time Gas 0.570731
+Solve Alpha Time = 0.012900
+Solve El Dyn Time = 14.018521
+Solve Press Time = 17.034904
+Solve NS Time = 0.165359
+Solve Step Time = 31.997396
+Averege Solve Step Time = 29.929060
+
+AverageCurrentDensity 5 = -198400.1556571785
+AverageCurrentDensity 10= -198400.1612127146
+x = 0.6715421381 y = 0.0000005041 z = -0.0000105254
+check pressure schame = 0.00000003057987496037
+N 40 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 40 time step complete Predic Max div(alpha * v) = 0.000000000305021
+check pressure schame = 0.00000002977264617135
+N 40 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 40 time step complete Correc Max div(alpha * v) = 0.000000000178617
+N 40 time step complete 1 - Alpha = 0.000000046813815
+N 40 time step complete max VxH = 0.000000000000000
+N 40 time step complete, time: 0.200000
+N 40 time MPR 0.231176
+N 40 time Gas 0.570731
+Solve Alpha Time = 0.011094
+Solve El Dyn Time = 11.544306
+Solve Press Time = 17.287930
+Solve NS Time = 0.166664
+Solve Step Time = 29.823050
+Averege Solve Step Time = 29.926410
+
+AverageCurrentDensity 5 = -198401.3962208793
+AverageCurrentDensity 10= -198401.3932796117
+x = 0.5956882649 y = -0.0000006106 z = -0.0000104783
+check pressure schame = 0.00000003141955446859
+N 41 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 41 time step complete Predic Max div(alpha * v) = 0.000000000335018
+check pressure schame = 0.00000001268831030000
+N 41 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 41 time step complete Correc Max div(alpha * v) = 0.000000000165164
+N 41 time step complete 1 - Alpha = 0.000000046805448
+N 41 time step complete max VxH = 0.000000000000000
+N 41 time step complete, time: 0.205000
+N 41 time MPR 0.231168
+N 41 time Gas 0.570731
+Solve Alpha Time = 0.011050
+Solve El Dyn Time = 13.388071
+Solve Press Time = 15.172379
+Solve NS Time = 0.165263
+Solve Step Time = 29.502788
+Averege Solve Step Time = 29.916078
+
+AverageCurrentDensity 5 = -198402.5003803863
+AverageCurrentDensity 10= -198402.5060158486
+x = 0.5737506954 y = 0.0000002125 z = -0.0000105185
+check pressure schame = 0.00000002897053771921
+N 42 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 42 time step complete Predic Max div(alpha * v) = 0.000000000343063
+check pressure schame = 0.00000003401217774589
+N 42 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 42 time step complete Correc Max div(alpha * v) = 0.000000000148394
+N 42 time step complete 1 - Alpha = 0.000000046796995
+N 42 time step complete max VxH = 0.000000000000000
+N 42 time step complete, time: 0.210000
+N 42 time MPR 0.231159
+N 42 time Gas 0.570731
+Solve Alpha Time = 0.014925
+Solve El Dyn Time = 11.179722
+Solve Press Time = 16.622758
+Solve NS Time = 0.166598
+Solve Step Time = 28.766076
+Averege Solve Step Time = 29.888697
+
+AverageCurrentDensity 5 = -198403.6499241326
+AverageCurrentDensity 10= -198403.6554991917
+x = 0.5543617375 y = 0.0000003301 z = -0.0000104878
+check pressure schame = 0.00000002803998986668
+N 43 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 43 time step complete Predic Max div(alpha * v) = 0.000000000311937
+check pressure schame = 0.00000000146630324820
+N 43 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 43 time step complete Correc Max div(alpha * v) = 0.000000000152848
+N 43 time step complete 1 - Alpha = 0.000000046788528
+N 43 time step complete max VxH = 0.000000000000000
+N 43 time step complete, time: 0.215000
+N 43 time MPR 0.231150
+N 43 time Gas 0.570731
+Solve Alpha Time = 0.011457
+Solve El Dyn Time = 11.243867
+Solve Press Time = 16.912899
+Solve NS Time = 0.167972
+Solve Step Time = 29.110820
+Averege Solve Step Time = 29.870607
+
+AverageCurrentDensity 5 = -198404.8350716462
+AverageCurrentDensity 10= -198404.8405979440
+x = 0.5258884487 y = 0.0000003198 z = -0.0000105057
+check pressure schame = 0.00000002246438695507
+N 44 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 44 time step complete Predic Max div(alpha * v) = 0.000000000304166
+check pressure schame = -0.00000002378906868060
+N 44 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 44 time step complete Correc Max div(alpha * v) = 0.000000000383468
+N 44 time step complete 1 - Alpha = 0.000000046780082
+N 44 time step complete max VxH = 0.000000000000000
+N 44 time step complete, time: 0.220000
+N 44 time MPR 0.231143
+N 44 time Gas 0.570731
+Solve Alpha Time = 0.011064
+Solve El Dyn Time = 11.283660
+Solve Press Time = 13.156088
+Solve NS Time = 0.196226
+Solve Step Time = 25.450580
+Averege Solve Step Time = 29.770152
+
+AverageCurrentDensity 5 = -198401.2728417139
+AverageCurrentDensity 10= -198401.2781701939
+x = 0.4605207264 y = -0.0000003688 z = 0.0000105458
+check pressure schame = 0.00000002485051456128
+N 45 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 45 time step complete Predic Max div(alpha * v) = 0.000000000306385
+check pressure schame = 0.00000002660368495465
+N 45 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 45 time step complete Correc Max div(alpha * v) = 0.000000000160494
+N 45 time step complete 1 - Alpha = 0.000000046772703
+N 45 time step complete max VxH = 0.000000000000000
+N 45 time step complete, time: 0.225000
+N 45 time MPR 0.231136
+N 45 time Gas 0.570731
+Solve Alpha Time = 0.018324
+Solve El Dyn Time = 12.392723
+Solve Press Time = 19.076078
+Solve NS Time = 0.165967
+Solve Step Time = 32.463265
+Averege Solve Step Time = 29.830000
+
+AverageCurrentDensity 5 = -198402.5291134588
+AverageCurrentDensity 10= -198402.5346835169
+x = 0.4587360303 y = 0.0000003311 z = -0.0000105453
+check pressure schame = 0.00000003253074464232
+N 46 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 46 time step complete Predic Max div(alpha * v) = 0.000000000314460
+check pressure schame = 0.00000003015551249506
+N 46 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 46 time step complete Correc Max div(alpha * v) = 0.000000000151954
+N 46 time step complete 1 - Alpha = 0.000000046764143
+N 46 time step complete max VxH = 0.000000000000000
+N 46 time step complete, time: 0.230000
+N 46 time MPR 0.231130
+N 46 time Gas 0.570731
+Solve Alpha Time = 0.011397
+Solve El Dyn Time = 11.396624
+Solve Press Time = 18.275321
+Solve NS Time = 0.168196
+Solve Step Time = 30.630562
+Averege Solve Step Time = 29.847403
+
+AverageCurrentDensity 5 = -198404.5207897109
+AverageCurrentDensity 10= -198404.5178995320
+x = 0.5203570586 y = -0.0000007041 z = -0.0000104586
+check pressure schame = 0.00000002215037442441
+N 47 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 47 time step complete Predic Max div(alpha * v) = 0.000000000350854
+check pressure schame = 0.00000003166841527772
+N 47 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 47 time step complete Correc Max div(alpha * v) = 0.000000000163119
+N 47 time step complete 1 - Alpha = 0.000000046755712
+N 47 time step complete max VxH = 0.000000000000000
+N 47 time step complete, time: 0.235000
+N 47 time MPR 0.231123
+N 47 time Gas 0.570731
+Solve Alpha Time = 0.011078
+Solve El Dyn Time = 14.000745
+Solve Press Time = 18.768435
+Solve NS Time = 0.167304
+Solve Step Time = 33.730569
+Averege Solve Step Time = 29.930024
+
+AverageCurrentDensity 5 = -198405.8402708962
+AverageCurrentDensity 10= -198405.8458540649
+x = 0.5057536329 y = 0.0000004596 z = -0.0000105039
+check pressure schame = 0.00000001760103116207
+N 48 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 48 time step complete Predic Max div(alpha * v) = 0.000000000308220
+check pressure schame = -0.00000000263466625274
+N 48 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 48 time step complete Correc Max div(alpha * v) = 0.000000000155487
+N 48 time step complete 1 - Alpha = 0.000000046747151
+N 48 time step complete max VxH = 0.000000000000000
+N 48 time step complete, time: 0.240000
+N 48 time MPR 0.231116
+N 48 time Gas 0.570731
+Solve Alpha Time = 0.011323
+Solve El Dyn Time = 11.393872
+Solve Press Time = 17.311886
+Solve NS Time = 0.166483
+Solve Step Time = 29.672690
+Averege Solve Step Time = 29.924663
+
+AverageCurrentDensity 5 = -198407.2054803846
+AverageCurrentDensity 10= -198407.2112459895
+x = 0.4714768195 y = 0.0000004567 z = -0.0000105258
+check pressure schame = 0.00000002962822808145
+N 49 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 49 time step complete Predic Max div(alpha * v) = 0.000000000304017
+check pressure schame = -0.00000000688638088681
+N 49 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 49 time step complete Correc Max div(alpha * v) = 0.000000000157575
+N 49 time step complete 1 - Alpha = 0.000000046738658
+N 49 time step complete max VxH = 0.000000000000000
+N 49 time step complete, time: 0.245000
+N 49 time MPR 0.231108
+N 49 time Gas 0.570731
+Solve Alpha Time = 0.014773
+Solve El Dyn Time = 11.410584
+Solve Press Time = 19.382866
+Solve NS Time = 0.169408
+Solve Step Time = 31.752442
+Averege Solve Step Time = 29.961965
+
+AverageCurrentDensity 5 = -198414.1518667910
+AverageCurrentDensity 10= -198414.1487760425
+x = 0.6516774088 y = -0.0000001057 z = -0.0000105205
+check pressure schame = 0.00000003121906916315
+N 50 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 50 time step complete Predic Max div(alpha * v) = 0.000000000355590
+check pressure schame = 0.00000002857734925088
+N 50 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 50 time step complete Correc Max div(alpha * v) = 0.000000000166447
+N 50 time step complete 1 - Alpha = 0.000000046730215
+N 50 time step complete max VxH = 0.000000000000000
+N 50 time step complete, time: 0.250000
+N 50 time MPR 0.231101
+N 50 time Gas 0.570731
+Solve Alpha Time = 0.011037
+Solve El Dyn Time = 13.507200
+Solve Press Time = 16.582830
+Solve NS Time = 0.167226
+Solve Step Time = 31.031434
+Averege Solve Step Time = 29.983355
+
+AverageCurrentDensity 5 = -198415.5797128963
+AverageCurrentDensity 10= -198415.5853123425
+x = 0.6300034963 y = 0.0000004167 z = -0.0000104847
+check pressure schame = 0.00000002910828545300
+N 51 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 51 time step complete Predic Max div(alpha * v) = 0.000000000321939
+check pressure schame = 0.00000003066345731007
+N 51 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 51 time step complete Correc Max div(alpha * v) = 0.000000000153363
+N 51 time step complete 1 - Alpha = 0.000000046721721
+N 51 time step complete max VxH = 0.000000000000000
+N 51 time step complete, time: 0.255000
+N 51 time MPR 0.231093
+N 51 time Gas 0.570731
+Solve Alpha Time = 0.011291
+Solve El Dyn Time = 11.644578
+Solve Press Time = 18.663122
+Solve NS Time = 0.167995
+Solve Step Time = 31.271903
+Averege Solve Step Time = 30.008620
+
+AverageCurrentDensity 5 = -198421.3654997710
+AverageCurrentDensity 10= -198421.3625166645
+x = 1.2359943964 y = -0.0000009478 z = -0.0000104235
+check pressure schame = 0.00000012281632712045
+N 52 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 52 time step complete Predic Max div(alpha * v) = 0.000000001470345
+check pressure schame = 0.00000003654905470288
+N 52 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 52 time step complete Correc Max div(alpha * v) = 0.000000000201448
+N 52 time step complete 1 - Alpha = 0.000000046713255
+N 52 time step complete max VxH = 0.000000000000000
+N 52 time step complete, time: 0.260000
+N 52 time MPR 0.231086
+N 52 time Gas 0.570731
+Solve Alpha Time = 0.011167
+Solve El Dyn Time = 15.422630
+Solve Press Time = 9.460175
+Solve NS Time = 0.166669
+Solve Step Time = 25.839380
+Averege Solve Step Time = 29.928443
+
+AverageCurrentDensity 5 = -198422.8688059058
+AverageCurrentDensity 10= -198422.8742029609
+x = 1.0878933205 y = 0.0000003336 z = -0.0000105061
+check pressure schame = 0.00000002772535521740
+N 53 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 53 time step complete Predic Max div(alpha * v) = 0.000000000297516
+check pressure schame = -0.00000003627775323087
+N 53 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 53 time step complete Correc Max div(alpha * v) = 0.000000000624333
+N 53 time step complete 1 - Alpha = 0.000000046703324
+N 53 time step complete max VxH = 0.000000000000000
+N 53 time step complete, time: 0.265000
+N 53 time MPR 0.231078
+N 53 time Gas 0.570731
+Solve Alpha Time = 0.011061
+Solve El Dyn Time = 12.108920
+Solve Press Time = 16.119304
+Solve NS Time = 0.169060
+Solve Step Time = 29.195791
+Averege Solve Step Time = 29.914619
+
+AverageCurrentDensity 5 = -198424.4186588847
+AverageCurrentDensity 10= -198424.4242404415
+x = 1.0268806185 y = 0.0000003496 z = -0.0000104975
+check pressure schame = 0.00000002474314639745
+N 54 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 54 time step complete Predic Max div(alpha * v) = 0.000000000319588
+check pressure schame = 0.00000018478606879369
+N 54 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 54 time step complete Correc Max div(alpha * v) = 0.000000001009188
+N 54 time step complete 1 - Alpha = 0.000000046697020
+N 54 time step complete max VxH = 0.000000000000000
+N 54 time step complete, time: 0.270000
+N 54 time MPR 0.231070
+N 54 time Gas 0.570731
+Solve Alpha Time = 0.014052
+Solve El Dyn Time = 11.698043
+Solve Press Time = 10.628683
+Solve NS Time = 0.167224
+Solve Step Time = 23.303142
+Averege Solve Step Time = 29.792185
+
+AverageCurrentDensity 5 = -198426.0061026500
+AverageCurrentDensity 10= -198426.0116993928
+x = 0.9984472297 y = 0.0000005059 z = -0.0000104743
+check pressure schame = 0.00000003435364132748
+N 55 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 55 time step complete Predic Max div(alpha * v) = 0.000000000344422
+check pressure schame = 0.00000002976804598957
+N 55 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 55 time step complete Correc Max div(alpha * v) = 0.000000000152345
+N 55 time step complete 1 - Alpha = 0.000000046692227
+N 55 time step complete max VxH = 0.000000000000000
+N 55 time step complete, time: 0.275000
+N 55 time MPR 0.231062
+N 55 time Gas 0.570731
+Solve Alpha Time = 0.011109
+Solve El Dyn Time = 11.921128
+Solve Press Time = 19.786201
+Solve NS Time = 0.167975
+Solve Step Time = 32.660438
+Averege Solve Step Time = 29.844335
+
+AverageCurrentDensity 5 = -198427.6310773545
+AverageCurrentDensity 10= -198427.6366572846
+x = 0.9680261398 y = 0.0000003542 z = -0.0000105110
+check pressure schame = 0.00000003153573384027
+N 56 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 56 time step complete Predic Max div(alpha * v) = 0.000000000331336
+check pressure schame = 0.00000002559673772419
+N 56 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 56 time step complete Correc Max div(alpha * v) = 0.000000000155277
+N 56 time step complete 1 - Alpha = 0.000000046683758
+N 56 time step complete max VxH = 0.000000000000000
+N 56 time step complete, time: 0.280000
+N 56 time MPR 0.231054
+N 56 time Gas 0.570731
+Solve Alpha Time = 0.011182
+Solve El Dyn Time = 11.704772
+Solve Press Time = 20.517800
+Solve NS Time = 0.166800
+Solve Step Time = 33.173626
+Averege Solve Step Time = 29.903787
+
+AverageCurrentDensity 5 = -198429.2936558017
+AverageCurrentDensity 10= -198429.2992440957
+x = 0.9333880454 y = 0.0000004098 z = -0.0000104821
+check pressure schame = 0.00000002397165671172
+N 57 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 57 time step complete Predic Max div(alpha * v) = 0.000000000330781
+check pressure schame = 0.00000003079867258796
+N 57 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 57 time step complete Correc Max div(alpha * v) = 0.000000000152095
+N 57 time step complete 1 - Alpha = 0.000000046675256
+N 57 time step complete max VxH = 0.000000000000000
+N 57 time step complete, time: 0.285000
+N 57 time MPR 0.231046
+N 57 time Gas 0.570731
+Solve Alpha Time = 0.011088
+Solve El Dyn Time = 11.717367
+Solve Press Time = 19.692301
+Solve NS Time = 0.167975
+Solve Step Time = 32.362641
+Averege Solve Step Time = 29.946925
+
+AverageCurrentDensity 5 = -198430.9939967213
+AverageCurrentDensity 10= -198430.9995993408
+x = 0.8993093888 y = 0.0000003348 z = -0.0000104939
+check pressure schame = 0.00000001557832289296
+N 58 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 58 time step complete Predic Max div(alpha * v) = 0.000000000306683
+check pressure schame = 0.00000002819927331227
+N 58 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 58 time step complete Correc Max div(alpha * v) = 0.000000000164949
+N 58 time step complete 1 - Alpha = 0.000000046666774
+N 58 time step complete max VxH = 0.000000000000000
+N 58 time step complete, time: 0.290000
+N 58 time MPR 0.231037
+N 58 time Gas 0.570731
+Solve Alpha Time = 0.011060
+Solve El Dyn Time = 11.720457
+Solve Press Time = 18.929447
+Solve NS Time = 0.169959
+Solve Step Time = 31.609683
+Averege Solve Step Time = 29.975593
+
+AverageCurrentDensity 5 = -198439.8504069171
+AverageCurrentDensity 10= -198439.8476485342
+x = 1.0244449126 y = -0.0000002918 z = -0.0000104376
+check pressure schame = 0.00000003782067485797
+N 59 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 59 time step complete Predic Max div(alpha * v) = 0.000000000476215
+check pressure schame = 0.00000001915302458994
+N 59 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 59 time step complete Correc Max div(alpha * v) = 0.000000000154403
+N 59 time step complete 1 - Alpha = 0.000000046658280
+N 59 time step complete max VxH = 0.000000000000000
+N 59 time step complete, time: 0.295000
+N 59 time MPR 0.231029
+N 59 time Gas 0.570731
+Solve Alpha Time = 0.011050
+Solve El Dyn Time = 14.438984
+Solve Press Time = 19.409227
+Solve NS Time = 0.180108
+Solve Step Time = 34.833213
+Averege Solve Step Time = 30.057926
+
+AverageCurrentDensity 5 = -198436.3479801548
+AverageCurrentDensity 10= -198436.3482337197
+x = 0.1284355855 y = -0.0000001545 z = 0.0000104780
+check pressure schame = 0.00000006463109422650
+N 60 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 60 time step complete Predic Max div(alpha * v) = 0.000000000705703
+check pressure schame = 0.00000002873752350213
+N 60 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 60 time step complete Correc Max div(alpha * v) = 0.000000000175785
+N 60 time step complete 1 - Alpha = 0.000000046648448
+N 60 time step complete max VxH = 0.000000000000000
+N 60 time step complete, time: 0.300000
+N 60 time MPR 0.231020
+N 60 time Gas 0.570731
+Solve Alpha Time = 0.012640
+Solve El Dyn Time = 12.537374
+Solve Press Time = 22.681406
+Solve NS Time = 0.165379
+Solve Step Time = 36.161058
+Averege Solve Step Time = 30.159645
+
+AverageCurrentDensity 5 = -198438.1554494431
+AverageCurrentDensity 10= -198438.1601742634
+x = 0.0625364558 y = 0.0000002020 z = -0.0000105023
+check pressure schame = 0.00000002707927239040
+N 61 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 61 time step complete Predic Max div(alpha * v) = 0.000000000327546
+check pressure schame = -0.00000000732221664074
+N 61 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 61 time step complete Correc Max div(alpha * v) = 0.000000000159593
+N 61 time step complete 1 - Alpha = 0.000000046638573
+N 61 time step complete max VxH = 0.000000000000000
+N 61 time step complete, time: 0.305000
+N 61 time MPR 0.231012
+N 61 time Gas 0.570731
+Solve Alpha Time = 0.011282
+Solve El Dyn Time = 11.716532
+Solve Press Time = 20.680024
+Solve NS Time = 0.168663
+Solve Step Time = 33.346046
+Averege Solve Step Time = 30.211882
+
+AverageCurrentDensity 5 = -198444.2568546478
+AverageCurrentDensity 10= -198444.2608935011
+x = -0.2169458357 y = -0.0000003249 z = -0.0000104405
+check pressure schame = 0.00000002908909193730
+N 62 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 62 time step complete Predic Max div(alpha * v) = 0.000000000340411
+check pressure schame = 0.00000003331675083040
+N 62 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 62 time step complete Correc Max div(alpha * v) = 0.000000000180623
+N 62 time step complete 1 - Alpha = 0.000000046630099
+N 62 time step complete max VxH = 0.000000000000000
+N 62 time step complete, time: 0.310000
+N 62 time MPR 0.231003
+N 62 time Gas 0.570731
+Solve Alpha Time = 0.011021
+Solve El Dyn Time = 12.861788
+Solve Press Time = 20.381782
+Solve NS Time = 0.172112
+Solve Step Time = 34.212591
+Averege Solve Step Time = 30.276409
+
+AverageCurrentDensity 5 = -198446.1471822156
+AverageCurrentDensity 10= -198446.1527746273
+x = -0.2584263937 y = 0.0000002738 z = -0.0000104860
+check pressure schame = 0.00000002739612850640
+N 63 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 63 time step complete Predic Max div(alpha * v) = 0.000000000349955
+check pressure schame = 0.00000006587485142269
+N 63 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 63 time step complete Correc Max div(alpha * v) = 0.000000000453618
+N 63 time step complete 1 - Alpha = 0.000000046621334
+N 63 time step complete max VxH = 0.000000000000000
+N 63 time step complete, time: 0.315000
+N 63 time MPR 0.230994
+N 63 time Gas 0.570731
+Solve Alpha Time = 0.011122
+Solve El Dyn Time = 11.790380
+Solve Press Time = 15.931244
+Solve NS Time = 0.178693
+Solve Step Time = 28.712823
+Averege Solve Step Time = 30.251591
+
+AverageCurrentDensity 5 = -198453.5585558997
+AverageCurrentDensity 10= -198453.5567053191
+x = -0.2655808585 y = 0.0000004678 z = -0.0000105067
+check pressure schame = -0.00000000791407060740
+N 64 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 64 time step complete Predic Max div(alpha * v) = 0.000000000362442
+check pressure schame = 0.00000007225254071777
+N 64 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 64 time step complete Correc Max div(alpha * v) = 0.000000000399057
+N 64 time step complete 1 - Alpha = 0.000000046613987
+N 64 time step complete max VxH = 0.000000000000000
+N 64 time step complete, time: 0.320000
+N 64 time MPR 0.230985
+N 64 time Gas 0.570731
+Solve Alpha Time = 0.012148
+Solve El Dyn Time = 13.259571
+Solve Press Time = 15.087421
+Solve NS Time = 0.165460
+Solve Step Time = 29.289243
+Averege Solve Step Time = 30.236554
+
+AverageCurrentDensity 5 = -198455.5183748005
+AverageCurrentDensity 10= -198455.5240057560
+x = -0.3118268828 y = 0.0000003465 z = -0.0000105102
+check pressure schame = 0.00000003318765084807
+N 65 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 65 time step complete Predic Max div(alpha * v) = 0.000000000306964
+check pressure schame = 0.00000003104964053056
+N 65 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 65 time step complete Correc Max div(alpha * v) = 0.000000000174102
+N 65 time step complete 1 - Alpha = 0.000000046606604
+N 65 time step complete max VxH = 0.000000000000000
+N 65 time step complete, time: 0.325000
+N 65 time MPR 0.230975
+N 65 time Gas 0.570731
+Solve Alpha Time = 0.014644
+Solve El Dyn Time = 11.901190
+Solve Press Time = 19.183249
+Solve NS Time = 0.169452
+Solve Step Time = 32.056438
+Averege Solve Step Time = 30.264553
+
+AverageCurrentDensity 5 = -198457.5278358278
+AverageCurrentDensity 10= -198457.5334232456
+x = -0.3518778188 y = 0.0000002786 z = -0.0000105135
+check pressure schame = 0.00000003015720705189
+N 66 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 66 time step complete Predic Max div(alpha * v) = 0.000000000299708
+check pressure schame = 0.00000002807286808570
+N 66 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 66 time step complete Correc Max div(alpha * v) = 0.000000000350202
+N 66 time step complete 1 - Alpha = 0.000000046598100
+N 66 time step complete max VxH = 0.000000000000000
+N 66 time step complete, time: 0.330000
+N 66 time MPR 0.230966
+N 66 time Gas 0.570731
+Solve Alpha Time = 0.011105
+Solve El Dyn Time = 11.890924
+Solve Press Time = 18.130448
+Solve NS Time = 0.168909
+Solve Step Time = 31.026886
+Averege Solve Step Time = 30.276103
+
+AverageCurrentDensity 5 = -198459.5766722318
+AverageCurrentDensity 10= -198459.5822661953
+x = -0.3887110835 y = 0.0000002223 z = -0.0000105108
+check pressure schame = 0.00000002837806968234
+N 67 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 67 time step complete Predic Max div(alpha * v) = 0.000000000335828
+check pressure schame = 0.00000002778965596528
+N 67 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 67 time step complete Correc Max div(alpha * v) = 0.000000000160987
+N 67 time step complete 1 - Alpha = 0.000000046590431
+N 67 time step complete max VxH = 0.000000000000000
+N 67 time step complete, time: 0.335000
+N 67 time MPR 0.230956
+N 67 time Gas 0.570731
+Solve Alpha Time = 0.011077
+Solve El Dyn Time = 11.908835
+Solve Press Time = 20.078874
+Solve NS Time = 0.175254
+Solve Step Time = 32.952916
+Averege Solve Step Time = 30.316056
+
+AverageCurrentDensity 5 = -198462.0065393629
+AverageCurrentDensity 10= -198462.0036371908
+x = -0.2243455006 y = 0.0000004394 z = -0.0000104390
+check pressure schame = 0.00000003176619778680
+N 68 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 68 time step complete Predic Max div(alpha * v) = 0.000000000320875
+check pressure schame = -0.00000003407283983935
+N 68 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 68 time step complete Correc Max div(alpha * v) = 0.000000000202427
+N 68 time step complete 1 - Alpha = 0.000000046581887
+N 68 time step complete max VxH = 0.000000000000000
+N 68 time step complete, time: 0.340000
+N 68 time MPR 0.230947
+N 68 time Gas 0.570731
+Solve Alpha Time = 0.011102
+Solve El Dyn Time = 13.649476
+Solve Press Time = 19.655416
+Solve NS Time = 0.165314
+Solve Step Time = 34.259856
+Averege Solve Step Time = 30.374053
+
+AverageCurrentDensity 5 = -198464.1231231716
+AverageCurrentDensity 10= -198464.1287997945
+x = -0.3052184309 y = 0.0000001375 z = -0.0000105131
+check pressure schame = 0.00000003288749514385
+N 69 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 69 time step complete Predic Max div(alpha * v) = 0.000000000333360
+check pressure schame = 0.00000004431988583770
+N 69 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 69 time step complete Correc Max div(alpha * v) = 0.000000000246458
+N 69 time step complete 1 - Alpha = 0.000000046573505
+N 69 time step complete max VxH = 0.000000000000000
+N 69 time step complete, time: 0.345000
+N 69 time MPR 0.230937
+N 69 time Gas 0.570731
+Solve Alpha Time = 0.011076
+Solve El Dyn Time = 11.928942
+Solve Press Time = 20.263463
+Solve NS Time = 0.165591
+Solve Step Time = 33.156429
+Averege Solve Step Time = 30.414377
+
+AverageCurrentDensity 5 = -198471.8299312466
+AverageCurrentDensity 10= -198471.8271200148
+x = -0.1212922281 y = 0.0000003145 z = -0.0000104901
+check pressure schame = 0.00000002780881065007
+N 70 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 70 time step complete Predic Max div(alpha * v) = 0.000000000312031
+check pressure schame = 0.00000002949257432022
+N 70 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 70 time step complete Correc Max div(alpha * v) = 0.000000000152293
+N 70 time step complete 1 - Alpha = 0.000000046565313
+N 70 time step complete max VxH = 0.000000000000000
+N 70 time step complete, time: 0.350000
+N 70 time MPR 0.230927
+N 70 time Gas 0.570731
+Solve Alpha Time = 0.011118
+Solve El Dyn Time = 13.560736
+Solve Press Time = 21.563106
+Solve NS Time = 0.167613
+Solve Step Time = 36.077466
+Averege Solve Step Time = 30.495279
+
+AverageCurrentDensity 5 = -198484.7356116350
+AverageCurrentDensity 10= -198484.7327639044
+x = 0.1008013623 y = 0.0000003814 z = -0.0000104552
+check pressure schame = 0.00000002591905866984
+N 71 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 71 time step complete Predic Max div(alpha * v) = 0.000000000329578
+check pressure schame = 0.00000002763418840892
+N 71 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 71 time step complete Correc Max div(alpha * v) = 0.000000000153652
+N 71 time step complete 1 - Alpha = 0.000000046556777
+N 71 time step complete max VxH = 0.000000000000000
+N 71 time step complete, time: 0.355000
+N 71 time MPR 0.230917
+N 71 time Gas 0.570731
+Solve Alpha Time = 0.011092
+Solve El Dyn Time = 15.015802
+Solve Press Time = 22.052451
+Solve NS Time = 0.165584
+Solve Step Time = 38.009297
+Averege Solve Step Time = 30.601110
+
+AverageCurrentDensity 5 = -198486.9732796690
+AverageCurrentDensity 10= -198486.9789347624
+x = 0.0529235019 y = 0.0000001249 z = -0.0000104953
+check pressure schame = 0.00000003113527312706
+N 72 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 72 time step complete Predic Max div(alpha * v) = 0.000000000333478
+check pressure schame = 0.00000004815176982143
+N 72 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 72 time step complete Correc Max div(alpha * v) = 0.000000000272003
+N 72 time step complete 1 - Alpha = 0.000000046548170
+N 72 time step complete max VxH = 0.000000000000000
+N 72 time step complete, time: 0.360000
+N 72 time MPR 0.230907
+N 72 time Gas 0.570731
+Solve Alpha Time = 0.011106
+Solve El Dyn Time = 11.920430
+Solve Press Time = 19.604260
+Solve NS Time = 0.168655
+Solve Step Time = 32.478729
+Averege Solve Step Time = 30.627188
+
+AverageCurrentDensity 5 = -198494.3211535082
+AverageCurrentDensity 10= -198494.3193010501
+x = 0.0394393312 y = -0.0000006570 z = -0.0000105168
+check pressure schame = 0.00000005326781964826
+N 73 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 73 time step complete Predic Max div(alpha * v) = 0.000000000620215
+check pressure schame = 0.00000001408997779909
+N 73 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 73 time step complete Correc Max div(alpha * v) = 0.000000000171177
+N 73 time step complete 1 - Alpha = 0.000000046540093
+N 73 time step complete max VxH = 0.000000000000000
+N 73 time step complete, time: 0.365000
+N 73 time MPR 0.230897
+N 73 time Gas 0.570731
+Solve Alpha Time = 0.011094
+Solve El Dyn Time = 13.303450
+Solve Press Time = 17.557742
+Solve NS Time = 0.165812
+Solve Step Time = 31.843780
+Averege Solve Step Time = 30.643854
+
+AverageCurrentDensity 5 = -198496.6393399753
+AverageCurrentDensity 10= -198496.6449046609
+x = 0.0127877136 y = 0.0000002271 z = -0.0000104904
+check pressure schame = 0.00000002541644898539
+N 74 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 74 time step complete Predic Max div(alpha * v) = 0.000000000307272
+check pressure schame = 0.00000006357726236444
+N 74 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 74 time step complete Correc Max div(alpha * v) = 0.000000000363594
+N 74 time step complete 1 - Alpha = 0.000000046530150
+N 74 time step complete max VxH = 0.000000000000000
+N 74 time step complete, time: 0.370000
+N 74 time MPR 0.230886
+N 74 time Gas 0.570731
+Solve Alpha Time = 0.013644
+Solve El Dyn Time = 12.161588
+Solve Press Time = 18.149275
+Solve NS Time = 0.165253
+Solve Step Time = 31.257958
+Averege Solve Step Time = 30.652153
+
+AverageCurrentDensity 5 = -198499.0061564293
+AverageCurrentDensity 10= -198499.0116987709
+x = -0.0484615200 y = 0.0000001405 z = -0.0000105649
+check pressure schame = 0.00000002859908793769
+N 75 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 75 time step complete Predic Max div(alpha * v) = 0.000000000303999
+check pressure schame = 0.00000001066323366238
+N 75 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 75 time step complete Correc Max div(alpha * v) = 0.000000000165496
+N 75 time step complete 1 - Alpha = 0.000000046522447
+N 75 time step complete max VxH = 0.000000000000000
+N 75 time step complete, time: 0.375000
+N 75 time MPR 0.230876
+N 75 time Gas 0.570731
+Solve Alpha Time = 0.011073
+Solve El Dyn Time = 12.050456
+Solve Press Time = 21.140582
+Solve NS Time = 0.165744
+Solve Step Time = 34.147120
+Averege Solve Step Time = 30.698753
+
+AverageCurrentDensity 5 = -198501.4128818784
+AverageCurrentDensity 10= -198501.4184510816
+x = -0.0875071833 y = 0.0000001047 z = -0.0000104796
+check pressure schame = 0.00000003178849925130
+N 76 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 76 time step complete Predic Max div(alpha * v) = 0.000000000362907
+check pressure schame = 0.00000002556922974782
+N 76 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 76 time step complete Correc Max div(alpha * v) = 0.000000000153728
+N 76 time step complete 1 - Alpha = 0.000000046513926
+N 76 time step complete max VxH = 0.000000000000000
+N 76 time step complete, time: 0.380000
+N 76 time MPR 0.230865
+N 76 time Gas 0.570731
+Solve Alpha Time = 0.011086
+Solve El Dyn Time = 12.119993
+Solve Press Time = 21.469940
+Solve NS Time = 0.168100
+Solve Step Time = 34.529715
+Averege Solve Step Time = 30.749160
+
+AverageCurrentDensity 5 = -198503.8595091306
+AverageCurrentDensity 10= -198503.8650813116
+x = -0.1426442722 y = 0.0000000752 z = -0.0000104824
+check pressure schame = 0.00000003051968674311
+N 77 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 77 time step complete Predic Max div(alpha * v) = 0.000000000336658
+check pressure schame = 0.00000002949844160778
+N 77 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 77 time step complete Correc Max div(alpha * v) = 0.000000000168697
+N 77 time step complete 1 - Alpha = 0.000000046505369
+N 77 time step complete max VxH = 0.000000000000000
+N 77 time step complete, time: 0.385000
+N 77 time MPR 0.230854
+N 77 time Gas 0.570731
+Solve Alpha Time = 0.011083
+Solve El Dyn Time = 12.136588
+Solve Press Time = 21.587209
+Solve NS Time = 0.165828
+Solve Step Time = 34.671093
+Averege Solve Step Time = 30.800094
+
+AverageCurrentDensity 5 = -198505.5387222416
+AverageCurrentDensity 10= -198505.5415302727
+x = -0.1242102422 y = -0.0000007753 z = -0.0000103144
+check pressure schame = 0.00000003256207466162
+N 78 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 78 time step complete Predic Max div(alpha * v) = 0.000000000305994
+check pressure schame = 0.00000002849809638619
+N 78 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 78 time step complete Correc Max div(alpha * v) = 0.000000000148427
+N 78 time step complete 1 - Alpha = 0.000000046496856
+N 78 time step complete max VxH = 0.000000000000000
+N 78 time step complete, time: 0.390000
+N 78 time MPR 0.230842
+N 78 time Gas 0.570731
+Solve Alpha Time = 0.011083
+Solve El Dyn Time = 11.591866
+Solve Press Time = 22.817560
+Solve NS Time = 0.171758
+Solve Step Time = 35.349842
+Averege Solve Step Time = 30.858425
+
+AverageCurrentDensity 5 = -198508.4553377584
+AverageCurrentDensity 10= -198508.4519655364
+x = -0.2531092744 y = 0.0000003919 z = -0.0000104960
+check pressure schame = 0.00000002884481784416
+N 79 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 79 time step complete Predic Max div(alpha * v) = 0.000000000341332
+check pressure schame = 0.00000008483241535628
+N 79 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 79 time step complete Correc Max div(alpha * v) = 0.000000000510214
+N 79 time step complete 1 - Alpha = 0.000000046488264
+N 79 time step complete max VxH = 0.000000000000000
+N 79 time step complete, time: 0.395000
+N 79 time MPR 0.230831
+N 79 time Gas 0.570731
+Solve Alpha Time = 0.011092
+Solve El Dyn Time = 13.504059
+Solve Press Time = 17.390357
+Solve NS Time = 0.173687
+Solve Step Time = 31.923365
+Averege Solve Step Time = 30.871905
+
+AverageCurrentDensity 5 = -198511.0114880690
+AverageCurrentDensity 10= -198511.0170698298
+x = -0.3217006032 y = 0.0000001961 z = -0.0000104712
+check pressure schame = 0.00000002592871055677
+N 80 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 80 time step complete Predic Max div(alpha * v) = 0.000000000311232
+check pressure schame = 0.00000001070150946331
+N 80 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 80 time step complete Correc Max div(alpha * v) = 0.000000000168525
+N 80 time step complete 1 - Alpha = 0.000000046481063
+N 80 time step complete max VxH = 0.000000000000000
+N 80 time step complete, time: 0.400000
+N 80 time MPR 0.230819
+N 80 time Gas 0.570731
+Solve Alpha Time = 0.011564
+Solve El Dyn Time = 12.061023
+Solve Press Time = 21.985706
+Solve NS Time = 0.168863
+Solve Step Time = 35.006884
+Averege Solve Step Time = 30.923592
+
+AverageCurrentDensity 5 = -198513.6177824604
+AverageCurrentDensity 10= -198513.6233565339
+x = -0.3423844262 y = -0.0000000279 z = -0.0000105050
+check pressure schame = 0.00000003068074022183
+N 81 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 81 time step complete Predic Max div(alpha * v) = 0.000000000324045
+check pressure schame = -0.00000001269672418228
+N 81 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 81 time step complete Correc Max div(alpha * v) = 0.000000000195651
+N 81 time step complete 1 - Alpha = 0.000000046472478
+N 81 time step complete max VxH = 0.000000000000000
+N 81 time step complete, time: 0.405000
+N 81 time MPR 0.230808
+N 81 time Gas 0.570731
+Solve Alpha Time = 0.011085
+Solve El Dyn Time = 12.218062
+Solve Press Time = 22.117003
+Solve NS Time = 0.165735
+Solve Step Time = 35.309263
+Averege Solve Step Time = 30.977737
+
+AverageCurrentDensity 5 = -198516.2639820275
+AverageCurrentDensity 10= -198516.2694879604
+x = -0.3907513610 y = -0.0000004563 z = -0.0000104975
+check pressure schame = 0.00000002829594908404
+N 82 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 82 time step complete Predic Max div(alpha * v) = 0.000000000304999
+check pressure schame = 0.00000004912055564556
+N 82 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 82 time step complete Correc Max div(alpha * v) = 0.000000000338217
+N 82 time step complete 1 - Alpha = 0.000000046464002
+N 82 time step complete max VxH = 0.000000000000000
+N 82 time step complete, time: 0.410000
+N 82 time MPR 0.230796
+N 82 time Gas 0.570731
+Solve Alpha Time = 0.011061
+Solve El Dyn Time = 12.248678
+Solve Press Time = 19.600324
+Solve NS Time = 0.166586
+Solve Step Time = 32.801589
+Averege Solve Step Time = 30.999979
+
+AverageCurrentDensity 5 = -198518.9504722528
+AverageCurrentDensity 10= -198518.9552532397
+x = -0.5282837536 y = 0.0000007464 z = -0.0000105098
+check pressure schame = 0.00000002899880794158
+N 83 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 83 time step complete Predic Max div(alpha * v) = 0.000000000350764
+check pressure schame = 0.00000011535662072099
+N 83 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 83 time step complete Correc Max div(alpha * v) = 0.000000000615643
+N 83 time step complete 1 - Alpha = 0.000000046456079
+N 83 time step complete max VxH = 0.000000000000000
+N 83 time step complete, time: 0.415000
+N 83 time MPR 0.230785
+N 83 time Gas 0.570731
+Solve Alpha Time = 0.011355
+Solve El Dyn Time = 12.154725
+Solve Press Time = 17.363769
+Solve NS Time = 0.165609
+Solve Step Time = 30.473975
+Averege Solve Step Time = 30.993642
+
+AverageCurrentDensity 5 = -198521.6769302573
+AverageCurrentDensity 10= -198521.6813304482
+x = -0.4462545966 y = 0.0000005976 z = -0.0000104959
+check pressure schame = 0.00000002521975303637
+N 84 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 84 time step complete Predic Max div(alpha * v) = 0.000000000331723
+check pressure schame = 0.00000007822492122112
+N 84 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 84 time step complete Correc Max div(alpha * v) = 0.000000000442023
+N 84 time step complete 1 - Alpha = 0.000000046449372
+N 84 time step complete max VxH = 0.000000000000000
+N 84 time step complete, time: 0.420000
+N 84 time MPR 0.230773
+N 84 time Gas 0.570731
+Solve Alpha Time = 0.011150
+Solve El Dyn Time = 12.120264
+Solve Press Time = 17.967800
+Solve NS Time = 0.166265
+Solve Step Time = 31.031530
+Averege Solve Step Time = 30.994093
+
+AverageCurrentDensity 5 = -198524.4414280833
+AverageCurrentDensity 10= -198524.4469786352
+x = -0.5296361024 y = 0.0000002160 z = -0.0000104860
+check pressure schame = 0.00000002786917877029
+N 85 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 85 time step complete Predic Max div(alpha * v) = 0.000000000330266
+check pressure schame = 0.00000005107633820663
+N 85 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 85 time step complete Correc Max div(alpha * v) = 0.000000000300867
+N 85 time step complete 1 - Alpha = 0.000000046441991
+N 85 time step complete max VxH = 0.000000000000000
+N 85 time step complete, time: 0.425000
+N 85 time MPR 0.230761
+N 85 time Gas 0.570731
+Solve Alpha Time = 0.011085
+Solve El Dyn Time = 12.154133
+Solve Press Time = 21.402447
+Solve NS Time = 0.165599
+Solve Step Time = 34.532019
+Averege Solve Step Time = 31.035716
+
+AverageCurrentDensity 5 = -198530.2642415548
+AverageCurrentDensity 10= -198530.2621160081
+x = -1.0647597153 y = 0.0000003047 z = -0.0000104456
+check pressure schame = 0.00000007589146316326
+N 86 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 86 time step complete Predic Max div(alpha * v) = 0.000000000910305
+check pressure schame = 0.00000002843986383894
+N 86 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 86 time step complete Correc Max div(alpha * v) = 0.000000000162252
+N 86 time step complete 1 - Alpha = 0.000000046433765
+N 86 time step complete max VxH = 0.000000000000000
+N 86 time step complete, time: 0.430000
+N 86 time MPR 0.230749
+N 86 time Gas 0.570731
+Solve Alpha Time = 0.011083
+Solve El Dyn Time = 13.148606
+Solve Press Time = 22.016236
+Solve NS Time = 0.165816
+Solve Step Time = 36.110297
+Averege Solve Step Time = 31.094722
+
+AverageCurrentDensity 5 = -198533.0997772054
+AverageCurrentDensity 10= -198533.1053252614
+x = -1.1374834407 y = 0.0000001964 z = -0.0000105616
+check pressure schame = 0.00000002965614846057
+N 87 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 87 time step complete Predic Max div(alpha * v) = 0.000000000316732
+check pressure schame = 0.00000002869489196928
+N 87 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 87 time step complete Correc Max div(alpha * v) = 0.000000000159226
+N 87 time step complete 1 - Alpha = 0.000000046423720
+N 87 time step complete max VxH = 0.000000000000000
+N 87 time step complete, time: 0.435000
+N 87 time MPR 0.230737
+N 87 time Gas 0.570731
+Solve Alpha Time = 0.011119
+Solve El Dyn Time = 12.169960
+Solve Press Time = 22.856009
+Solve NS Time = 0.165363
+Solve Step Time = 35.973157
+Averege Solve Step Time = 31.150796
+
+AverageCurrentDensity 5 = -198535.9849350583
+AverageCurrentDensity 10= -198535.9904300060
+x = -1.2160326809 y = 0.0000004050 z = -0.0000105417
+check pressure schame = 0.00000002784402781258
+N 88 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 88 time step complete Predic Max div(alpha * v) = 0.000000000318876
+check pressure schame = 0.00000003447000993320
+N 88 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 88 time step complete Correc Max div(alpha * v) = 0.000000000239040
+N 88 time step complete 1 - Alpha = 0.000000046414937
+N 88 time step complete max VxH = 0.000000000000000
+N 88 time step complete, time: 0.440000
+N 88 time MPR 0.230725
+N 88 time Gas 0.570731
+Solve Alpha Time = 0.014670
+Solve El Dyn Time = 12.309664
+Solve Press Time = 21.282261
+Solve NS Time = 0.167006
+Solve Step Time = 34.538600
+Averege Solve Step Time = 31.189294
+
+AverageCurrentDensity 5 = -198543.2230890054
+AverageCurrentDensity 10= -198543.2189333584
+x = -1.3219964805 y = -0.0000003263 z = -0.0000105486
+check pressure schame = 0.00000002651236300855
+N 89 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 89 time step complete Predic Max div(alpha * v) = 0.000000000323361
+check pressure schame = -0.00000003200386008994
+N 89 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 89 time step complete Correc Max div(alpha * v) = 0.000000000530068
+N 89 time step complete 1 - Alpha = 0.000000046406400
+N 89 time step complete max VxH = 0.000000000000000
+N 89 time step complete, time: 0.445000
+N 89 time MPR 0.230712
+N 89 time Gas 0.570731
+Solve Alpha Time = 0.011137
+Solve El Dyn Time = 14.066399
+Solve Press Time = 18.741477
+Solve NS Time = 0.167550
+Solve Step Time = 33.774841
+Averege Solve Step Time = 31.218346
+
+AverageCurrentDensity 5 = -198546.1761123950
+AverageCurrentDensity 10= -198546.1815250223
+x = -1.4018786903 y = 0.0000006616 z = -0.0000104773
+check pressure schame = 0.00000002816178960906
+N 90 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 90 time step complete Predic Max div(alpha * v) = 0.000000000341939
+check pressure schame = 0.00000002413112402261
+N 90 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 90 time step complete Correc Max div(alpha * v) = 0.000000000172380
+N 90 time step complete 1 - Alpha = 0.000000046399101
+N 90 time step complete max VxH = 0.000000000000000
+N 90 time step complete, time: 0.450000
+N 90 time MPR 0.230700
+N 90 time Gas 0.570731
+Solve Alpha Time = 0.017825
+Solve El Dyn Time = 12.284654
+Solve Press Time = 22.011595
+Solve NS Time = 0.165312
+Solve Step Time = 35.243831
+Averege Solve Step Time = 31.263073
+
+AverageCurrentDensity 5 = -198549.1810262525
+AverageCurrentDensity 10= -198549.1863605957
+x = -1.4766116129 y = 0.0000007064 z = -0.0000105147
+check pressure schame = 0.00000002880528888506
+N 91 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 91 time step complete Predic Max div(alpha * v) = 0.000000000323046
+check pressure schame = 0.00000001616500853140
+N 91 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 91 time step complete Correc Max div(alpha * v) = 0.000000000204472
+N 91 time step complete 1 - Alpha = 0.000000046390338
+N 91 time step complete max VxH = 0.000000000000000
+N 91 time step complete, time: 0.455000
+N 91 time MPR 0.230687
+N 91 time Gas 0.570731
+Solve Alpha Time = 0.011042
+Solve El Dyn Time = 12.241557
+Solve Press Time = 21.301752
+Solve NS Time = 0.165312
+Solve Step Time = 34.487384
+Averege Solve Step Time = 31.298505
+
+AverageCurrentDensity 5 = -198557.3475727504
+AverageCurrentDensity 10= -198557.3449402401
+x = -1.3076963713 y = 0.0000001902 z = -0.0000104573
+check pressure schame = 0.00000002745469521084
+N 92 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 92 time step complete Predic Max div(alpha * v) = 0.000000000326622
+check pressure schame = 0.00000002871836314415
+N 92 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 92 time step complete Correc Max div(alpha * v) = 0.000000000152292
+N 92 time step complete 1 - Alpha = 0.000000046381720
+N 92 time step complete max VxH = 0.000000000000000
+N 92 time step complete, time: 0.460000
+N 92 time MPR 0.230674
+N 92 time Gas 0.570731
+Solve Alpha Time = 0.011090
+Solve El Dyn Time = 13.654804
+Solve Press Time = 21.555312
+Solve NS Time = 0.165729
+Solve Step Time = 36.170110
+Averege Solve Step Time = 31.351458
+
+AverageCurrentDensity 5 = -198560.4222853770
+AverageCurrentDensity 10= -198560.4278300229
+x = -1.3622769724 y = 0.0000001388 z = -0.0000105330
+check pressure schame = 0.00000002645390564997
+N 93 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 93 time step complete Predic Max div(alpha * v) = 0.000000000331756
+check pressure schame = -0.00000002657129784646
+N 93 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 93 time step complete Correc Max div(alpha * v) = 0.000000000384633
+N 93 time step complete 1 - Alpha = 0.000000046372666
+N 93 time step complete max VxH = 0.000000000000000
+N 93 time step complete, time: 0.465000
+N 93 time MPR 0.230661
+N 93 time Gas 0.570731
+Solve Alpha Time = 0.011878
+Solve El Dyn Time = 12.273792
+Solve Press Time = 20.097188
+Solve NS Time = 0.165376
+Solve Step Time = 33.314308
+Averege Solve Step Time = 31.372564
+
+AverageCurrentDensity 5 = -198563.5473012034
+AverageCurrentDensity 10= -198563.5527011480
+x = -1.3860438364 y = 0.0000006231 z = -0.0000104896
+check pressure schame = 0.00000002827856122618
+N 94 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 94 time step complete Predic Max div(alpha * v) = 0.000000000312706
+check pressure schame = 0.00000001525537235425
+N 94 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 94 time step complete Correc Max div(alpha * v) = 0.000000000188112
+N 94 time step complete 1 - Alpha = 0.000000046364679
+N 94 time step complete max VxH = 0.000000000000000
+N 94 time step complete, time: 0.470000
+N 94 time MPR 0.230648
+N 94 time Gas 0.570731
+Solve Alpha Time = 0.011711
+Solve El Dyn Time = 12.437441
+Solve Press Time = 22.070197
+Solve NS Time = 0.165731
+Solve Step Time = 35.448188
+Averege Solve Step Time = 31.415921
+
+AverageCurrentDensity 5 = -198569.4091641328
+AverageCurrentDensity 10= -198569.4063514245
+x = -1.3797277620 y = 0.0000003868 z = -0.0000104523
+check pressure schame = 0.00000002303865166681
+N 95 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 95 time step complete Predic Max div(alpha * v) = 0.000000000454092
+check pressure schame = 0.00000011235675666244
+N 95 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 95 time step complete Correc Max div(alpha * v) = 0.000000000756704
+N 95 time step complete 1 - Alpha = 0.000000046355874
+N 95 time step complete max VxH = 0.000000000000000
+N 95 time step complete, time: 0.475000
+N 95 time MPR 0.230635
+N 95 time Gas 0.570731
+Solve Alpha Time = 0.011107
+Solve El Dyn Time = 14.385684
+Solve Press Time = 13.041049
+Solve NS Time = 0.165617
+Solve Step Time = 28.389813
+Averege Solve Step Time = 31.384068
+
+AverageCurrentDensity 5 = -198576.8185319913
+AverageCurrentDensity 10= -198576.8236227735
+x = -1.6145059844 y = -0.0000001859 z = -0.0000105709
+check pressure schame = 0.00000002973894286905
+N 96 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 96 time step complete Predic Max div(alpha * v) = 0.000000000360753
+check pressure schame = 0.00000002618458435494
+N 96 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 96 time step complete Correc Max div(alpha * v) = 0.000000000147684
+N 96 time step complete 1 - Alpha = 0.000000046349546
+N 96 time step complete max VxH = 0.000000000000000
+N 96 time step complete, time: 0.480000
+N 96 time MPR 0.230622
+N 96 time Gas 0.570731
+Solve Alpha Time = 0.011712
+Solve El Dyn Time = 13.167853
+Solve Press Time = 25.413483
+Solve NS Time = 0.165452
+Solve Step Time = 39.518904
+Averege Solve Step Time = 31.468806
+
+AverageCurrentDensity 5 = -198584.0655507652
+AverageCurrentDensity 10= -198584.0623967644
+x = -1.3761851572 y = 0.0000000009 z = -0.0000104766
+check pressure schame = 0.00000002880794734337
+N 97 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 97 time step complete Predic Max div(alpha * v) = 0.000000000306638
+check pressure schame = 0.00000003418925919457
+N 97 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 97 time step complete Correc Max div(alpha * v) = 0.000000000190200
+N 97 time step complete 1 - Alpha = 0.000000046340494
+N 97 time step complete max VxH = 0.000000000000000
+N 97 time step complete, time: 0.485000
+N 97 time MPR 0.230608
+N 97 time Gas 0.570731
+Solve Alpha Time = 0.011321
+Solve El Dyn Time = 14.114992
+Solve Press Time = 22.502127
+Solve NS Time = 0.165684
+Solve Step Time = 37.552657
+Averege Solve Step Time = 31.531526
+
+AverageCurrentDensity 5 = -198587.3413026589
+AverageCurrentDensity 10= -198587.3467151975
+x = -1.4328080243 y = -0.0000005313 z = -0.0000104973
+check pressure schame = 0.00000002778227423724
+N 98 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 98 time step complete Predic Max div(alpha * v) = 0.000000000328721
+check pressure schame = 0.00000019622439102231
+N 98 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 98 time step complete Correc Max div(alpha * v) = 0.000000001260502
+N 98 time step complete 1 - Alpha = 0.000000046331654
+N 98 time step complete max VxH = 0.000000000000000
+N 98 time step complete, time: 0.490000
+N 98 time MPR 0.230598
+N 98 time Gas 0.570731
+Solve Alpha Time = 0.011618
+Solve El Dyn Time = 12.379998
+Solve Press Time = 14.768504
+Solve NS Time = 0.165739
+Solve Step Time = 28.125027
+Averege Solve Step Time = 31.496766
+
+AverageCurrentDensity 5 = -198595.1616180844
+AverageCurrentDensity 10= -198595.1588176726
+x = -1.4420634953 y = 0.0000003214 z = -0.0000104849
+check pressure schame = 0.00000008034405850343
+N 99 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 99 time step complete Predic Max div(alpha * v) = 0.000000000956557
+check pressure schame = 0.00000003074907777717
+N 99 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 99 time step complete Correc Max div(alpha * v) = 0.000000000181953
+N 99 time step complete 1 - Alpha = 0.000000046327326
+N 99 time step complete max VxH = 0.000000000000000
+N 99 time step complete, time: 0.495000
+N 99 time MPR 0.230589
+N 99 time Gas 0.570731
+Solve Alpha Time = 0.013258
+Solve El Dyn Time = 14.832169
+Solve Press Time = 19.529445
+Solve NS Time = 0.165645
+Solve Step Time = 35.308372
+Averege Solve Step Time = 31.535267
+
+AverageCurrentDensity 5 = -198599.2122619108
+AverageCurrentDensity 10= -198599.2091762522
+x = -1.5237549032 y = 0.0000007002 z = -0.0000104848
+check pressure schame = 0.00000002786896041718
+N 100 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 100 time step complete Predic Max div(alpha * v) = 0.000000000309120
+check pressure schame = 0.00000008035803774308
+N 100 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 100 time step complete Correc Max div(alpha * v) = 0.000000000423599
+N 100 time step complete 1 - Alpha = 0.000000046318224
+N 100 time step complete max VxH = 0.000000000000000
+N 100 time step complete, time: 0.500000
+N 100 time MPR 0.230579
+N 100 time Gas 0.570731
+Solve Alpha Time = 0.011137
+Solve El Dyn Time = 13.908803
+Solve Press Time = 21.404451
+Solve NS Time = 0.165593
+Solve Step Time = 36.250168
+Averege Solve Step Time = 31.582416
+
+AverageCurrentDensity 5 = -198602.6075796697
+AverageCurrentDensity 10= -198602.6130938701
+x = -1.6612670443 y = 0.0000001501 z = -0.0000105024
+check pressure schame = 0.00000002730720647173
+N 101 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 101 time step complete Predic Max div(alpha * v) = 0.000000000307794
+check pressure schame = -0.00000000215354167723
+N 101 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 101 time step complete Correc Max div(alpha * v) = 0.000000000147768
+N 101 time step complete 1 - Alpha = 0.000000046310421
+N 101 time step complete max VxH = 0.000000000000000
+N 101 time step complete, time: 0.505000
+N 101 time MPR 0.230570
+N 101 time Gas 0.570731
+Solve Alpha Time = 0.011101
+Solve El Dyn Time = 12.450246
+Solve Press Time = 22.718359
+Solve NS Time = 0.165555
+Solve Step Time = 36.111527
+Averege Solve Step Time = 31.627259
+
+AverageCurrentDensity 5 = -198611.1539978199
+AverageCurrentDensity 10= -198611.1516680413
+x = -1.6360064756 y = -0.0000001248 z = -0.0000105301
+check pressure schame = 0.00000003055889449995
+N 102 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 102 time step complete Predic Max div(alpha * v) = 0.000000000335274
+check pressure schame = 0.00000002765510061578
+N 102 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 102 time step complete Correc Max div(alpha * v) = 0.000000000168035
+N 102 time step complete 1 - Alpha = 0.000000046301280
+N 102 time step complete max VxH = 0.000000000000000
+N 102 time step complete, time: 0.510000
+N 102 time MPR 0.230560
+N 102 time Gas 0.570731
+Solve Alpha Time = 0.011697
+Solve El Dyn Time = 13.651986
+Solve Press Time = 22.787211
+Solve NS Time = 0.184934
+Solve Step Time = 37.442395
+Averege Solve Step Time = 31.684270
+
+AverageCurrentDensity 5 = -198614.6291195079
+AverageCurrentDensity 10= -198614.6344841273
+x = -1.7051599037 y = 0.0000001327 z = -0.0000104813
+check pressure schame = 0.00000002634434587145
+N 103 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 103 time step complete Predic Max div(alpha * v) = 0.000000000300511
+check pressure schame = 0.00000021830267440265
+N 103 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 103 time step complete Correc Max div(alpha * v) = 0.000000001259167
+N 103 time step complete 1 - Alpha = 0.000000046292216
+N 103 time step complete max VxH = 0.000000000000000
+N 103 time step complete, time: 0.515000
+N 103 time MPR 0.230551
+N 103 time Gas 0.570731
+Solve Alpha Time = 0.011107
+Solve El Dyn Time = 12.418137
+Solve Press Time = 14.387127
+Solve NS Time = 0.166881
+Solve Step Time = 27.770673
+Averege Solve Step Time = 31.646274
+
+AverageCurrentDensity 5 = -198631.4431677797
+AverageCurrentDensity 10= -198631.4427833002
+x = -1.6726950478 y = -0.0000004986 z = -0.0000105847
+check pressure schame = -0.00000000781458477529
+N 104 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 104 time step complete Predic Max div(alpha * v) = 0.000000000363013
+check pressure schame = -0.00000001816129133322
+N 104 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 104 time step complete Correc Max div(alpha * v) = 0.000000000264518
+N 104 time step complete 1 - Alpha = 0.000000046287722
+N 104 time step complete max VxH = 0.000000000000000
+N 104 time step complete, time: 0.520000
+N 104 time MPR 0.230541
+N 104 time Gas 0.570731
+Solve Alpha Time = 0.014481
+Solve El Dyn Time = 14.061451
+Solve Press Time = 21.134024
+Solve NS Time = 0.167239
+Solve Step Time = 36.153380
+Averege Solve Step Time = 31.689612
+
+AverageCurrentDensity 5 = -198634.9995833256
+AverageCurrentDensity 10= -198635.0050654796
+x = -1.7498308718 y = 0.0000000305 z = -0.0000105052
+check pressure schame = 0.00000002722458752880
+N 105 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 105 time step complete Predic Max div(alpha * v) = 0.000000000313782
+check pressure schame = 0.00000002926035956585
+N 105 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 105 time step complete Correc Max div(alpha * v) = 0.000000000152274
+N 105 time step complete 1 - Alpha = 0.000000046278998
+N 105 time step complete max VxH = 0.000000000000000
+N 105 time step complete, time: 0.525000
+N 105 time MPR 0.230531
+N 105 time Gas 0.570731
+Solve Alpha Time = 0.011086
+Solve El Dyn Time = 12.478606
+Solve Press Time = 23.577525
+Solve NS Time = 0.165593
+Solve Step Time = 36.998615
+Averege Solve Step Time = 31.740174
+
+AverageCurrentDensity 5 = -198639.3651856793
+AverageCurrentDensity 10= -198639.3614132367
+x = -1.6430887290 y = 0.0000005729 z = -0.0000104524
+check pressure schame = 0.00000002614917483197
+N 106 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 106 time step complete Predic Max div(alpha * v) = 0.000000000341949
+check pressure schame = 0.00000001108821856902
+N 106 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 106 time step complete Correc Max div(alpha * v) = 0.000000000153346
+N 106 time step complete 1 - Alpha = 0.000000046269831
+N 106 time step complete max VxH = 0.000000000000000
+N 106 time step complete, time: 0.530000
+N 106 time MPR 0.230521
+N 106 time Gas 0.570731
+Solve Alpha Time = 0.011658
+Solve El Dyn Time = 14.339119
+Solve Press Time = 23.834828
+Solve NS Time = 0.165509
+Solve Step Time = 39.120791
+Averege Solve Step Time = 31.809802
+
+AverageCurrentDensity 5 = -198648.0076045273
+AverageCurrentDensity 10= -198648.0065390527
+x = -1.5808428736 y = 0.0000005253 z = -0.0000104933
+check pressure schame = 0.00000001931252066167
+N 107 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 107 time step complete Predic Max div(alpha * v) = 0.000000000353690
+check pressure schame = -0.00000006709152045275
+N 107 time step complete Correc Summ div(alpha * v) = -0.000000000000002
+N 107 time step complete Correc Max div(alpha * v) = 0.000000000995826
+N 107 time step complete 1 - Alpha = 0.000000046260668
+N 107 time step complete max VxH = 0.000000000000000
+N 107 time step complete, time: 0.535000
+N 107 time MPR 0.230511
+N 107 time Gas 0.570731
+Solve Alpha Time = 0.011179
+Solve El Dyn Time = 13.518258
+Solve Press Time = 13.849880
+Solve NS Time = 0.166448
+Solve Step Time = 28.350809
+Averege Solve Step Time = 31.777476
+
+AverageCurrentDensity 5 = -198651.6830474416
+AverageCurrentDensity 10= -198651.6885281666
+x = -1.6588061360 y = 0.0000001109 z = -0.0000104770
+check pressure schame = 0.00000002747556048410
+N 108 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 108 time step complete Predic Max div(alpha * v) = 0.000000000333974
+check pressure schame = 0.00000003152854163163
+N 108 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 108 time step complete Correc Max div(alpha * v) = 0.000000000165334
+N 108 time step complete 1 - Alpha = 0.000000046255237
+N 108 time step complete max VxH = 0.000000000000000
+N 108 time step complete, time: 0.540000
+N 108 time MPR 0.230501
+N 108 time Gas 0.570731
+Solve Alpha Time = 0.011503
+Solve El Dyn Time = 12.487618
+Solve Press Time = 23.874056
+Solve NS Time = 0.165275
+Solve Step Time = 37.302994
+Averege Solve Step Time = 31.828638
+
+AverageCurrentDensity 5 = -198657.1053699927
+AverageCurrentDensity 10= -198657.1012835923
+x = -1.6644383005 y = -0.0000004165 z = -0.0000104496
+check pressure schame = 0.00000002843190118409
+N 109 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 109 time step complete Predic Max div(alpha * v) = 0.000000000302938
+check pressure schame = -0.00000003143537521272
+N 109 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 109 time step complete Correc Max div(alpha * v) = 0.000000000512437
+N 109 time step complete 1 - Alpha = 0.000000046246016
+N 109 time step complete max VxH = 0.000000000000000
+N 109 time step complete, time: 0.545000
+N 109 time MPR 0.230491
+N 109 time Gas 0.570731
+Solve Alpha Time = 0.011096
+Solve El Dyn Time = 15.018899
+Solve Press Time = 19.852466
+Solve NS Time = 0.165485
+Solve Step Time = 35.810529
+Averege Solve Step Time = 31.865169
+
+AverageCurrentDensity 5 = -198660.8570638808
+AverageCurrentDensity 10= -198660.8624666169
+x = -1.7601324658 y = 0.0000002407 z = -0.0000104689
+check pressure schame = 0.00000002915925766565
+N 110 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 110 time step complete Predic Max div(alpha * v) = 0.000000000334098
+check pressure schame = 0.00000016360329993526
+N 110 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 110 time step complete Correc Max div(alpha * v) = 0.000000000912071
+N 110 time step complete 1 - Alpha = 0.000000046238308
+N 110 time step complete max VxH = 0.000000000000000
+N 110 time step complete, time: 0.550000
+N 110 time MPR 0.230481
+N 110 time Gas 0.570731
+Solve Alpha Time = 0.011674
+Solve El Dyn Time = 12.628629
+Solve Press Time = 17.060772
+Solve NS Time = 0.168879
+Solve Step Time = 30.656867
+Averege Solve Step Time = 31.854185
+
+AverageCurrentDensity 5 = -198664.6586454693
+AverageCurrentDensity 10= -198664.6639670494
+x = -1.8269985502 y = 0.0000001916 z = -0.0000104807
+check pressure schame = 0.00000002839333175519
+N 111 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 111 time step complete Predic Max div(alpha * v) = 0.000000000330227
+check pressure schame = 0.00000003078043596394
+N 111 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 111 time step complete Correc Max div(alpha * v) = 0.000000000183602
+N 111 time step complete 1 - Alpha = 0.000000046232096
+N 111 time step complete max VxH = 0.000000000000000
+N 111 time step complete, time: 0.555000
+N 111 time MPR 0.230471
+N 111 time Gas 0.570731
+Solve Alpha Time = 0.014020
+Solve El Dyn Time = 12.642515
+Solve Press Time = 24.262152
+Solve NS Time = 0.165312
+Solve Step Time = 37.848327
+Averege Solve Step Time = 31.908186
+
+AverageCurrentDensity 5 = -198669.6893229725
+AverageCurrentDensity 10= -198669.6862565442
+x = -2.0080245894 y = 0.0000007049 z = -0.0000104899
+check pressure schame = 0.00000003034092121990
+N 112 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 112 time step complete Predic Max div(alpha * v) = 0.000000000369179
+check pressure schame = 0.00000002196186162638
+N 112 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 112 time step complete Correc Max div(alpha * v) = 0.000000000147851
+N 112 time step complete 1 - Alpha = 0.000000046222872
+N 112 time step complete max VxH = 0.000000000000000
+N 112 time step complete, time: 0.560000
+N 112 time MPR 0.230461
+N 112 time Gas 0.570731
+Solve Alpha Time = 0.017127
+Solve El Dyn Time = 14.930058
+Solve Press Time = 23.525123
+Solve NS Time = 0.165618
+Solve Step Time = 39.406349
+Averege Solve Step Time = 31.975134
+
+AverageCurrentDensity 5 = -198673.5600705992
+AverageCurrentDensity 10= -198673.5647237077
+x = -2.0319574381 y = 0.0000009270 z = -0.0000104674
+check pressure schame = 0.00000003039039630712
+N 113 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 113 time step complete Predic Max div(alpha * v) = 0.000000000358447
+check pressure schame = 0.00000002878761496186
+N 113 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 113 time step complete Correc Max div(alpha * v) = 0.000000000180103
+N 113 time step complete 1 - Alpha = 0.000000046213564
+N 113 time step complete max VxH = 0.000000000000000
+N 113 time step complete, time: 0.565000
+N 113 time MPR 0.230451
+N 113 time Gas 0.570731
+Solve Alpha Time = 0.011135
+Solve El Dyn Time = 12.545409
+Solve Press Time = 25.250192
+Solve NS Time = 0.168356
+Solve Step Time = 38.744910
+Averege Solve Step Time = 32.035043
+
+AverageCurrentDensity 5 = -198677.4786745768
+AverageCurrentDensity 10= -198677.4838816342
+x = -2.0885866811 y = 0.0000004836 z = -0.0000105603
+check pressure schame = 0.00000002456881278371
+N 114 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 114 time step complete Predic Max div(alpha * v) = 0.000000000309170
+check pressure schame = 0.00000002680501612340
+N 114 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 114 time step complete Correc Max div(alpha * v) = 0.000000000152116
+N 114 time step complete 1 - Alpha = 0.000000046204291
+N 114 time step complete max VxH = 0.000000000000000
+N 114 time step complete, time: 0.570000
+N 114 time MPR 0.230440
+N 114 time Gas 0.570731
+Solve Alpha Time = 0.014693
+Solve El Dyn Time = 12.601232
+Solve Press Time = 24.352929
+Solve NS Time = 0.165471
+Solve Step Time = 37.906374
+Averege Solve Step Time = 32.086546
+
+AverageCurrentDensity 5 = -198678.0943233093
+AverageCurrentDensity 10= -198678.0909422760
+x = -1.5385242472 y = -0.0000008279 z = -0.0000062018
+check pressure schame = 0.00000006207218345279
+N 115 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 115 time step complete Predic Max div(alpha * v) = 0.000000000915007
+check pressure schame = 0.00000002478885345429
+N 115 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 115 time step complete Correc Max div(alpha * v) = 0.000000000172516
+N 115 time step complete 1 - Alpha = 0.000000046194880
+N 115 time step complete max VxH = 0.000000000000000
+N 115 time step complete, time: 0.575000
+N 115 time MPR 0.230430
+N 115 time Gas 0.570731
+Solve Alpha Time = 0.011094
+Solve El Dyn Time = 14.420494
+Solve Press Time = 24.661651
+Solve NS Time = 0.170206
+Solve Step Time = 40.029496
+Averege Solve Step Time = 32.155616
+
+AverageCurrentDensity 5 = -198682.0813004340
+AverageCurrentDensity 10= -198682.0866720120
+x = -1.5515652584 y = 0.0000000862 z = -0.0000105446
+check pressure schame = 0.00000002737033429762
+N 116 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 116 time step complete Predic Max div(alpha * v) = 0.000000000304838
+check pressure schame = 0.00000001661165053082
+N 116 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 116 time step complete Correc Max div(alpha * v) = 0.000000000216019
+N 116 time step complete 1 - Alpha = 0.000000046184176
+N 116 time step complete max VxH = 0.000000000000000
+N 116 time step complete, time: 0.580000
+N 116 time MPR 0.230419
+N 116 time Gas 0.570731
+Solve Alpha Time = 0.011077
+Solve El Dyn Time = 12.564442
+Solve Press Time = 23.292220
+Solve NS Time = 0.165612
+Solve Step Time = 36.794512
+Averege Solve Step Time = 32.195606
+
+AverageCurrentDensity 5 = -198686.6037226774
+AverageCurrentDensity 10= -198686.6009161545
+x = -1.5152936923 y = 0.0000003076 z = -0.0000105019
+check pressure schame = 0.00000002480250356788
+N 117 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 117 time step complete Predic Max div(alpha * v) = 0.000000000368374
+check pressure schame = 0.00000000083097168317
+N 117 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 117 time step complete Correc Max div(alpha * v) = 0.000000000150125
+N 117 time step complete 1 - Alpha = 0.000000046175002
+N 117 time step complete max VxH = 0.000000000000000
+N 117 time step complete, time: 0.585000
+N 117 time MPR 0.230409
+N 117 time Gas 0.570731
+Solve Alpha Time = 0.011117
+Solve El Dyn Time = 14.320954
+Solve Press Time = 23.846443
+Solve NS Time = 0.165512
+Solve Step Time = 39.105864
+Averege Solve Step Time = 32.254668
+
+AverageCurrentDensity 5 = -198695.7262452062
+AverageCurrentDensity 10= -198695.7236297961
+x = -1.5407497735 y = -0.0000002831 z = -0.0000104956
+check pressure schame = 0.00000005912038474986
+N 118 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 118 time step complete Predic Max div(alpha * v) = 0.000000000664607
+check pressure schame = -0.00000000253392511856
+N 118 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 118 time step complete Correc Max div(alpha * v) = 0.000000000165718
+N 118 time step complete 1 - Alpha = 0.000000046165491
+N 118 time step complete max VxH = 0.000000000000000
+N 118 time step complete, time: 0.590000
+N 118 time MPR 0.230398
+N 118 time Gas 0.570731
+Solve Alpha Time = 0.011312
+Solve El Dyn Time = 13.845668
+Solve Press Time = 18.560412
+Solve NS Time = 0.166638
+Solve Step Time = 33.393642
+Averege Solve Step Time = 32.264321
+
+AverageCurrentDensity 5 = -198700.2379712392
+AverageCurrentDensity 10= -198700.2347520669
+x = -1.4725293118 y = -0.0000002148 z = -0.0000104974
+check pressure schame = 0.00000005430885315072
+N 119 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 119 time step complete Predic Max div(alpha * v) = 0.000000000589566
+check pressure schame = 0.00000015582539021793
+N 119 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 119 time step complete Correc Max div(alpha * v) = 0.000000001220020
+N 119 time step complete 1 - Alpha = 0.000000046155844
+N 119 time step complete max VxH = 0.000000000000000
+N 119 time step complete, time: 0.595000
+N 119 time MPR 0.230387
+N 119 time Gas 0.570731
+Solve Alpha Time = 0.014244
+Solve El Dyn Time = 14.091302
+Solve Press Time = 15.010396
+Solve NS Time = 0.166850
+Solve Step Time = 30.091061
+Averege Solve Step Time = 32.246058
+
+AverageCurrentDensity 5 = -198704.3795679486
+AverageCurrentDensity 10= -198704.3849885936
+x = -1.5438305894 y = 0.0000001473 z = -0.0000105503
+check pressure schame = 0.00000002673868620138
+N 120 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 120 time step complete Predic Max div(alpha * v) = 0.000000000318564
+check pressure schame = -0.00000003903567281677
+N 120 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 120 time step complete Correc Max div(alpha * v) = 0.000000000617296
+N 120 time step complete 1 - Alpha = 0.000000046151327
+N 120 time step complete max VxH = 0.000000000000000
+N 120 time step complete, time: 0.600000
+N 120 time MPR 0.230377
+N 120 time Gas 0.570731
+Solve Alpha Time = 0.013120
+Solve El Dyn Time = 12.889817
+Solve Press Time = 20.318373
+Solve NS Time = 0.165264
+Solve Step Time = 34.147308
+Averege Solve Step Time = 32.261902
+
+AverageCurrentDensity 5 = -198708.9669291875
+AverageCurrentDensity 10= -198708.9637527820
+x = -1.5111697927 y = 0.0000001700 z = -0.0000104940
+check pressure schame = 0.00000002752300107614
+N 121 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 121 time step complete Predic Max div(alpha * v) = 0.000000000321765
+check pressure schame = 0.00000004810293173507
+N 121 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 121 time step complete Correc Max div(alpha * v) = 0.000000000287388
+N 121 time step complete 1 - Alpha = 0.000000046143747
+N 121 time step complete max VxH = 0.000000000000000
+N 121 time step complete, time: 0.605000
+N 121 time MPR 0.230366
+N 121 time Gas 0.570731
+Solve Alpha Time = 0.011111
+Solve El Dyn Time = 13.913282
+Solve Press Time = 22.989302
+Solve NS Time = 0.165812
+Solve Step Time = 37.840495
+Averege Solve Step Time = 32.308006
+
+AverageCurrentDensity 5 = -198713.1858183412
+AverageCurrentDensity 10= -198713.1902773620
+x = -1.5808563793 y = -0.0000002941 z = -0.0000105280
+check pressure schame = 0.00000002917709147985
+N 122 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 122 time step complete Predic Max div(alpha * v) = 0.000000000337726
+check pressure schame = 0.00000006088255427236
+N 122 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 122 time step complete Correc Max div(alpha * v) = 0.000000000342488
+N 122 time step complete 1 - Alpha = 0.000000046134815
+N 122 time step complete max VxH = 0.000000000000000
+N 122 time step complete, time: 0.610000
+N 122 time MPR 0.230355
+N 122 time Gas 0.570731
+Solve Alpha Time = 0.014641
+Solve El Dyn Time = 12.767023
+Solve Press Time = 22.859771
+Solve NS Time = 0.165811
+Solve Step Time = 36.572375
+Averege Solve Step Time = 32.342960
+
+AverageCurrentDensity 5 = -198717.4515428292
+AverageCurrentDensity 10= -198717.4568015094
+x = -1.6227399595 y = 0.0000003682 z = -0.0000104993
+check pressure schame = 0.00000004045528489809
+N 123 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 123 time step complete Predic Max div(alpha * v) = 0.000000000449683
+check pressure schame = 0.00000007530283228127
+N 123 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 123 time step complete Correc Max div(alpha * v) = 0.000000000403891
+N 123 time step complete 1 - Alpha = 0.000000046126046
+N 123 time step complete max VxH = 0.000000000000000
+N 123 time step complete, time: 0.615000
+N 123 time MPR 0.230344
+N 123 time Gas 0.570731
+Solve Alpha Time = 0.011189
+Solve El Dyn Time = 12.654580
+Solve Press Time = 20.100845
+Solve NS Time = 0.165461
+Solve Step Time = 33.701526
+Averege Solve Step Time = 32.354005
+
+AverageCurrentDensity 5 = -198721.7559922382
+AverageCurrentDensity 10= -198721.7613050612
+x = -1.6922899818 y = 0.0000000865 z = -0.0000105495
+check pressure schame = 0.00000002856380161348
+N 124 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 124 time step complete Predic Max div(alpha * v) = 0.000000000320146
+check pressure schame = -0.00000006741767300759
+N 124 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 124 time step complete Correc Max div(alpha * v) = 0.000000001140106
+N 124 time step complete 1 - Alpha = 0.000000046117541
+N 124 time step complete max VxH = 0.000000000000000
+N 124 time step complete, time: 0.620000
+N 124 time MPR 0.230333
+N 124 time Gas 0.570731
+Solve Alpha Time = 0.011202
+Solve El Dyn Time = 12.665165
+Solve Press Time = 17.475793
+Solve NS Time = 0.166533
+Solve Step Time = 31.100599
+Averege Solve Step Time = 32.343897
+
+AverageCurrentDensity 5 = -198726.5899732831
+AverageCurrentDensity 10= -198726.5871446943
+x = -1.7375297483 y = 0.0000004114 z = -0.0000104864
+check pressure schame = 0.00000003105801182901
+N 125 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 125 time step complete Predic Max div(alpha * v) = 0.000000000322100
+check pressure schame = 0.00000014971377746385
+N 125 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 125 time step complete Correc Max div(alpha * v) = 0.000000001003794
+N 125 time step complete 1 - Alpha = 0.000000046111849
+N 125 time step complete max VxH = 0.000000000000000
+N 125 time step complete, time: 0.625000
+N 125 time MPR 0.230322
+N 125 time Gas 0.570731
+Solve Alpha Time = 0.014238
+Solve El Dyn Time = 14.575028
+Solve Press Time = 17.577976
+Solve NS Time = 0.168580
+Solve Step Time = 33.119923
+Averege Solve Step Time = 32.350106
+
+AverageCurrentDensity 5 = -198731.3812034537
+AverageCurrentDensity 10= -198731.3781409903
+x = -1.8243779471 y = 0.0000002001 z = -0.0000104785
+check pressure schame = 0.00000002682543281794
+N 126 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 126 time step complete Predic Max div(alpha * v) = 0.000000000315598
+check pressure schame = 0.00000006424847198705
+N 126 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 126 time step complete Correc Max div(alpha * v) = 0.000000000374930
+N 126 time step complete 1 - Alpha = 0.000000046105945
+N 126 time step complete max VxH = 0.000000000000000
+N 126 time step complete, time: 0.630000
+N 126 time MPR 0.230311
+N 126 time Gas 0.570731
+Solve Alpha Time = 0.012664
+Solve El Dyn Time = 13.987207
+Solve Press Time = 22.261880
+Solve NS Time = 0.167991
+Solve Step Time = 37.194197
+Averege Solve Step Time = 32.388551
+
+AverageCurrentDensity 5 = -198735.7928483659
+AverageCurrentDensity 10= -198735.7954181106
+x = -2.0775283203 y = -0.0000006665 z = -0.0000104791
+check pressure schame = 0.00000002690670203656
+N 127 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 127 time step complete Predic Max div(alpha * v) = 0.000000000313928
+check pressure schame = 0.00000002939680912150
+N 127 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 127 time step complete Correc Max div(alpha * v) = 0.000000000157865
+N 127 time step complete 1 - Alpha = 0.000000046097294
+N 127 time step complete max VxH = 0.000000000000000
+N 127 time step complete, time: 0.635000
+N 127 time MPR 0.230300
+N 127 time Gas 0.570731
+Solve Alpha Time = 0.011098
+Solve El Dyn Time = 12.798863
+Solve Press Time = 25.610169
+Solve NS Time = 0.165401
+Solve Step Time = 39.352423
+Averege Solve Step Time = 32.443385
+
+AverageCurrentDensity 5 = -198732.4630193525
+AverageCurrentDensity 10= -198732.4683447658
+x = -1.9023062104 y = -0.0000000753 z = 0.0000105793
+check pressure schame = 0.00000004127658705892
+N 128 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 128 time step complete Predic Max div(alpha * v) = 0.000000000465558
+check pressure schame = 0.00000003963237421752
+N 128 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 128 time step complete Correc Max div(alpha * v) = 0.000000000234533
+N 128 time step complete 1 - Alpha = 0.000000046087682
+N 128 time step complete max VxH = 0.000000000000000
+N 128 time step complete, time: 0.640000
+N 128 time MPR 0.230289
+N 128 time Gas 0.570731
+Solve Alpha Time = 0.011097
+Solve El Dyn Time = 12.364956
+Solve Press Time = 18.895722
+Solve NS Time = 0.165659
+Solve Step Time = 32.204748
+Averege Solve Step Time = 32.441520
+
+AverageCurrentDensity 5 = -198736.9566858212
+AverageCurrentDensity 10= -198736.9620605535
+x = -1.9866507096 y = 0.0000000273 z = -0.0000104857
+check pressure schame = 0.00000002970228639432
+N 129 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 129 time step complete Predic Max div(alpha * v) = 0.000000000335422
+check pressure schame = 0.00000002954308800374
+N 129 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 129 time step complete Correc Max div(alpha * v) = 0.000000000159630
+N 129 time step complete 1 - Alpha = 0.000000046078271
+N 129 time step complete max VxH = 0.000000000000000
+N 129 time step complete, time: 0.645000
+N 129 time MPR 0.230277
+N 129 time Gas 0.570731
+Solve Alpha Time = 0.011378
+Solve El Dyn Time = 12.831278
+Solve Press Time = 24.729556
+Solve NS Time = 0.165322
+Solve Step Time = 38.505815
+Averege Solve Step Time = 32.488530
+
+AverageCurrentDensity 5 = -198741.4881799894
+AverageCurrentDensity 10= -198741.4931845168
+x = -2.0566392065 y = 0.0000003771 z = -0.0000104801
+check pressure schame = 0.00000003452625015055
+N 130 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 130 time step complete Predic Max div(alpha * v) = 0.000000000439031
+check pressure schame = -0.00000002219612590211
+N 130 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 130 time step complete Correc Max div(alpha * v) = 0.000000000548464
+N 130 time step complete 1 - Alpha = 0.000000046068642
+N 130 time step complete max VxH = 0.000000000000000
+N 130 time step complete, time: 0.650000
+N 130 time MPR 0.230266
+N 130 time Gas 0.570731
+Solve Alpha Time = 0.014575
+Solve El Dyn Time = 12.884222
+Solve Press Time = 19.845068
+Solve NS Time = 0.165839
+Solve Step Time = 33.682447
+Averege Solve Step Time = 32.497714
+
+AverageCurrentDensity 5 = -198746.5396566052
+AverageCurrentDensity 10= -198746.5368196146
+x = -2.0397155873 y = 0.0000002521 z = -0.0000105030
+check pressure schame = 0.00000004012153717071
+N 131 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 131 time step complete Predic Max div(alpha * v) = 0.000000000442207
+check pressure schame = 0.00000001089652476062
+N 131 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 131 time step complete Correc Max div(alpha * v) = 0.000000000173159
+N 131 time step complete 1 - Alpha = 0.000000046060478
+N 131 time step complete max VxH = 0.000000000000000
+N 131 time step complete, time: 0.655000
+N 131 time MPR 0.230254
+N 131 time Gas 0.570731
+Solve Alpha Time = 0.011083
+Solve El Dyn Time = 14.611611
+Solve Press Time = 23.736235
+Solve NS Time = 0.166902
+Solve Step Time = 39.291184
+Averege Solve Step Time = 32.549573
+
+AverageCurrentDensity 5 = -198752.1411714818
+AverageCurrentDensity 10= -198752.1381451814
+x = -1.7814620605 y = -0.0000008193 z = -0.0000104689
+check pressure schame = 0.00000002592312078257
+N 132 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 132 time step complete Predic Max div(alpha * v) = 0.000000000325320
+check pressure schame = 0.00000000967136933906
+N 132 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 132 time step complete Correc Max div(alpha * v) = 0.000000000156794
+N 132 time step complete 1 - Alpha = 0.000000046050783
+N 132 time step complete max VxH = 0.000000000000000
+N 132 time step complete, time: 0.660000
+N 132 time MPR 0.230243
+N 132 time Gas 0.570731
+Solve Alpha Time = 0.011171
+Solve El Dyn Time = 15.140838
+Solve Press Time = 26.124911
+Solve NS Time = 0.165536
+Solve Step Time = 42.206127
+Averege Solve Step Time = 32.622729
+
+AverageCurrentDensity 5 = -198763.2063184196
+AverageCurrentDensity 10= -198763.2026426592
+x = -1.3016289089 y = -0.0000007238 z = -0.0000104860
+check pressure schame = 0.00000002094581960004
+N 133 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 133 time step complete Predic Max div(alpha * v) = 0.000000000329595
+check pressure schame = 0.00000003067082688518
+N 133 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 133 time step complete Correc Max div(alpha * v) = 0.000000000168698
+N 133 time step complete 1 - Alpha = 0.000000046041111
+N 133 time step complete max VxH = 0.000000000000000
+N 133 time step complete, time: 0.665000
+N 133 time MPR 0.230231
+N 133 time Gas 0.570731
+Solve Alpha Time = 0.011063
+Solve El Dyn Time = 15.609277
+Solve Press Time = 26.690948
+Solve NS Time = 0.165382
+Solve Step Time = 43.242982
+Averege Solve Step Time = 32.702580
+
+AverageCurrentDensity 5 = -198767.8768980778
+AverageCurrentDensity 10= -198767.8821563154
+x = -1.3936017505 y = 0.0000001709 z = -0.0000104876
+check pressure schame = 0.00000003037882954058
+N 134 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 134 time step complete Predic Max div(alpha * v) = 0.000000000336907
+check pressure schame = 0.00000000143997143354
+N 134 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 134 time step complete Correc Max div(alpha * v) = 0.000000000151156
+N 134 time step complete 1 - Alpha = 0.000000046031379
+N 134 time step complete max VxH = 0.000000000000000
+N 134 time step complete, time: 0.670000
+N 134 time MPR 0.230220
+N 134 time Gas 0.570731
+Solve Alpha Time = 0.014703
+Solve El Dyn Time = 12.846781
+Solve Press Time = 25.052148
+Solve NS Time = 0.165190
+Solve Step Time = 38.845725
+Averege Solve Step Time = 32.748425
+
+AverageCurrentDensity 5 = -198772.5947552897
+AverageCurrentDensity 10= -198772.5999198280
+x = -1.4402404758 y = 0.0000004041 z = -0.0000105495
+check pressure schame = 0.00000002783674828751
+N 135 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 135 time step complete Predic Max div(alpha * v) = 0.000000000343491
+check pressure schame = 0.00000003521954828473
+N 135 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 135 time step complete Correc Max div(alpha * v) = 0.000000000166144
+N 135 time step complete 1 - Alpha = 0.000000046021591
+N 135 time step complete max VxH = 0.000000000000000
+N 135 time step complete, time: 0.675000
+N 135 time MPR 0.230208
+N 135 time Gas 0.570731
+Solve Alpha Time = 0.011061
+Solve El Dyn Time = 12.772383
+Solve Press Time = 25.297289
+Solve NS Time = 0.165306
+Solve Step Time = 39.007433
+Averege Solve Step Time = 32.794788
+
+AverageCurrentDensity 5 = -198777.3493016741
+AverageCurrentDensity 10= -198777.3546223402
+x = -1.4903806010 y = -0.0000000946 z = -0.0000105313
+check pressure schame = 0.00000005348751295781
+N 136 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 136 time step complete Predic Max div(alpha * v) = 0.000000000591618
+check pressure schame = 0.00000009519282184126
+N 136 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 136 time step complete Correc Max div(alpha * v) = 0.000000000624128
+N 136 time step complete 1 - Alpha = 0.000000046011851
+N 136 time step complete max VxH = 0.000000000000000
+N 136 time step complete, time: 0.680000
+N 136 time MPR 0.230196
+N 136 time Gas 0.570731
+Solve Alpha Time = 0.011115
+Solve El Dyn Time = 12.849122
+Solve Press Time = 18.057861
+Solve NS Time = 0.165646
+Solve Step Time = 31.847727
+Averege Solve Step Time = 32.787824
+
+AverageCurrentDensity 5 = -198783.1538007254
+AverageCurrentDensity 10= -198783.1501599632
+x = -1.3964596233 y = 0.0000004981 z = -0.0000104753
+check pressure schame = 0.00000002715195978773
+N 137 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 137 time step complete Predic Max div(alpha * v) = 0.000000000336872
+check pressure schame = 0.00000017095724957330
+N 137 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 137 time step complete Correc Max div(alpha * v) = 0.000000001051320
+N 137 time step complete 1 - Alpha = 0.000000046003905
+N 137 time step complete max VxH = 0.000000000000000
+N 137 time step complete, time: 0.685000
+N 137 time MPR 0.230184
+N 137 time Gas 0.570731
+Solve Alpha Time = 0.011102
+Solve El Dyn Time = 14.608754
+Solve Press Time = 17.955000
+Solve NS Time = 0.166756
+Solve Step Time = 33.529907
+Averege Solve Step Time = 32.793241
+
+AverageCurrentDensity 5 = -198787.9710030323
+AverageCurrentDensity 10= -198787.9763614929
+x = -1.4673077151 y = -0.0000001140 z = -0.0000104842
+check pressure schame = 0.00000002553551396571
+N 138 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 138 time step complete Predic Max div(alpha * v) = 0.000000000325918
+check pressure schame = 0.00000002961864759010
+N 138 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 138 time step complete Correc Max div(alpha * v) = 0.000000000159727
+N 138 time step complete 1 - Alpha = 0.000000045997893
+N 138 time step complete max VxH = 0.000000000000000
+N 138 time step complete, time: 0.690000
+N 138 time MPR 0.230172
+N 138 time Gas 0.570731
+Solve Alpha Time = 0.012520
+Solve El Dyn Time = 12.860174
+Solve Press Time = 27.537842
+Solve NS Time = 0.167862
+Solve Step Time = 41.358541
+Averege Solve Step Time = 32.855309
+
+AverageCurrentDensity 5 = -198798.3772176973
+AverageCurrentDensity 10= -198798.3743504630
+x = -1.1916907942 y = 0.0000010163 z = -0.0000104835
+check pressure schame = 0.00000003094246541760
+N 139 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 139 time step complete Predic Max div(alpha * v) = 0.000000000319742
+check pressure schame = -0.00000003678814018758
+N 139 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 139 time step complete Correc Max div(alpha * v) = 0.000000000575578
+N 139 time step complete 1 - Alpha = 0.000000045988089
+N 139 time step complete max VxH = 0.000000000000000
+N 139 time step complete, time: 0.695000
+N 139 time MPR 0.230160
+N 139 time Gas 0.570731
+Solve Alpha Time = 0.011082
+Solve El Dyn Time = 15.128666
+Solve Press Time = 19.142790
+Solve NS Time = 0.179798
+Solve Step Time = 35.265032
+Averege Solve Step Time = 32.872645
+
+AverageCurrentDensity 5 = -198803.6278370080
+AverageCurrentDensity 10= -198803.6247392257
+x = -1.0296669366 y = 0.0000003204 z = -0.0000105349
+check pressure schame = 0.00000002862691056774
+N 140 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 140 time step complete Predic Max div(alpha * v) = 0.000000000331953
+check pressure schame = 0.00000030651265078840
+N 140 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 140 time step complete Correc Max div(alpha * v) = 0.000000001752109
+N 140 time step complete 1 - Alpha = 0.000000045980016
+N 140 time step complete max VxH = 0.000000000000000
+N 140 time step complete, time: 0.700000
+N 140 time MPR 0.230148
+N 140 time Gas 0.570731
+Solve Alpha Time = 0.011101
+Solve El Dyn Time = 14.230562
+Solve Press Time = 15.612914
+Solve NS Time = 0.165996
+Solve Step Time = 30.806589
+Averege Solve Step Time = 32.857887
+
+AverageCurrentDensity 5 = -198811.0412647710
+AverageCurrentDensity 10= -198811.0368418855
+x = -0.3637479884 y = -0.0000006901 z = -0.0000104591
+check pressure schame = 0.00000002751445007769
+N 141 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 141 time step complete Predic Max div(alpha * v) = 0.000000000316018
+check pressure schame = 0.00000003300231624093
+N 141 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 141 time step complete Correc Max div(alpha * v) = 0.000000000183261
+N 141 time step complete 1 - Alpha = 0.000000045977313
+N 141 time step complete max VxH = 0.000000000000000
+N 141 time step complete, time: 0.705000
+N 141 time MPR 0.230136
+N 141 time Gas 0.570731
+Solve Alpha Time = 0.013544
+Solve El Dyn Time = 15.669429
+Solve Press Time = 25.468073
+Solve NS Time = 0.165529
+Solve Step Time = 42.088372
+Averege Solve Step Time = 32.923352
+
+AverageCurrentDensity 5 = -198816.0044532757
+AverageCurrentDensity 10= -198816.0096678764
+x = -0.4710566612 y = 0.0000001188 z = -0.0000105036
+check pressure schame = 0.00000002838174843625
+N 142 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 142 time step complete Predic Max div(alpha * v) = 0.000000000326523
+check pressure schame = 0.00000012431522428136
+N 142 time step complete Correc Summ div(alpha * v) = 0.000000000000002
+N 142 time step complete Correc Max div(alpha * v) = 0.000000000667325
+N 142 time step complete 1 - Alpha = 0.000000045967559
+N 142 time step complete max VxH = 0.000000000000000
+N 142 time step complete, time: 0.710000
+N 142 time MPR 0.230124
+N 142 time Gas 0.570731
+Solve Alpha Time = 0.014618
+Solve El Dyn Time = 12.877781
+Solve Press Time = 20.163578
+Solve NS Time = 0.165457
+Solve Step Time = 34.008531
+Averege Solve Step Time = 32.930994
+
+AverageCurrentDensity 5 = -198827.3586468250
+AverageCurrentDensity 10= -198827.3554058354
+x = -0.8812172376 y = 0.0000000244 z = -0.0000105249
+check pressure schame = 0.00000002978284020794
+N 143 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 143 time step complete Predic Max div(alpha * v) = 0.000000000333819
+check pressure schame = -0.00000002512158001457
+N 143 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 143 time step complete Correc Max div(alpha * v) = 0.000000000373598
+N 143 time step complete 1 - Alpha = 0.000000045960081
+N 143 time step complete max VxH = 0.000000000000000
+N 143 time step complete, time: 0.715000
+N 143 time MPR 0.230112
+N 143 time Gas 0.570731
+Solve Alpha Time = 0.011184
+Solve El Dyn Time = 14.837826
+Solve Press Time = 23.103857
+Solve NS Time = 0.165715
+Solve Step Time = 38.889167
+Averege Solve Step Time = 32.972660
+
+AverageCurrentDensity 5 = -198832.3957406487
+AverageCurrentDensity 10= -198832.4005405731
+x = -1.0226284260 y = 0.0000003744 z = -0.0000104531
+check pressure schame = 0.00000003226831647013
+N 144 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 144 time step complete Predic Max div(alpha * v) = 0.000000000384360
+check pressure schame = 0.00000007286128882720
+N 144 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 144 time step complete Correc Max div(alpha * v) = 0.000000000437411
+N 144 time step complete 1 - Alpha = 0.000000045951004
+N 144 time step complete max VxH = 0.000000000000000
+N 144 time step complete, time: 0.720000
+N 144 time MPR 0.230099
+N 144 time Gas 0.570731
+Solve Alpha Time = 0.011121
+Solve El Dyn Time = 12.841924
+Solve Press Time = 21.603672
+Solve NS Time = 0.165433
+Solve Step Time = 35.389662
+Averege Solve Step Time = 32.989444
+
+AverageCurrentDensity 5 = -198837.8673857341
+AverageCurrentDensity 10= -198837.8640948315
+x = -0.8401618229 y = -0.0000005804 z = -0.0000104856
+check pressure schame = 0.00000003102825699847
+N 145 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 145 time step complete Predic Max div(alpha * v) = 0.000000000348489
+check pressure schame = 0.00000002900738097639
+N 145 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 145 time step complete Correc Max div(alpha * v) = 0.000000000168195
+N 145 time step complete 1 - Alpha = 0.000000045942183
+N 145 time step complete max VxH = 0.000000000000000
+N 145 time step complete, time: 0.725000
+N 145 time MPR 0.230087
+N 145 time Gas 0.570731
+Solve Alpha Time = 0.011100
+Solve El Dyn Time = 14.153121
+Solve Press Time = 25.232131
+Solve NS Time = 0.165678
+Solve Step Time = 40.330585
+Averege Solve Step Time = 33.040073
+
+AverageCurrentDensity 5 = -198834.7692120721
+AverageCurrentDensity 10= -198834.7665532796
+x = -2.1248093168 y = -0.0000007106 z = 0.0000098890
+check pressure schame = 0.00000008030276388467
+N 146 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 146 time step complete Predic Max div(alpha * v) = 0.000000000998372
+check pressure schame = 0.00000000371605360264
+N 146 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 146 time step complete Correc Max div(alpha * v) = 0.000000000163257
+N 146 time step complete 1 - Alpha = 0.000000045932270
+N 146 time step complete max VxH = 0.000000000000000
+N 146 time step complete, time: 0.730000
+N 146 time MPR 0.230075
+N 146 time Gas 0.570731
+Solve Alpha Time = 0.019667
+Solve El Dyn Time = 14.093625
+Solve Press Time = 18.070382
+Solve NS Time = 0.176724
+Solve Step Time = 33.149044
+Averege Solve Step Time = 33.040820
+
+AverageCurrentDensity 5 = -198840.9057781993
+AverageCurrentDensity 10= -198840.9027166726
+x = -1.8740843479 y = -0.0000008677 z = -0.0000104692
+check pressure schame = 0.00000004240473863715
+N 147 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 147 time step complete Predic Max div(alpha * v) = 0.000000000459944
+check pressure schame = 0.00000008580973089901
+N 147 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 147 time step complete Correc Max div(alpha * v) = 0.000000000585095
+N 147 time step complete 1 - Alpha = 0.000000045922322
+N 147 time step complete max VxH = 0.000000000000000
+N 147 time step complete, time: 0.735000
+N 147 time MPR 0.230062
+N 147 time Gas 0.570731
+Solve Alpha Time = 0.013581
+Solve El Dyn Time = 15.258891
+Solve Press Time = 20.392902
+Solve NS Time = 0.166267
+Solve Step Time = 36.642669
+Averege Solve Step Time = 33.065322
+
+AverageCurrentDensity 5 = -198837.5273439418
+AverageCurrentDensity 10= -198837.5325560517
+x = -1.8835287537 y = 0.0000002593 z = 0.0000096871
+check pressure schame = 0.00000002970294810914
+N 148 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 148 time step complete Predic Max div(alpha * v) = 0.000000000319667
+check pressure schame = 0.00000000103251591760
+N 148 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 148 time step complete Correc Max div(alpha * v) = 0.000000000159289
+N 148 time step complete 1 - Alpha = 0.000000045914239
+N 148 time step complete max VxH = 0.000000000000000
+N 148 time step complete, time: 0.740000
+N 148 time MPR 0.230050
+N 148 time Gas 0.570731
+Solve Alpha Time = 0.011105
+Solve El Dyn Time = 12.680146
+Solve Press Time = 23.512295
+Solve NS Time = 0.176246
+Solve Step Time = 37.200089
+Averege Solve Step Time = 33.093260
+
+AverageCurrentDensity 5 = -198848.7645500114
+AverageCurrentDensity 10= -198848.7606572638
+x = -1.7965011092 y = 0.0000001429 z = -0.0000104786
+check pressure schame = -0.00000000538207593640
+N 149 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 149 time step complete Predic Max div(alpha * v) = 0.000000000352198
+check pressure schame = 0.00000024909232194253
+N 149 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 149 time step complete Correc Max div(alpha * v) = 0.000000001326171
+N 149 time step complete 1 - Alpha = 0.000000045904427
+N 149 time step complete max VxH = 0.000000000000000
+N 149 time step complete, time: 0.745000
+N 149 time MPR 0.230037
+N 149 time Gas 0.570731
+Solve Alpha Time = 0.018861
+Solve El Dyn Time = 15.351554
+Solve Press Time = 16.000834
+Solve NS Time = 0.188736
+Solve Step Time = 32.375097
+Averege Solve Step Time = 33.088440
+
+AverageCurrentDensity 5 = -198848.2589754400
+AverageCurrentDensity 10= -198848.2555483741
+x = -1.5480050957 y = -0.0000002099 z = 0.0000026488
+check pressure schame = 0.00000002377737320751
+N 150 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 150 time step complete Predic Max div(alpha * v) = 0.000000000328602
+check pressure schame = 0.00000002901186869648
+N 150 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 150 time step complete Correc Max div(alpha * v) = 0.000000000158562
+N 150 time step complete 1 - Alpha = 0.000000045901743
+N 150 time step complete max VxH = 0.000000000000000
+N 150 time step complete, time: 0.750000
+N 150 time MPR 0.230024
+N 150 time Gas 0.570731
+Solve Alpha Time = 0.012451
+Solve El Dyn Time = 12.109437
+Solve Press Time = 26.798612
+Solve NS Time = 0.165204
+Solve Step Time = 39.853622
+Averege Solve Step Time = 33.133541
+
+AverageCurrentDensity 5 = -198861.6333111420
+AverageCurrentDensity 10= -198861.6296437996
+x = -1.4903407453 y = 0.0000006806 z = -0.0000105185
+check pressure schame = 0.00000002457846050470
+N 151 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 151 time step complete Predic Max div(alpha * v) = 0.000000000348334
+check pressure schame = 0.00000002587856950053
+N 151 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 151 time step complete Correc Max div(alpha * v) = 0.000000000167338
+N 151 time step complete 1 - Alpha = 0.000000045901683
+N 151 time step complete max VxH = 0.000000000000000
+N 151 time step complete, time: 0.755000
+N 151 time MPR 0.230011
+N 151 time Gas 0.570731
+Solve Alpha Time = 0.011097
+Solve El Dyn Time = 15.840690
+Solve Press Time = 25.140671
+Solve NS Time = 0.168699
+Solve Step Time = 41.930480
+Averege Solve Step Time = 33.191799
+
+AverageCurrentDensity 5 = -198867.3778535438
+AverageCurrentDensity 10= -198867.3742726368
+x = -1.2687222849 y = -0.0000001490 z = -0.0000105283
+check pressure schame = 0.00000003010170311624
+N 152 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 152 time step complete Predic Max div(alpha * v) = 0.000000000332291
+check pressure schame = 0.00000005945482500183
+N 152 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 152 time step complete Correc Max div(alpha * v) = 0.000000000333205
+N 152 time step complete 1 - Alpha = 0.000000045901898
+N 152 time step complete max VxH = 0.000000000000000
+N 152 time step complete, time: 0.760000
+N 152 time MPR 0.229998
+N 152 time Gas 0.570731
+Solve Alpha Time = 0.014632
+Solve El Dyn Time = 14.118220
+Solve Press Time = 23.013959
+Solve NS Time = 0.165555
+Solve Step Time = 38.079977
+Averege Solve Step Time = 33.223958
+
+AverageCurrentDensity 5 = -198873.3450939505
+AverageCurrentDensity 10= -198873.3421340400
+x = -1.0462272976 y = -0.0000007895 z = -0.0000105389
+check pressure schame = 0.00000002921859436084
+N 153 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 153 time step complete Predic Max div(alpha * v) = 0.000000000330831
+check pressure schame = 0.00000003769215463703
+N 153 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 153 time step complete Correc Max div(alpha * v) = 0.000000000187733
+N 153 time step complete 1 - Alpha = 0.000000045902831
+N 153 time step complete max VxH = 0.000000000000000
+N 153 time step complete, time: 0.765000
+N 153 time MPR 0.229985
+N 153 time Gas 0.570731
+Solve Alpha Time = 0.011148
+Solve El Dyn Time = 15.017583
+Solve Press Time = 26.179271
+Solve NS Time = 0.166811
+Solve Step Time = 42.142457
+Averege Solve Step Time = 33.282249
+
+AverageCurrentDensity 5 = -198883.3366549500
+AverageCurrentDensity 10= -198883.3333382808
+x = -1.1833926934 y = -0.0000006014 z = -0.0000105463
+check pressure schame = 0.00000002943980947478
+N 154 time step complete Predic Summ div(alpha * v) = -0.000000000000002
+N 154 time step complete Predic Max div(alpha * v) = 0.000000000329760
+check pressure schame = 0.00000009221877518215
+N 154 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 154 time step complete Correc Max div(alpha * v) = 0.000000000539089
+N 154 time step complete 1 - Alpha = 0.000000045902881
+N 154 time step complete max VxH = 0.000000000000000
+N 154 time step complete, time: 0.770000
+N 154 time MPR 0.229972
+N 154 time Gas 0.570731
+Solve Alpha Time = 0.014628
+Solve El Dyn Time = 15.403240
+Solve Press Time = 22.729035
+Solve NS Time = 0.173607
+Solve Step Time = 39.092806
+Averege Solve Step Time = 33.319980
+
+AverageCurrentDensity 5 = -198893.3297619579
+AverageCurrentDensity 10= -198893.3330693866
+x = -1.2901390238 y = -0.0000002953 z = -0.0000104619
+check pressure schame = 0.00000002705318309063
+N 155 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 155 time step complete Predic Max div(alpha * v) = 0.000000000347499
+check pressure schame = 0.00000002813315228662
+N 155 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 155 time step complete Correc Max div(alpha * v) = 0.000000000153899
+N 155 time step complete 1 - Alpha = 0.000000045904324
+N 155 time step complete max VxH = 0.000000000000000
+N 155 time step complete, time: 0.775000
+N 155 time MPR 0.229959
+N 155 time Gas 0.570731
+Solve Alpha Time = 0.011112
+Solve El Dyn Time = 13.616657
+Solve Press Time = 27.737294
+Solve NS Time = 0.165606
+Solve Step Time = 42.303239
+Averege Solve Step Time = 33.377937
+
+AverageCurrentDensity 5 = -198898.7970937145
+AverageCurrentDensity 10= -198898.8022894667
+x = -1.3977537618 y = 0.0000000032 z = -0.0000104809
+check pressure schame = 0.00000002566426771512
+N 156 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 156 time step complete Predic Max div(alpha * v) = 0.000000000304408
+check pressure schame = 0.00000008560468085783
+N 156 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 156 time step complete Correc Max div(alpha * v) = 0.000000000501851
+N 156 time step complete 1 - Alpha = 0.000000045904219
+N 156 time step complete max VxH = 0.000000000000000
+N 156 time step complete, time: 0.780000
+N 156 time MPR 0.229946
+N 156 time Gas 0.570731
+Solve Alpha Time = 0.011070
+Solve El Dyn Time = 12.985583
+Solve Press Time = 21.167951
+Solve NS Time = 0.165216
+Solve Step Time = 35.094603
+Averege Solve Step Time = 33.388941
+
+AverageCurrentDensity 5 = -198904.3008664156
+AverageCurrentDensity 10= -198904.3058694976
+x = -1.4832475869 y = 0.0000003513 z = -0.0000104879
+check pressure schame = 0.00000002976968769067
+N 157 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 157 time step complete Predic Max div(alpha * v) = 0.000000000297939
+check pressure schame = 0.00000003083330220310
+N 157 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 157 time step complete Correc Max div(alpha * v) = 0.000000000457685
+N 157 time step complete 1 - Alpha = 0.000000045905267
+N 157 time step complete max VxH = 0.000000000000000
+N 157 time step complete, time: 0.785000
+N 157 time MPR 0.229933
+N 157 time Gas 0.570731
+Solve Alpha Time = 0.011137
+Solve El Dyn Time = 12.983070
+Solve Press Time = 23.497401
+Solve NS Time = 0.168418
+Solve Step Time = 37.434348
+Averege Solve Step Time = 33.414708
+
+AverageCurrentDensity 5 = -198909.8385926146
+AverageCurrentDensity 10= -198909.8438109342
+x = -1.5718004189 y = -0.0000000301 z = -0.0000104992
+check pressure schame = 0.00000002906198524194
+N 158 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 158 time step complete Predic Max div(alpha * v) = 0.000000000332482
+check pressure schame = 0.00000001147407374463
+N 158 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 158 time step complete Correc Max div(alpha * v) = 0.000000000162119
+N 158 time step complete 1 - Alpha = 0.000000045905946
+N 158 time step complete max VxH = 0.000000000000000
+N 158 time step complete, time: 0.790000
+N 158 time MPR 0.229920
+N 158 time Gas 0.570731
+Solve Alpha Time = 0.014685
+Solve El Dyn Time = 13.003805
+Solve Press Time = 27.395825
+Solve NS Time = 0.165497
+Solve Step Time = 41.344649
+Averege Solve Step Time = 33.464897
+
+AverageCurrentDensity 5 = -198908.5340485318
+AverageCurrentDensity 10= -198908.5308268947
+x = -1.3814258224 y = 0.0000006382 z = 0.0000082631
+check pressure schame = 0.00000002855633223376
+N 159 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 159 time step complete Predic Max div(alpha * v) = 0.000000000360414
+check pressure schame = 0.00000006674571206844
+N 159 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 159 time step complete Correc Max div(alpha * v) = 0.000000000367933
+N 159 time step complete 1 - Alpha = 0.000000045905903
+N 159 time step complete max VxH = 0.000000000000000
+N 159 time step complete, time: 0.795000
+N 159 time MPR 0.229906
+N 159 time Gas 0.570731
+Solve Alpha Time = 0.011118
+Solve El Dyn Time = 12.990458
+Solve Press Time = 24.118279
+Solve NS Time = 0.166904
+Solve Step Time = 38.052665
+Averege Solve Step Time = 33.493751
+
+AverageCurrentDensity 5 = -198914.9725353926
+AverageCurrentDensity 10= -198914.9690602616
+x = -1.2910843312 y = -0.0000008127 z = -0.0000104965
+check pressure schame = 0.00000002782925893630
+N 160 time step complete Predic Summ div(alpha * v) = -0.000000000000002
+N 160 time step complete Predic Max div(alpha * v) = 0.000000000334383
+check pressure schame = 0.00000012972789467311
+N 160 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 160 time step complete Correc Max div(alpha * v) = 0.000000000681148
+N 160 time step complete 1 - Alpha = 0.000000045907000
+N 160 time step complete max VxH = 0.000000000000000
+N 160 time step complete, time: 0.800000
+N 160 time MPR 0.229893
+N 160 time Gas 0.570731
+Solve Alpha Time = 0.011105
+Solve El Dyn Time = 14.984186
+Solve Press Time = 21.334983
+Solve NS Time = 0.170179
+Solve Step Time = 37.262435
+Averege Solve Step Time = 33.517306
+
+AverageCurrentDensity 5 = -198921.6091273344
+AverageCurrentDensity 10= -198921.6059950181
+x = -1.1283326813 y = -0.0000009320 z = -0.0000105220
+check pressure schame = 0.00000002865024184215
+N 161 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 161 time step complete Predic Max div(alpha * v) = 0.000000000298166
+check pressure schame = -0.00000001121500037759
+N 161 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 161 time step complete Correc Max div(alpha * v) = 0.000000000154355
+N 161 time step complete 1 - Alpha = 0.000000045908654
+N 161 time step complete max VxH = 0.000000000000000
+N 161 time step complete, time: 0.805000
+N 161 time MPR 0.229879
+N 161 time Gas 0.570731
+Solve Alpha Time = 0.014616
+Solve El Dyn Time = 15.190617
+Solve Press Time = 26.923435
+Solve NS Time = 0.165443
+Solve Step Time = 43.059410
+Averege Solve Step Time = 33.576574
+
+AverageCurrentDensity 5 = -198932.4359174620
+AverageCurrentDensity 10= -198932.4329734134
+x = -0.9904004439 y = -0.0000000559 z = -0.0000105101
+check pressure schame = 0.00000005533147101958
+N 162 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 162 time step complete Predic Max div(alpha * v) = 0.000000000609883
+check pressure schame = 0.00000002901941014571
+N 162 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 162 time step complete Correc Max div(alpha * v) = 0.000000000155872
+N 162 time step complete 1 - Alpha = 0.000000045908422
+N 162 time step complete max VxH = 0.000000000000000
+N 162 time step complete, time: 0.810000
+N 162 time MPR 0.229866
+N 162 time Gas 0.570731
+Solve Alpha Time = 0.011300
+Solve El Dyn Time = 14.068947
+Solve Press Time = 24.653557
+Solve NS Time = 0.165284
+Solve Step Time = 39.663800
+Averege Solve Step Time = 33.614149
+
+AverageCurrentDensity 5 = -198938.1323727628
+AverageCurrentDensity 10= -198938.1374651831
+x = -1.0913354683 y = -0.0000001272 z = -0.0000104967
+check pressure schame = 0.00000002930713544807
+N 163 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 163 time step complete Predic Max div(alpha * v) = 0.000000000325730
+check pressure schame = 0.00000002973547301791
+N 163 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 163 time step complete Correc Max div(alpha * v) = 0.000000000153519
+N 163 time step complete 1 - Alpha = 0.000000045908184
+N 163 time step complete max VxH = 0.000000000000000
+N 163 time step complete, time: 0.815000
+N 163 time MPR 0.229852
+N 163 time Gas 0.570731
+Solve Alpha Time = 0.011043
+Solve El Dyn Time = 13.002805
+Solve Press Time = 27.446446
+Solve NS Time = 0.165856
+Solve Step Time = 41.397826
+Averege Solve Step Time = 33.661902
+
+AverageCurrentDensity 5 = -198944.2885428148
+AverageCurrentDensity 10= -198944.2846548104
+x = -0.8804345651 y = -0.0000003852 z = -0.0000104705
+check pressure schame = 0.00000003807377033094
+N 164 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 164 time step complete Predic Max div(alpha * v) = 0.000000000425198
+check pressure schame = 0.00000002143817638689
+N 164 time step complete Correc Summ div(alpha * v) = -0.000000000000002
+N 164 time step complete Correc Max div(alpha * v) = 0.000000000306025
+N 164 time step complete 1 - Alpha = 0.000000045908124
+N 164 time step complete max VxH = 0.000000000000000
+N 164 time step complete, time: 0.820000
+N 164 time MPR 0.229838
+N 164 time Gas 0.570731
+Solve Alpha Time = 0.011120
+Solve El Dyn Time = 14.155462
+Solve Press Time = 23.607355
+Solve NS Time = 0.165649
+Solve Step Time = 38.700490
+Averege Solve Step Time = 33.692625
+
+AverageCurrentDensity 5 = -198950.9041533298
+AverageCurrentDensity 10= -198950.9010981853
+x = -0.9573700951 y = -0.0000008881 z = -0.0000105025
+check pressure schame = 0.00000002819411960148
+N 165 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 165 time step complete Predic Max div(alpha * v) = 0.000000000348447
+check pressure schame = 0.00000019819774807646
+N 165 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 165 time step complete Correc Max div(alpha * v) = 0.000000001042096
+N 165 time step complete 1 - Alpha = 0.000000045908302
+N 165 time step complete max VxH = 0.000000000000000
+N 165 time step complete, time: 0.825000
+N 165 time MPR 0.229825
+N 165 time Gas 0.570731
+Solve Alpha Time = 0.011108
+Solve El Dyn Time = 15.159133
+Solve Press Time = 20.746104
+Solve NS Time = 0.192026
+Solve Step Time = 36.908303
+Averege Solve Step Time = 33.712114
+
+AverageCurrentDensity 5 = -198961.7155277207
+AverageCurrentDensity 10= -198961.7124175935
+x = -1.0180964473 y = 0.0000000728 z = -0.0000104795
+check pressure schame = 0.00000007859043500702
+N 166 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 166 time step complete Predic Max div(alpha * v) = 0.000000000865278
+check pressure schame = 0.00000005439657990323
+N 166 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 166 time step complete Correc Max div(alpha * v) = 0.000000000303238
+N 166 time step complete 1 - Alpha = 0.000000045911585
+N 166 time step complete max VxH = 0.000000000000000
+N 166 time step complete, time: 0.830000
+N 166 time MPR 0.229811
+N 166 time Gas 0.570731
+Solve Alpha Time = 0.012450
+Solve El Dyn Time = 14.199548
+Solve Press Time = 22.229838
+Solve NS Time = 0.165549
+Solve Step Time = 37.377119
+Averege Solve Step Time = 33.734192
+
+AverageCurrentDensity 5 = -198959.5836249594
+AverageCurrentDensity 10= -198959.5795952845
+x = -1.0566533056 y = -0.0000002873 z = 0.0000086053
+check pressure schame = 0.00000011771419225481
+N 167 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 167 time step complete Predic Max div(alpha * v) = 0.000000001389362
+check pressure schame = 0.00000002665158679513
+N 167 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 167 time step complete Correc Max div(alpha * v) = 0.000000000200165
+N 167 time step complete 1 - Alpha = 0.000000045912079
+N 167 time step complete max VxH = 0.000000000000000
+N 167 time step complete, time: 0.835000
+N 167 time MPR 0.229797
+N 167 time Gas 0.570731
+Solve Alpha Time = 0.011141
+Solve El Dyn Time = 13.217153
+Solve Press Time = 15.600138
+Solve NS Time = 0.165382
+Solve Step Time = 29.758356
+Averege Solve Step Time = 33.710385
+
+AverageCurrentDensity 5 = -198965.4429155042
+AverageCurrentDensity 10= -198965.4480504939
+x = -1.1706844588 y = 0.0000000891 z = -0.0000104604
+check pressure schame = 0.00000002859361387247
+N 168 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 168 time step complete Predic Max div(alpha * v) = 0.000000000314616
+check pressure schame = 0.00000002834742279540
+N 168 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 168 time step complete Correc Max div(alpha * v) = 0.000000000153579
+N 168 time step complete 1 - Alpha = 0.000000045911589
+N 168 time step complete max VxH = 0.000000000000000
+N 168 time step complete, time: 0.840000
+N 168 time MPR 0.229783
+N 168 time Gas 0.570731
+Solve Alpha Time = 0.011137
+Solve El Dyn Time = 13.356661
+Solve Press Time = 28.539421
+Solve NS Time = 0.165450
+Solve Step Time = 42.837206
+Averege Solve Step Time = 33.764711
+
+AverageCurrentDensity 5 = -198967.1519024058
+AverageCurrentDensity 10= -198967.1489811361
+x = -0.9645641839 y = 0.0000006382 z = -0.0000037111
+check pressure schame = 0.00000003351654000519
+N 169 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 169 time step complete Predic Max div(alpha * v) = 0.000000000390997
+check pressure schame = 0.00000002987926436002
+N 169 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 169 time step complete Correc Max div(alpha * v) = 0.000000000158128
+N 169 time step complete 1 - Alpha = 0.000000045911457
+N 169 time step complete max VxH = 0.000000000000000
+N 169 time step complete, time: 0.845000
+N 169 time MPR 0.229769
+N 169 time Gas 0.570731
+Solve Alpha Time = 0.011119
+Solve El Dyn Time = 14.069508
+Solve Press Time = 25.527876
+Solve NS Time = 0.170156
+Solve Step Time = 40.631902
+Averege Solve Step Time = 33.805346
+
+AverageCurrentDensity 5 = -198974.4732117185
+AverageCurrentDensity 10= -198974.4701365075
+x = -1.3621719525 y = 0.0000005186 z = -0.0000104773
+check pressure schame = 0.00000003070735084265
+N 170 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 170 time step complete Predic Max div(alpha * v) = 0.000000000330784
+check pressure schame = 0.00000017723071877446
+N 170 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 170 time step complete Correc Max div(alpha * v) = 0.000000000947087
+N 170 time step complete 1 - Alpha = 0.000000045909877
+N 170 time step complete max VxH = 0.000000000000000
+N 170 time step complete, time: 0.850000
+N 170 time MPR 0.229755
+N 170 time Gas 0.570731
+Solve Alpha Time = 0.014742
+Solve El Dyn Time = 15.322432
+Solve Press Time = 18.896433
+Solve NS Time = 0.166518
+Solve Step Time = 35.195127
+Averege Solve Step Time = 33.813521
+
+AverageCurrentDensity 5 = -198980.8358970848
+AverageCurrentDensity 10= -198980.8329940147
+x = -1.2911978803 y = -0.0000004823 z = -0.0000104575
+check pressure schame = 0.00000002849127789251
+N 171 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 171 time step complete Predic Max div(alpha * v) = 0.000000000311038
+check pressure schame = 0.00000005142581661899
+N 171 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 171 time step complete Correc Max div(alpha * v) = 0.000000000279367
+N 171 time step complete 1 - Alpha = 0.000000045913082
+N 171 time step complete max VxH = 0.000000000000000
+N 171 time step complete, time: 0.855000
+N 171 time MPR 0.229740
+N 171 time Gas 0.570731
+Solve Alpha Time = 0.013838
+Solve El Dyn Time = 15.011501
+Solve Press Time = 25.487069
+Solve NS Time = 0.165519
+Solve Step Time = 41.442495
+Averege Solve Step Time = 33.858135
+
+AverageCurrentDensity 5 = -198986.8299311376
+AverageCurrentDensity 10= -198986.8344134329
+x = -1.2990674984 y = 0.0000005436 z = -0.0000105494
+check pressure schame = 0.00000003038661518370
+N 172 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 172 time step complete Predic Max div(alpha * v) = 0.000000000361714
+check pressure schame = 0.00000009658007700530
+N 172 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 172 time step complete Correc Max div(alpha * v) = 0.000000000604330
+N 172 time step complete 1 - Alpha = 0.000000045913459
+N 172 time step complete max VxH = 0.000000000000000
+N 172 time step complete, time: 0.860000
+N 172 time MPR 0.229726
+N 172 time Gas 0.570731
+Solve Alpha Time = 0.011137
+Solve El Dyn Time = 13.128524
+Solve Press Time = 22.939085
+Solve NS Time = 0.168978
+Solve Step Time = 37.015398
+Averege Solve Step Time = 33.876491
+
+AverageCurrentDensity 5 = -198993.2625572074
+AverageCurrentDensity 10= -198993.2595672036
+x = -1.3546268010 y = 0.0000004634 z = -0.0000104874
+check pressure schame = 0.00000003411263971949
+N 173 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 173 time step complete Predic Max div(alpha * v) = 0.000000000332977
+check pressure schame = 0.00000003279341561637
+N 173 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 173 time step complete Correc Max div(alpha * v) = 0.000000000176245
+N 173 time step complete 1 - Alpha = 0.000000045914914
+N 173 time step complete max VxH = 0.000000000000000
+N 173 time step complete, time: 0.865000
+N 173 time MPR 0.229712
+N 173 time Gas 0.570731
+Solve Alpha Time = 0.011129
+Solve El Dyn Time = 14.981386
+Solve Press Time = 27.018152
+Solve NS Time = 0.165642
+Solve Step Time = 42.941784
+Averege Solve Step Time = 33.928892
+
+AverageCurrentDensity 5 = -198999.3202380953
+AverageCurrentDensity 10= -198999.3251403834
+x = -1.4378918456 y = 0.0000002368 z = -0.0000105196
+check pressure schame = 0.00000002595870761402
+N 174 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 174 time step complete Predic Max div(alpha * v) = 0.000000000322844
+check pressure schame = 0.00000009844866727393
+N 174 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 174 time step complete Correc Max div(alpha * v) = 0.000000000544990
+N 174 time step complete 1 - Alpha = 0.000000045914652
+N 174 time step complete max VxH = 0.000000000000000
+N 174 time step complete, time: 0.870000
+N 174 time MPR 0.229697
+N 174 time Gas 0.570731
+Solve Alpha Time = 0.015684
+Solve El Dyn Time = 13.096224
+Solve Press Time = 22.945250
+Solve NS Time = 0.165542
+Solve Step Time = 36.990146
+Averege Solve Step Time = 33.946485
+
+AverageCurrentDensity 5 = -199006.4013035220
+AverageCurrentDensity 10= -199006.3980687098
+x = -1.3488900157 y = -0.0000006569 z = -0.0000104859
+check pressure schame = 0.00000002956270535662
+N 175 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 175 time step complete Predic Max div(alpha * v) = 0.000000000300771
+check pressure schame = 0.00000003749076190121
+N 175 time step complete Correc Summ div(alpha * v) = -0.000000000000002
+N 175 time step complete Correc Max div(alpha * v) = 0.000000000529695
+N 175 time step complete 1 - Alpha = 0.000000045915463
+N 175 time step complete max VxH = 0.000000000000000
+N 175 time step complete, time: 0.875000
+N 175 time MPR 0.229683
+N 175 time Gas 0.570731
+Solve Alpha Time = 0.011117
+Solve El Dyn Time = 15.060713
+Solve Press Time = 23.597089
+Solve NS Time = 0.165331
+Solve Step Time = 39.604285
+Averege Solve Step Time = 33.978815
+
+AverageCurrentDensity 5 = -199015.7358032858
+AverageCurrentDensity 10= -199015.7316336810
+x = -1.0065568944 y = 0.0000001873 z = -0.0000105841
+check pressure schame = 0.00000002711119371189
+N 176 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 176 time step complete Predic Max div(alpha * v) = 0.000000000317084
+check pressure schame = -0.00000000816006523593
+N 176 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 176 time step complete Correc Max div(alpha * v) = 0.000000000149808
+N 176 time step complete 1 - Alpha = 0.000000045916095
+N 176 time step complete max VxH = 0.000000000000000
+N 176 time step complete, time: 0.880000
+N 176 time MPR 0.229668
+N 176 time Gas 0.570731
+Solve Alpha Time = 0.011149
+Solve El Dyn Time = 14.389355
+Solve Press Time = 27.193928
+Solve NS Time = 0.165374
+Solve Step Time = 42.526920
+Averege Solve Step Time = 34.027384
+
+AverageCurrentDensity 5 = -199021.8870517178
+AverageCurrentDensity 10= -199021.8921323121
+x = -1.1879522609 y = -0.0000000347 z = -0.0000104964
+check pressure schame = 0.00000005318104801476
+N 177 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 177 time step complete Predic Max div(alpha * v) = 0.000000000675418
+check pressure schame = 0.00000002883836485064
+N 177 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 177 time step complete Correc Max div(alpha * v) = 0.000000000156412
+N 177 time step complete 1 - Alpha = 0.000000045915799
+N 177 time step complete max VxH = 0.000000000000000
+N 177 time step complete, time: 0.885000
+N 177 time MPR 0.229653
+N 177 time Gas 0.570731
+Solve Alpha Time = 0.012188
+Solve El Dyn Time = 13.097462
+Solve Press Time = 24.339457
+Solve NS Time = 0.168608
+Solve Step Time = 38.383618
+Averege Solve Step Time = 34.051996
+
+AverageCurrentDensity 5 = -199020.7139804917
+AverageCurrentDensity 10= -199020.7110581270
+x = -0.9295874645 y = -0.0000000171 z = 0.0000067410
+check pressure schame = 0.00000002653719400692
+N 178 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 178 time step complete Predic Max div(alpha * v) = 0.000000000330788
+check pressure schame = 0.00000009164960028483
+N 178 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 178 time step complete Correc Max div(alpha * v) = 0.000000000522440
+N 178 time step complete 1 - Alpha = 0.000000045915296
+N 178 time step complete max VxH = 0.000000000000000
+N 178 time step complete, time: 0.890000
+N 178 time MPR 0.229639
+N 178 time Gas 0.570731
+Solve Alpha Time = 0.014691
+Solve El Dyn Time = 13.537070
+Solve Press Time = 23.786306
+Solve NS Time = 0.165590
+Solve Step Time = 38.269435
+Averege Solve Step Time = 34.075689
+
+AverageCurrentDensity 5 = -199028.3494718628
+AverageCurrentDensity 10= -199028.3454298452
+x = -0.6778504534 y = -0.0000007823 z = -0.0000104740
+check pressure schame = 0.00000002746425289404
+N 179 time step complete Predic Summ div(alpha * v) = -0.000000000000002
+N 179 time step complete Predic Max div(alpha * v) = 0.000000000316276
+check pressure schame = 0.00000026850691889346
+N 179 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 179 time step complete Correc Max div(alpha * v) = 0.000000001429007
+N 179 time step complete 1 - Alpha = 0.000000045915946
+N 179 time step complete max VxH = 0.000000000000000
+N 179 time step complete, time: 0.895000
+N 179 time MPR 0.229624
+N 179 time Gas 0.570731
+Solve Alpha Time = 0.011273
+Solve El Dyn Time = 15.212740
+Solve Press Time = 19.254033
+Solve NS Time = 0.171178
+Solve Step Time = 35.433634
+Averege Solve Step Time = 34.083276
+
+AverageCurrentDensity 5 = -199027.3769349603
+AverageCurrentDensity 10= -199027.3740009898
+x = -0.8161796906 y = 0.0000002174 z = 0.0000065796
+check pressure schame = 0.00000011033809621227
+N 180 time step complete Predic Summ div(alpha * v) = 0.000000000000001
+N 180 time step complete Predic Max div(alpha * v) = 0.000000001543832
+check pressure schame = 0.00000003260774696318
+N 180 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 180 time step complete Correc Max div(alpha * v) = 0.000000000165142
+N 180 time step complete 1 - Alpha = 0.000000045920689
+N 180 time step complete max VxH = 0.000000000000000
+N 180 time step complete, time: 0.900000
+N 180 time MPR 0.229609
+N 180 time Gas 0.570731
+Solve Alpha Time = 0.014176
+Solve El Dyn Time = 13.936627
+Solve Press Time = 20.974474
+Solve NS Time = 0.165773
+Solve Step Time = 35.855968
+Averege Solve Step Time = 34.093124
+
+AverageCurrentDensity 5 = -199034.0635505263
+AverageCurrentDensity 10= -199034.0594354252
+x = -0.7222524563 y = -0.0000001969 z = -0.0000104451
+check pressure schame = 0.00000002783177223235
+N 181 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 181 time step complete Predic Max div(alpha * v) = 0.000000000351256
+check pressure schame = 0.00000002787438136169
+N 181 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 181 time step complete Correc Max div(alpha * v) = 0.000000000151824
+N 181 time step complete 1 - Alpha = 0.000000045920403
+N 181 time step complete max VxH = 0.000000000000000
+N 181 time step complete, time: 0.905000
+N 181 time MPR 0.229594
+N 181 time Gas 0.570731
+Solve Alpha Time = 0.011171
+Solve El Dyn Time = 14.128555
+Solve Press Time = 28.360487
+Solve NS Time = 0.166920
+Solve Step Time = 43.445145
+Averege Solve Step Time = 34.144793
+
+AverageCurrentDensity 5 = -199040.3688654573
+AverageCurrentDensity 10= -199040.3737700704
+x = -0.8291381481 y = -0.0000002250 z = -0.0000105789
+check pressure schame = 0.00000003117560479216
+N 182 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 182 time step complete Predic Max div(alpha * v) = 0.000000000315137
+check pressure schame = 0.00000003172518631134
+N 182 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 182 time step complete Correc Max div(alpha * v) = 0.000000000160872
+N 182 time step complete 1 - Alpha = 0.000000045919888
+N 182 time step complete max VxH = 0.000000000000000
+N 182 time step complete, time: 0.910000
+N 182 time MPR 0.229579
+N 182 time Gas 0.570731
+Solve Alpha Time = 0.014671
+Solve El Dyn Time = 13.128735
+Solve Press Time = 27.878407
+Solve NS Time = 0.165595
+Solve Step Time = 41.954554
+Averege Solve Step Time = 34.187704
+
+AverageCurrentDensity 5 = -199047.2103743174
+AverageCurrentDensity 10= -199047.2064628851
+x = -0.8729930434 y = 0.0000003266 z = -0.0000104833
+check pressure schame = 0.00000004516733036436
+N 183 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 183 time step complete Predic Max div(alpha * v) = 0.000000000535337
+check pressure schame = 0.00000012753318929387
+N 183 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 183 time step complete Correc Max div(alpha * v) = 0.000000000678818
+N 183 time step complete 1 - Alpha = 0.000000045919420
+N 183 time step complete max VxH = 0.000000000000000
+N 183 time step complete, time: 0.915000
+N 183 time MPR 0.229564
+N 183 time Gas 0.570731
+Solve Alpha Time = 0.011136
+Solve El Dyn Time = 14.074556
+Solve Press Time = 19.882218
+Solve NS Time = 0.196110
+Solve Step Time = 34.935699
+Averege Solve Step Time = 34.191791
+
+AverageCurrentDensity 5 = -199054.0616249302
+AverageCurrentDensity 10= -199054.0578455677
+x = -1.0830173039 y = -0.0000000615 z = -0.0000105092
+check pressure schame = 0.00000002689205652997
+N 184 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 184 time step complete Predic Max div(alpha * v) = 0.000000000308390
+check pressure schame = -0.00000000854865555297
+N 184 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 184 time step complete Correc Max div(alpha * v) = 0.000000000160801
+N 184 time step complete 1 - Alpha = 0.000000045920772
+N 184 time step complete max VxH = 0.000000000000000
+N 184 time step complete, time: 0.920000
+N 184 time MPR 0.229548
+N 184 time Gas 0.570731
+Solve Alpha Time = 0.011707
+Solve El Dyn Time = 14.106388
+Solve Press Time = 26.493890
+Solve NS Time = 0.166836
+Solve Step Time = 41.544831
+Averege Solve Step Time = 34.231753
+
+AverageCurrentDensity 5 = -199051.5918987011
+AverageCurrentDensity 10= -199051.5969097216
+x = -1.1320390231 y = 0.0000000992 z = 0.0000092993
+check pressure schame = 0.00000002697277759435
+N 185 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 185 time step complete Predic Max div(alpha * v) = 0.000000000326226
+check pressure schame = 0.00000002582868564860
+N 185 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 185 time step complete Correc Max div(alpha * v) = 0.000000000151525
+N 185 time step complete 1 - Alpha = 0.000000045920173
+N 185 time step complete max VxH = 0.000000000000000
+N 185 time step complete, time: 0.925000
+N 185 time MPR 0.229533
+N 185 time Gas 0.570731
+Solve Alpha Time = 0.011119
+Solve El Dyn Time = 12.350625
+Solve Press Time = 22.347390
+Solve NS Time = 0.166567
+Solve Step Time = 35.660388
+Averege Solve Step Time = 34.239476
+
+AverageCurrentDensity 5 = -199058.7023501623
+AverageCurrentDensity 10= -199058.6995187056
+x = -1.3054785876 y = 0.0000002059 z = -0.0000105201
+check pressure schame = 0.00000002865978440767
+N 186 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 186 time step complete Predic Max div(alpha * v) = 0.000000000336910
+check pressure schame = 0.00000006011656010041
+N 186 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 186 time step complete Correc Max div(alpha * v) = 0.000000000323976
+N 186 time step complete 1 - Alpha = 0.000000045919726
+N 186 time step complete max VxH = 0.000000000000000
+N 186 time step complete, time: 0.930000
+N 186 time MPR 0.229518
+N 186 time Gas 0.570731
+Solve Alpha Time = 0.017212
+Solve El Dyn Time = 14.849715
+Solve Press Time = 25.722907
+Solve NS Time = 0.165310
+Solve Step Time = 41.521041
+Averege Solve Step Time = 34.278624
+
+AverageCurrentDensity 5 = -199066.1294826814
+AverageCurrentDensity 10= -199066.1256234046
+x = -1.3170105702 y = -0.0000002777 z = -0.0000104977
+check pressure schame = 0.00000002712629063864
+N 187 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 187 time step complete Predic Max div(alpha * v) = 0.000000000310416
+check pressure schame = 0.00000003101738773811
+N 187 time step complete Correc Summ div(alpha * v) = 0.000000000000002
+N 187 time step complete Correc Max div(alpha * v) = 0.000000000169396
+N 187 time step complete 1 - Alpha = 0.000000045919993
+N 187 time step complete max VxH = 0.000000000000000
+N 187 time step complete, time: 0.935000
+N 187 time MPR 0.229502
+N 187 time Gas 0.570731
+Solve Alpha Time = 0.011190
+Solve El Dyn Time = 14.844394
+Solve Press Time = 26.610320
+Solve NS Time = 0.166622
+Solve Step Time = 42.406214
+Averege Solve Step Time = 34.322087
+
+AverageCurrentDensity 5 = -199072.6201838380
+AverageCurrentDensity 10= -199072.6251068187
+x = -1.3914443163 y = -0.0000001399 z = -0.0000104800
+check pressure schame = 0.00000002856701366259
+N 188 time step complete Predic Summ div(alpha * v) = -0.000000000000002
+N 188 time step complete Predic Max div(alpha * v) = 0.000000000308272
+check pressure schame = 0.00000002984419879672
+N 188 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 188 time step complete Correc Max div(alpha * v) = 0.000000000154058
+N 188 time step complete 1 - Alpha = 0.000000045919355
+N 188 time step complete max VxH = 0.000000000000000
+N 188 time step complete, time: 0.940000
+N 188 time MPR 0.229487
+N 188 time Gas 0.570731
+Solve Alpha Time = 0.011393
+Solve El Dyn Time = 13.163325
+Solve Press Time = 27.358959
+Solve NS Time = 0.165435
+Solve Step Time = 41.463829
+Averege Solve Step Time = 34.360075
+
+AverageCurrentDensity 5 = -199080.2769483251
+AverageCurrentDensity 10= -199080.2736099566
+x = -1.2556512894 y = -0.0000008304 z = -0.0000105016
+check pressure schame = 0.00000005218751106132
+N 189 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 189 time step complete Predic Max div(alpha * v) = 0.000000000628830
+check pressure schame = 0.00000004231766558959
+N 189 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 189 time step complete Correc Max div(alpha * v) = 0.000000000222992
+N 189 time step complete 1 - Alpha = 0.000000045918868
+N 189 time step complete max VxH = 0.000000000000000
+N 189 time step complete, time: 0.945000
+N 189 time MPR 0.229471
+N 189 time Gas 0.570731
+Solve Alpha Time = 0.011097
+Solve El Dyn Time = 15.074759
+Solve Press Time = 24.007671
+Solve NS Time = 0.165336
+Solve Step Time = 40.023595
+Averege Solve Step Time = 34.390041
+
+AverageCurrentDensity 5 = -199088.3601297170
+AverageCurrentDensity 10= -199088.3571408379
+x = -1.7407300375 y = 0.0000004610 z = -0.0000104914
+check pressure schame = 0.00000002811796976287
+N 190 time step complete Predic Summ div(alpha * v) = -0.000000000000002
+N 190 time step complete Predic Max div(alpha * v) = 0.000000000314389
+check pressure schame = 0.00000008113225782955
+N 190 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 190 time step complete Correc Max div(alpha * v) = 0.000000000462493
+N 190 time step complete 1 - Alpha = 0.000000045918539
+N 190 time step complete max VxH = 0.000000000000000
+N 190 time step complete, time: 0.950000
+N 190 time MPR 0.229456
+N 190 time Gas 0.570731
+Solve Alpha Time = 0.011277
+Solve El Dyn Time = 15.361155
+Solve Press Time = 23.661164
+Solve NS Time = 0.165440
+Solve Step Time = 39.956464
+Averege Solve Step Time = 34.419338
+
+AverageCurrentDensity 5 = -199100.5516205585
+AverageCurrentDensity 10= -199100.5485929021
+x = -1.5183902979 y = 0.0000002710 z = -0.0000104774
+check pressure schame = 0.00000003743524852606
+N 191 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 191 time step complete Predic Max div(alpha * v) = 0.000000000436949
+check pressure schame = 0.00000002870266559152
+N 191 time step complete Correc Summ div(alpha * v) = -0.000000000000002
+N 191 time step complete Correc Max div(alpha * v) = 0.000000000160412
+N 191 time step complete 1 - Alpha = 0.000000045919058
+N 191 time step complete max VxH = 0.000000000000000
+N 191 time step complete, time: 0.955000
+N 191 time MPR 0.229440
+N 191 time Gas 0.570731
+Solve Alpha Time = 0.011146
+Solve El Dyn Time = 14.283089
+Solve Press Time = 26.581882
+Solve NS Time = 0.165644
+Solve Step Time = 41.799155
+Averege Solve Step Time = 34.457976
+
+AverageCurrentDensity 5 = -199107.1617692072
+AverageCurrentDensity 10= -199107.1667377479
+x = -1.6225607020 y = 0.0000000749 z = -0.0000105061
+check pressure schame = 0.00000003237307847834
+N 192 time step complete Predic Summ div(alpha * v) = 0.000000000000002
+N 192 time step complete Predic Max div(alpha * v) = 0.000000000396006
+check pressure schame = 0.00000005063176424305
+N 192 time step complete Correc Summ div(alpha * v) = 0.000000000000000
+N 192 time step complete Correc Max div(alpha * v) = 0.000000000276092
+N 192 time step complete 1 - Alpha = 0.000000045918559
+N 192 time step complete max VxH = 0.000000000000000
+N 192 time step complete, time: 0.960000
+N 192 time MPR 0.229424
+N 192 time Gas 0.570731
+Solve Alpha Time = 0.011144
+Solve El Dyn Time = 13.303545
+Solve Press Time = 24.752081
+Solve NS Time = 0.165691
+Solve Step Time = 38.990715
+Averege Solve Step Time = 34.481584
+
+AverageCurrentDensity 5 = -199115.2291823647
+AverageCurrentDensity 10= -199115.2261500538
+x = -0.7367980523 y = -0.0000007405 z = -0.0000104635
+check pressure schame = 0.00000002622334477039
+N 193 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 193 time step complete Predic Max div(alpha * v) = 0.000000000306710
+check pressure schame = 0.00000010184237870040
+N 193 time step complete Correc Summ div(alpha * v) = -0.000000000000000
+N 193 time step complete Correc Max div(alpha * v) = 0.000000000579298
+N 193 time step complete 1 - Alpha = 0.000000045918316
+N 193 time step complete max VxH = 0.000000000000000
+N 193 time step complete, time: 0.965000
+N 193 time MPR 0.229408
+N 193 time Gas 0.570731
+Solve Alpha Time = 0.014671
+Solve El Dyn Time = 15.732664
+Solve Press Time = 22.702893
+Solve NS Time = 0.165836
+Solve Step Time = 39.383321
+Averege Solve Step Time = 34.506981
+
+AverageCurrentDensity 5 = -199120.9947161454
+AverageCurrentDensity 10= -199120.9905653674
+x = -0.5234119591 y = 0.0000003196 z = -0.0000104251
+check pressure schame = 0.00000002945166288452
+N 194 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 194 time step complete Predic Max div(alpha * v) = 0.000000000326299
+check pressure schame = -0.00000002768181654690
+N 194 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 194 time step complete Correc Max div(alpha * v) = 0.000000000409950
+N 194 time step complete 1 - Alpha = 0.000000045919684
+N 194 time step complete max VxH = 0.000000000000000
+N 194 time step complete, time: 0.970000
+N 194 time MPR 0.229392
+N 194 time Gas 0.570731
+Solve Alpha Time = 0.011311
+Solve El Dyn Time = 13.977134
+Solve Press Time = 24.329721
+Solve NS Time = 0.165595
+Solve Step Time = 39.248473
+Averege Solve Step Time = 34.531422
+
+AverageCurrentDensity 5 = -199134.0763228735
+AverageCurrentDensity 10= -199134.0733628821
+x = -0.3033471973 y = 0.0000000070 z = -0.0000104833
+check pressure schame = 0.00000002664643844485
+N 195 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 195 time step complete Predic Max div(alpha * v) = 0.000000000312584
+check pressure schame = 0.00000013784620042645
+N 195 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 195 time step complete Correc Max div(alpha * v) = 0.000000000706357
+N 195 time step complete 1 - Alpha = 0.000000045919724
+N 195 time step complete max VxH = 0.000000000000000
+N 195 time step complete, time: 0.975000
+N 195 time MPR 0.229376
+N 195 time Gas 0.570731
+Solve Alpha Time = 0.011132
+Solve El Dyn Time = 15.609238
+Solve Press Time = 22.610829
+Solve NS Time = 0.175368
+Solve Step Time = 39.239696
+Averege Solve Step Time = 34.555567
+
+AverageCurrentDensity 5 = -199141.7426821233
+AverageCurrentDensity 10= -199141.7396321037
+x = 0.1783798340 y = -0.0000003352 z = -0.0000104899
+check pressure schame = 0.00000005580346774600
+N 196 time step complete Predic Summ div(alpha * v) = -0.000000000000000
+N 196 time step complete Predic Max div(alpha * v) = 0.000000000631394
+check pressure schame = 0.00000013996782297684
+N 196 time step complete Correc Summ div(alpha * v) = -0.000000000000001
+N 196 time step complete Correc Max div(alpha * v) = 0.000000000860498
+N 196 time step complete 1 - Alpha = 0.000000045921535
+N 196 time step complete max VxH = 0.000000000000000
+N 196 time step complete, time: 0.980000
+N 196 time MPR 0.229360
+N 196 time Gas 0.570731
+Solve Alpha Time = 0.011148
+Solve El Dyn Time = 15.345148
+Solve Press Time = 18.923737
+Solve NS Time = 0.166580
+Solve Step Time = 35.217859
+Averege Solve Step Time = 34.558946
+
+AverageCurrentDensity 5 = -199149.9342083196
+AverageCurrentDensity 10= -199149.9307011856
+x = -0.0079303096 y = 0.0000006506 z = -0.0000104910
+check pressure schame = 0.00000002842542862203
+N 197 time step complete Predic Summ div(alpha * v) = 0.000000000000000
+N 197 time step complete Predic Max div(alpha * v) = 0.000000000328272
+check pressure schame = 0.00000012227230250365
+N 197 time step complete Correc Summ div(alpha * v) = 0.000000000000002
+N 197 time step complete Correc Max div(alpha * v) = 0.000000000644379
+N 197 time step complete 1 - Alpha = 0.000000045922654
+N 197 time step complete max VxH = 0.000000000000000
+N 197 time step complete, time: 0.985000
+N 197 time MPR 0.229344
+N 197 time Gas 0.570731
+Solve Alpha Time = 0.011115
+Solve El Dyn Time = 15.426923
+Solve Press Time = 22.702044
+Solve NS Time = 0.165689
+Solve Step Time = 39.068363
+Averege Solve Step Time = 34.581837
+
+AverageCurrentDensity 5 = -199158.1762354428
+AverageCurrentDensity 10= -199158.1731903178
+x = -0.4850560485 y = 0.0000005890 z = -0.0000104367
+check pressure schame = 0.00000002886074859654
+N 198 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 198 time step complete Predic Max div(alpha * v) = 0.000000000346121
+check pressure schame = 0.00000013180190100914
+N 198 time step complete Correc Summ div(alpha * v) = 0.000000000000002
+N 198 time step complete Correc Max div(alpha * v) = 0.000000000762745
+N 198 time step complete 1 - Alpha = 0.000000045923523
+N 198 time step complete max VxH = 0.000000000000000
+N 198 time step complete, time: 0.990000
+N 198 time MPR 0.229328
+N 198 time Gas 0.570731
+Solve Alpha Time = 0.013458
+Solve El Dyn Time = 15.419133
+Solve Press Time = 22.798567
+Solve NS Time = 0.165816
+Solve Step Time = 39.161936
+Averege Solve Step Time = 34.604969
+
+AverageCurrentDensity 5 = -199166.6897629867
+AverageCurrentDensity 10= -199166.6864403221
+x = -0.9276769337 y = 0.0000006199 z = -0.0000104821
+check pressure schame = 0.00000002919746439848
+N 199 time step complete Predic Summ div(alpha * v) = -0.000000000000001
+N 199 time step complete Predic Max div(alpha * v) = 0.000000000359091
+check pressure schame = -0.00000005397715065972
+N 199 time step complete Correc Summ div(alpha * v) = 0.000000000000001
+N 199 time step complete Correc Max div(alpha * v) = 0.000000000813711
+N 199 time step complete 1 - Alpha = 0.000000045925968
+N 199 time step complete max VxH = 0.000000000000000
+N 199 time step complete, time: 0.995000
+N 199 time MPR 0.229311
+N 199 time Gas 0.570731
+Solve Alpha Time = 0.011135
+Solve El Dyn Time = 15.448313
+Solve Press Time = 21.411776
+Solve NS Time = 0.166778
+Solve Step Time = 37.807493
+Averege Solve Step Time = 34.621062
+
