@@ -19,4 +19,5 @@
 \contentsline {subsection}{\numberline {3.3}Исследование значений управляющих параметров ванны во время анодного эффекта.}{37}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Объединение полученных данных.}{39}{subsection.3.4}%
 \contentsline {section}{\numberline {\S 4}Численное вычисление распределения потерь по току в случае нестабильного и стабильного режимов работы ванны.}{41}{section.4}%
+\contentsline {section}{Заключение}{43}{section*.46}%
 \contentsline {section}{Список литературы}{45}{Item.12}%

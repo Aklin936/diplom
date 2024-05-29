@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.20)  21 APR 2024 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.20)  19 MAY 2024 07:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -692,30 +692,30 @@ Package hyperref Info: Link coloring OFF on input line 32.
 
 
 
-pdfTeX warning: pdflatex.exe (file ./Titul.pdf): PDF inclusion: found PDF versi
-on <1.7>, but at most version <1.5> allowed
-<Titul.pdf, id=87, 597.53635pt x 845.04686pt>
+pdfTeX warning: pdflatex (file ./Titul.pdf): PDF inclusion: found PDF version <
+1.7>, but at most version <1.5> allowed
+<Titul.pdf, id=91, 597.53635pt x 845.04686pt>
 File: Titul.pdf Graphic file (type pdf)
 <use Titul.pdf>
 Package pdftex.def Info: Titul.pdf  used on input line 34.
 (pdftex.def)             Requested size: 597.53488pt x 845.0448pt.
 
 
-pdfTeX warning: pdflatex.exe (file ./Titul.pdf): PDF inclusion: found PDF versi
-on <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./Titul.pdf): PDF inclusion: found PDF version <
+1.7>, but at most version <1.5> allowed
 File: Titul.pdf Graphic file (type pdf)
 <use Titul.pdf>
 Package pdftex.def Info: Titul.pdf  used on input line 34.
 (pdftex.def)             Requested size: 597.53488pt x 845.0448pt.
 
 
-pdfTeX warning: pdflatex.exe (file ./Titul.pdf): PDF inclusion: found PDF versi
-on <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./Titul.pdf): PDF inclusion: found PDF version <
+1.7>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex.exe (file ./Titul.pdf): PDF inclusion: found PDF versi
-on <1.7>, but at most version <1.5> allowed
-<Titul.pdf, id=90, page=1, 597.53635pt x 845.04686pt>
+pdfTeX warning: pdflatex (file ./Titul.pdf): PDF inclusion: found PDF version <
+1.7>, but at most version <1.5> allowed
+<Titul.pdf, id=94, page=1, 597.53635pt x 845.04686pt>
 File: Titul.pdf Graphic file (type pdf)
 <use Titul.pdf, page 1>
 Package pdftex.def Info: Titul.pdf , page1 used on input line 34.
@@ -744,59 +744,59 @@ Package pdftex.def Info: Titul.pdf , page1 used on input line 34.
 \openout4 = `Р”РёРїР»РѕРј.toc'.
 
  [2{C:/Users/РќРёР»/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [3]
-<Electrolizer.jpg, id=164, 504.9264pt x 364.7226pt>
+<Electrolizer.jpg, id=169, 504.9264pt x 364.7226pt>
 File: Electrolizer.jpg Graphic file (type jpg)
 <use Electrolizer.jpg>
 Package pdftex.def Info: Electrolizer.jpg  used on input line 71.
 (pdftex.def)             Requested size: 276.00105pt x 199.36812pt.
  [4 <./Electrolizer.jpg>] [5] [6]
-<scheme.png, id=220, 658.71094pt x 718.18312pt>
+<scheme.png, id=225, 658.71094pt x 718.18312pt>
 File: scheme.png Graphic file (type png)
 <use scheme.png>
 Package pdftex.def Info: scheme.png  used on input line 159.
 (pdftex.def)             Requested size: 276.00105pt x 300.92255pt.
  [7 <./scheme.png>]
-<S.png, id=242, 462.528pt x 320.1561pt>
+<S.png, id=247, 462.528pt x 320.1561pt>
 File: S.png Graphic file (type png)
 <use S.png>
 Package pdftex.def Info: S.png  used on input line 201.
 (pdftex.def)             Requested size: 276.00105pt x 191.05458pt.
  [8]
-<Sa.png, id=261, 462.528pt x 320.1561pt>
+<Sa.png, id=266, 462.528pt x 320.1561pt>
 File: Sa.png Graphic file (type png)
 <use Sa.png>
 Package pdftex.def Info: Sa.png  used on input line 209.
 (pdftex.def)             Requested size: 276.00105pt x 191.05458pt.
-<I.png, id=262, 462.528pt x 320.1561pt>
+<I.png, id=267, 462.528pt x 320.1561pt>
 File: I.png Graphic file (type png)
 <use I.png>
 Package pdftex.def Info: I.png  used on input line 217.
 (pdftex.def)             Requested size: 276.00105pt x 191.05458pt.
  [9 <./S.png> <./Sa.png>]
-<i.png, id=269, 462.528pt x 320.1561pt>
+<i.png, id=274, 462.528pt x 320.1561pt>
 File: i.png Graphic file (type png)
 <use i.png>
 Package pdftex.def Info: i.png  used on input line 225.
 (pdftex.def)             Requested size: 276.00105pt x 191.05458pt.
-<L.png, id=270, 462.528pt x 320.1561pt>
+<L.png, id=275, 462.528pt x 320.1561pt>
 File: L.png Graphic file (type png)
 <use L.png>
 Package pdftex.def Info: L.png  used on input line 233.
 (pdftex.def)             Requested size: 276.00105pt x 191.05458pt.
  [10 <./I.png> <./i.png>]
-<T.png, id=277, 462.528pt x 320.1561pt>
+<T.png, id=282, 462.528pt x 320.1561pt>
 File: T.png Graphic file (type png)
 <use T.png>
 Package pdftex.def Info: T.png  used on input line 241.
 (pdftex.def)             Requested size: 276.00105pt x 191.05458pt.
  [11 <./L.png> <./T.png>]
-<First_surface.png, id=292, 462.528pt x 346.896pt>
+<First_surface.png, id=297, 462.528pt x 346.896pt>
 File: First_surface.png Graphic file (type png)
 <use First_surface.png>
 Package pdftex.def Info: First_surface.png  used on input line 280.
 (pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
  [12] [13 <./First_surface.png>] [14] [15] [16]
-<Second_surface.png, id=342, 462.528pt x 346.896pt>
+<Second_surface.png, id=347, 462.528pt x 346.896pt>
 File: Second_surface.png Graphic file (type png)
 <use Second_surface.png>
 Package pdftex.def Info: Second_surface.png  used on input line 384.
@@ -807,36 +807,36 @@ Underfull \hbox (badness 1067) in paragraph at lines 430--430
  []
 
 [19] [20] [21]
-<РЎРµС‚РєР°.png, id=409, 755.07094pt x 378.66469pt>
+<РЎРµС‚РєР°.png, id=414, 755.07094pt x 378.66469pt>
 File: РЎРµС‚РєР°.png Graphic file (type png)
 <use РЎРµС‚РєР°.png>
 Package pdftex.def Info: РЎРµС‚РєР°.png  used on input line 494.
 (pdftex.def)             Requested size: 276.00105pt x 138.4108pt.
-<Triangle.jpg, id=411, 1173.38374pt x 830.10126pt>
+<Triangle.jpg, id=416, 1173.38374pt x 830.10126pt>
 File: Triangle.jpg Graphic file (type jpg)
 <use Triangle.jpg>
 Package pdftex.def Info: Triangle.jpg  used on input line 504.
 (pdftex.def)             Requested size: 276.00105pt x 195.25114pt.
  [22 <./РЎРµС‚РєР°.png>]
-<triangle_numeration.png, id=420, 505.13719pt x 355.3275pt>
+<triangle_numeration.png, id=425, 505.13719pt x 355.3275pt>
 File: triangle_numeration.png Graphic file (type png)
 <use triangle_numeration.png>
 Package pdftex.def Info: triangle_numeration.png  used on input line 533.
 (pdftex.def)             Requested size: 276.00105pt x 194.14574pt.
  [23 <./Triangle.jpg>] [24 <./triangle_numeration.png>]
-<triangleL.png, id=437, 586.44093pt x 480.29437pt>
+<triangleL.png, id=442, 586.44093pt x 480.29437pt>
 File: triangleL.png Graphic file (type png)
 <use triangleL.png>
 Package pdftex.def Info: triangleL.png  used on input line 582.
 (pdftex.def)             Requested size: 276.00105pt x 226.03885pt.
  [25]
-<triangleOAB.png, id=447, 786.68906pt x 494.59781pt>
+<triangleOAB.png, id=452, 786.68906pt x 494.59781pt>
 File: triangleOAB.png Graphic file (type png)
 <use triangleOAB.png>
 Package pdftex.def Info: triangleOAB.png  used on input line 590.
 (pdftex.def)             Requested size: 276.00105pt x 173.5269pt.
  [26 <./triangleL.png> <./triangleOAB.png>] [27] [28]
-<cylinder.png, id=482, 462.528pt x 346.896pt>
+<cylinder.png, id=487, 462.528pt x 346.896pt>
 File: cylinder.png Graphic file (type png)
 <use cylinder.png>
 Package pdftex.def Info: cylinder.png  used on input line 680.
@@ -848,34 +848,30 @@ Overfull \hbox (20.27693pt too wide) in paragraph at lines 710--717
  []
 
 [30 <./cylinder.png>]
-
-LaTeX Warning: Reference `rable:porTochCylinder' on page 31 undefined on input 
-line 727.
-
-<squareSurf.png, id=506, 462.528pt x 346.896pt>
+<squareSurf.png, id=512, 462.528pt x 346.896pt>
 File: squareSurf.png Graphic file (type png)
 <use squareSurf.png>
 Package pdftex.def Info: squareSurf.png  used on input line 754.
 (pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
-[31 <./squareSurf.png>] [32]
-<h.png, id=532, 462.528pt x 346.896pt>
+ [31 <./squareSurf.png>] [32]
+<h.png, id=538, 462.528pt x 346.896pt>
 File: h.png Graphic file (type png)
 <use h.png>
 Package pdftex.def Info: h.png  used on input line 810.
 (pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
-<h2.png, id=535, 462.528pt x 346.896pt>
+<h2.png, id=541, 462.528pt x 346.896pt>
 File: h2.png Graphic file (type png)
 <use h2.png>
 Package pdftex.def Info: h2.png  used on input line 830.
 (pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
  [33 <./h.png>] [34 <./h2.png>]
-<Surf1.png, id=555, 462.528pt x 346.896pt>
+<Surf1.png, id=561, 462.528pt x 346.896pt>
 File: Surf1.png Graphic file (type png)
 <use Surf1.png>
 Package pdftex.def Info: Surf1.png  used on input line 858.
 (pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
  [35 <./Surf1.png>]
-<Surf2.png, id=567, 462.528pt x 346.896pt>
+<Surf2.png, id=573, 462.528pt x 346.896pt>
 File: Surf2.png Graphic file (type png)
 <use Surf2.png>
 Package pdftex.def Info: Surf2.png  used on input line 884.
@@ -887,13 +883,13 @@ Overfull \hbox (24.67928pt too wide) in paragraph at lines 888--889
  []
 
 [36 <./Surf2.png>]
-<anodeffect.png, id=589, 462.528pt x 346.896pt>
+<anodeffect.png, id=595, 462.528pt x 346.896pt>
 File: anodeffect.png Graphic file (type png)
 <use anodeffect.png>
 Package pdftex.def Info: anodeffect.png  used on input line 918.
 (pdftex.def)             Requested size: 276.00105pt x 207.01175pt.
  [37]
-<anodeffect-.png, id=597, 462.528pt x 346.896pt>
+<anodeffect-.png, id=603, 462.528pt x 346.896pt>
 File: anodeffect-.png Graphic file (type png)
 <use anodeffect-.png>
 Package pdftex.def Info: anodeffect-.png  used on input line 937.
@@ -904,26 +900,26 @@ Overfull \hbox (119.64537pt too wide) in paragraph at lines 1035--1050
  []
 
 [39 <./anodeffect-.png>] [40]
-<hloss.png, id=653, 489.32813pt x 338.76563pt>
+<hloss.png, id=659, 489.32813pt x 338.76563pt>
 File: hloss.png Graphic file (type png)
 <use hloss.png>
 Package pdftex.def Info: hloss.png  used on input line 1062.
 (pdftex.def)             Requested size: 276.00105pt x 191.08244pt.
  [41]
-<surfloss.png, id=663, 489.32813pt x 338.76563pt>
+<surfloss.png, id=669, 489.32813pt x 338.76563pt>
 File: surfloss.png Graphic file (type png)
 <use surfloss.png>
 Package pdftex.def Info: surfloss.png  used on input line 1068.
 (pdftex.def)             Requested size: 276.00105pt x 191.08244pt.
-<anodloss.png, id=664, 489.32813pt x 338.76563pt>
+<anodloss.png, id=670, 489.32813pt x 338.76563pt>
 File: anodloss.png Graphic file (type png)
 <use anodloss.png>
 Package pdftex.def Info: anodloss.png  used on input line 1074.
 (pdftex.def)             Requested size: 276.00105pt x 191.08244pt.
  [42 <./hloss.png> <./surfloss.png>]
-Underfull \hbox (badness 1215) in paragraph at lines 1080--1081
-[]\T2A/cmr/m/n/10 Проведенное в ра-бо-те ис-сле-до-ва-ние поз-во-ля-ют дать ре-
-ко-мен-да-ции
+Underfull \hbox (badness 1067) in paragraph at lines 1080--1081
+\T2A/cmr/m/n/10 из-ме-ре-нию МПР в про-мыш-лен-ной ванне с це-лью опре-де-ле-ни
+я МГД-
  []
 
 [43 <./anodloss.png>] [44] [45] (Р”РёРїР»РѕРј.aux)
@@ -931,21 +927,17 @@ Underfull \hbox (badness 1215) in paragraph at lines 1080--1081
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `Р”РёРїР»РѕРј.out' has not changed.
-(rerunfilecheck)             Checksum: A5ED4B9C3DB6DB2FB560C06A33DC7236;9643.
+(rerunfilecheck)             Checksum: 14B2AE6D66A6DFD1730ED4808BB2D0A5;9769.
  ) 
 Here is how much of TeX's memory you used:
  14665 strings out of 474423
- 232815 string characters out of 5753909
+ 232805 string characters out of 5753909
  1947496 words of memory out of 5000000
  36627 multiletter control sequences out of 15000+600000
  564480 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,17n,79p,2177b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,17n,79p,2179b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\РќРёР»\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1000.pk> <C:\Users\РќРёР»\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
 0\labx1200.pk> <C:\Users\РќРёР»\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
@@ -959,9 +951,9 @@ sfonts/cm/cmr10.pfb><D:/programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb
 ><D:/programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/programs/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmsy7.pfb>
-Output written on Р”РёРїР»РѕРј.pdf (45 pages, 2003779 bytes).
+Output written on Р”РёРїР»РѕРј.pdf (45 pages, 2004784 bytes).
 PDF statistics:
- 1063 PDF objects out of 1200 (max. 8388607)
+ 1069 PDF objects out of 1200 (max. 8388607)
  204 named destinations out of 1000 (max. 500000)
- 319 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 327 words of extra memory for PDF output out of 10000 (max. 10000000)
 

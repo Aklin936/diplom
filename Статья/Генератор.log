@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.20)  15 MAY 2024 08:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.20)  22 MAY 2024 00:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -692,102 +692,149 @@ Package hyperref Info: Link coloring OFF on input line 28.
 \@outlinefile=\write3
 \openout3 = `Генератор.out'.
 
-<спокойная.PNG, id=3, 629.35126pt x 265.74281pt>
-File: спокойная.PNG Graphic file (type png)
-<use спокойная.PNG>
-Package pdftex.def Info: спокойная.PNG  used on input line 70.
+<спокойная поверхность.PNG, id=3, 629.35126pt x 265.74281pt
+>
+File: спокойная поверхность.PNG Graphic file (type png)
+<use спокойная поверхность.PNG>
+Package pdftex.def Info: спокойная поверхность.PNG  used on
+ input line 70.
 (pdftex.def)             Requested size: 6.29004pt x 2.65596pt.
-File: спокойная.PNG Graphic file (type png)
-<use спокойная.PNG>
-Package pdftex.def Info: спокойная.PNG  used on input line 74.
+File: спокойная поверхность.PNG Graphic file (type png)
+<use спокойная поверхность.PNG>
+Package pdftex.def Info: спокойная поверхность.PNG  used on
+ input line 74.
 (pdftex.def)             Requested size: 6.29004pt x 2.65596pt.
-File: спокойная.PNG Graphic file (type png)
-<use спокойная.PNG>
-Package pdftex.def Info: спокойная.PNG  used on input line 78.
+File: спокойная поверхность.PNG Graphic file (type png)
+<use спокойная поверхность.PNG>
+Package pdftex.def Info: спокойная поверхность.PNG  used on
+ input line 78.
 (pdftex.def)             Requested size: 6.29004pt x 2.65596pt.
-File: спокойная.PNG Graphic file (type png)
-<use спокойная.PNG>
-Package pdftex.def Info: спокойная.PNG  used on input line 82.
+File: спокойная поверхность.PNG Graphic file (type png)
+<use спокойная поверхность.PNG>
+Package pdftex.def Info: спокойная поверхность.PNG  used on
+ input line 82.
 (pdftex.def)             Requested size: 6.29004pt x 2.65596pt.
-File: спокойная.PNG Graphic file (type png)
-<use спокойная.PNG>
-Package pdftex.def Info: спокойная.PNG  used on input line 86.
+File: спокойная поверхность.PNG Graphic file (type png)
+<use спокойная поверхность.PNG>
+Package pdftex.def Info: спокойная поверхность.PNG  used on
+ input line 86.
 (pdftex.def)             Requested size: 6.29004pt x 2.65596pt.
-File: спокойная.PNG Graphic file (type png)
-<use спокойная.PNG>
-Package pdftex.def Info: спокойная.PNG  used on input line 90.
+File: спокойная поверхность.PNG Graphic file (type png)
+<use спокойная поверхность.PNG>
+Package pdftex.def Info: спокойная поверхность.PNG  used on
+ input line 90.
 (pdftex.def)             Requested size: 6.29004pt x 2.65596pt.
-File: спокойная.PNG Graphic file (type png)
-<use спокойная.PNG>
-Package pdftex.def Info: спокойная.PNG  used on input line 94.
+File: спокойная поверхность.PNG Graphic file (type png)
+<use спокойная поверхность.PNG>
+Package pdftex.def Info: спокойная поверхность.PNG  used on
+ input line 94.
 (pdftex.def)             Requested size: 6.29004pt x 2.65596pt.
-File: спокойная.PNG Graphic file (type png)
-<use спокойная.PNG>
-Package pdftex.def Info: спокойная.PNG  used on input line 98.
+File: спокойная поверхность.PNG Graphic file (type png)
+<use спокойная поверхность.PNG>
+Package pdftex.def Info: спокойная поверхность.PNG  used on
+ input line 98.
 (pdftex.def)             Requested size: 6.29004pt x 2.65596pt.
  [1
 
 {C:/Users/Нил/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./спок�
-�йная.PNG>]
-File: спокойная.PNG Graphic file (type png)
-<use спокойная.PNG>
-Package pdftex.def Info: спокойная.PNG  used on input line 104.
+�йная поверхность.PNG>]
+File: спокойная поверхность.PNG Graphic file (type png)
+<use спокойная поверхность.PNG>
+Package pdftex.def Info: спокойная поверхность.PNG  used on
+ input line 104.
 (pdftex.def)             Requested size: 569.05511pt x 240.29358pt.
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 104--105
+Overfull \hbox (110.2441pt too wide) in paragraph at lines 104--105
 []| [] 
  []
 
-<выемка анодов.PNG, id=22, 646.66594pt x 295.1025pt>
-File: выемка анодов.PNG Graphic file (type png)
-<use выемка анодов.PNG>
-Package pdftex.def Info: выемка анодов.PNG  used on input line 109.
+<Выемка анодов поверхность.PNG, id=22, 666.23906pt x 300
+.3722pt>
+File: Выемка анодов поверхность.PNG Graphic file (type p
+ng)
+<use Выемка анодов поверхность.PNG>
+Package pdftex.def Info: Выемка анодов поверхность.PNG  
+used on input line 109.
+(pdftex.def)             Requested size: 569.05511pt x 256.57338pt.
 
-(pdftex.def)             Requested size: 512.1496pt x 233.72728pt.
-
-Overfull \hbox (24.88582pt too wide) in paragraph at lines 109--110
+Overfull \hbox (110.2441pt too wide) in paragraph at lines 109--110
 []| [] 
  []
 
 [2]
-<анодный эффект.PNG, id=30, 631.60968pt x 286.06876pt>
-File: анодный эффект.PNG Graphic file (type png)
-<use анодный эффект.PNG>
-Package pdftex.def Info: анодный эффект.PNG  used on input line 11
-4.
-(pdftex.def)             Requested size: 512.1496pt x 231.97632pt.
+<Анодный эффект поверхность.PNG, id=30, 680.5425pt x 34
+0.27126pt>
+File: Анодный эффект поверхность.PNG Graphic file (type
+ png)
+<use Анодный эффект поверхность.PNG>
+Package pdftex.def Info: Анодный эффект поверхность.PNG
+  used on input line 114.
+(pdftex.def)             Requested size: 569.05511pt x 284.54344pt.
 
-Overfull \hbox (24.88582pt too wide) in paragraph at lines 114--115
+Overfull \hbox (110.2441pt too wide) in paragraph at lines 114--115
 []| [] 
  []
 
-[3 <./выемка анодов.PNG> <./анодный эффект.PNG>]
+[3 <./Выемка анодов поверхность.PNG>]
+<h.PNG, id=37, 190.7928pt x 108.1641pt>
+File: h.PNG Graphic file (type png)
+<use h.PNG>
+Package pdftex.def Info: h.PNG  used on input line 123.
+(pdftex.def)             Requested size: 569.05511pt x 322.67926pt.
+
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 123--124
+[]| [] 
+ []
+
+[4 <./Анодный эффект поверхность.PNG>]
+<выемка анодов.PNG, id=46, 181.3977pt x 112.2594pt>
+File: выемка анодов.PNG Graphic file (type png)
+<use выемка анодов.PNG>
+Package pdftex.def Info: выемка анодов.PNG  used on input line 128.
+
+(pdftex.def)             Requested size: 569.05511pt x 352.20575pt.
+
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 128--129
+[]| [] 
+ []
+
+[5 <./h.PNG>]
+<анодный эффект.PNG, id=52, 185.2521pt x 105.0324pt>
+File: анодный эффект.PNG Graphic file (type png)
+<use анодный эффект.PNG>
+Package pdftex.def Info: анодный эффект.PNG  used on input line 13
+3.
+(pdftex.def)             Requested size: 569.05511pt x 322.63853pt.
+
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 133--134
+[]| [] 
+ []
+
+[6 <./выемка анодов.PNG>] [7 <./анодный эффект.PNG>]
 (Генератор.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `Генератор.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14153 strings out of 474423
- 225703 string characters out of 5753909
+ 14181 strings out of 474423
+ 226860 string characters out of 5753909
  1944496 words of memory out of 5000000
- 36311 multiletter control sequences out of 15000+600000
+ 36332 multiletter control sequences out of 15000+600000
  560083 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,269b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,1009b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Нил\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1
 000.pk><D:/programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on Генератор.pdf (3 pages, 422075 bytes).
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb><D:/programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmsy7.pfb>
+Output written on Генератор.pdf (7 pages, 544728 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
