@@ -1,0 +1,113 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.6.5)  12 JUN 2024 17:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./mythesis_utf.tex
+(mythesis_utf.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+
+! LaTeX Error: Environment vkrthesis undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{vkrthesis}
+                     %
+? 
+
+! LaTeX Error: Unicode character О (U+041E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 {О
+       б одном решении одной задачи}%
+? 
+
+! LaTeX Error: Unicode character б (U+0431)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 {Об
+          одном решении одной задачи}%
+? 
+
+! LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 {Об о
+            дном решении одной задачи}%
+? 
+
+! LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 {Об од
+              ном решении одной задачи}%
+? 
+
+! LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 {Об одн
+                ом решении одной задачи}%
+? 
+
+! LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 {Об одно
+                  м решении одной задачи}%
+? 
+
+! LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 {Об одном
+                     решении одной задачи}%
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.2 {Об одном
+                     решении одной задачи}%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+ 
+Here is how much of TeX's memory you used:
+ 23 strings out of 474423
+ 627 string characters out of 5753910
+ 1925496 words of memory out of 5000000
+ 22471 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 12i,0n,13p,84b,24s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
